@@ -1,0 +1,1501 @@
+listing_id,locality,zone,latitude,longitude,year,month,bhk,bathrooms,area_sqft,floor,age_years,property_type,furnishing,price_inr,price_per_sqft
+MUM-10685,Andheri East,Western Suburbs,19.1155,72.8678,2019,12,4,4,2232,25,0,Apartment,Unfurnished,28500000,12769
+MUM-10709,Andheri East,Western Suburbs,19.1165,72.8687,2019,1,2,2,850,11,23,Apartment,Semi-Furnished,11100000,13059
+MUM-10737,Andheri East,Western Suburbs,19.1157,72.8714,2019,4,1,1,576,21,0,Apartment,Semi-Furnished,8200000,14236
+MUM-10839,Andheri East,Western Suburbs,19.1137,72.8753,2019,6,3,3,1413,18,9,Apartment,Unfurnished,18200000,12880
+MUM-11421,Andheri East,Western Suburbs,19.1157,72.8704,2019,6,1,1,519,1,0,Apartment,Unfurnished,6100000,11753
+MUM-10145,Andheri West,Western Suburbs,19.1431,72.8304,2019,8,3,3,1490,14,16,Apartment,Unfurnished,22000000,14765
+MUM-10273,Andheri West,Western Suburbs,19.1341,72.8283,2019,4,2,2,921,20,3,Apartment,Unfurnished,15300000,16612
+MUM-10344,Andheri West,Western Suburbs,19.1326,72.8299,2019,3,2,2,736,22,16,Apartment,Unfurnished,12000000,16304
+MUM-10598,Andheri West,Western Suburbs,19.1352,72.8318,2019,1,2,1,720,11,4,Apartment,Semi-Furnished,12800000,17778
+MUM-10806,Andheri West,Western Suburbs,19.1415,72.8274,2019,8,2,2,849,22,20,Apartment,Unfurnished,13600000,16019
+MUM-11315,Andheri West,Western Suburbs,19.145,72.8265,2019,9,2,1,861,9,14,Apartment,Unfurnished,11800000,13705
+MUM-10207,Bandra West,Western Suburbs,19.0612,72.831,2019,5,2,2,810,13,5,Apartment,Unfurnished,20000000,24691
+MUM-11049,Bandra West,Western Suburbs,19.0591,72.8263,2019,8,1,1,521,3,25,Apartment,Semi-Furnished,13400000,25720
+MUM-10132,Borivali West,Western Suburbs,19.2299,72.8487,2019,2,2,2,1009,21,11,Apartment,Semi-Furnished,11400000,11298
+MUM-10233,Borivali West,Western Suburbs,19.2293,72.8522,2019,1,2,2,833,17,19,Apartment,Unfurnished,8500000,10204
+MUM-10296,Borivali West,Western Suburbs,19.2269,72.8545,2019,9,1,1,562,28,6,Apartment,Unfurnished,6600000,11744
+MUM-11238,Borivali West,Western Suburbs,19.2279,72.8533,2019,1,3,4,1333,9,20,Apartment,Fully Furnished,15900000,11928
+MUM-11295,Borivali West,Western Suburbs,19.2268,72.8506,2019,11,2,2,870,21,18,Apartment,Unfurnished,9900000,11379
+MUM-10042,Chembur,Eastern Suburbs,19.0596,72.8941,2019,1,1,1,613,23,14,Apartment,Semi-Furnished,7500000,12235
+MUM-10075,Chembur,Eastern Suburbs,19.0579,72.9082,2019,11,3,3,1384,30,16,Apartment,Semi-Furnished,17500000,12645
+MUM-10514,Chembur,Eastern Suburbs,19.062,72.8948,2019,11,2,2,841,28,3,Apartment,Fully Furnished,11400000,13555
+MUM-10714,Chembur,Eastern Suburbs,19.072,72.8969,2019,8,3,3,1338,12,6,Apartment,Unfurnished,16900000,12631
+MUM-10828,Chembur,Eastern Suburbs,19.058,72.8987,2019,10,2,2,857,24,13,Apartment,Unfurnished,10600000,12369
+MUM-10868,Chembur,Eastern Suburbs,19.0626,72.9028,2019,1,2,2,929,2,18,Apartment,Unfurnished,11600000,12487
+MUM-10945,Chembur,Eastern Suburbs,19.0585,72.9018,2019,11,3,3,1232,25,25,Apartment,Fully Furnished,15200000,12338
+MUM-11085,Chembur,Eastern Suburbs,19.0561,72.9012,2019,2,3,3,1381,17,4,Apartment,Fully Furnished,18200000,13179
+MUM-11112,Chembur,Eastern Suburbs,19.0637,72.8988,2019,4,4,4,1756,9,1,Apartment,Semi-Furnished,22700000,12927
+MUM-11446,Chembur,Eastern Suburbs,19.0616,72.8958,2019,5,2,2,891,28,21,Apartment,Unfurnished,12300000,13805
+MUM-11494,Chembur,Eastern Suburbs,19.0587,72.8994,2019,1,4,4,1876,25,15,Apartment,Unfurnished,26300000,14019
+MUM-10041,Colaba,South Mumbai,18.9075,72.8191,2019,1,3,3,1639,8,20,Apartment,Fully Furnished,50500000,30811
+MUM-10229,Colaba,South Mumbai,18.9119,72.8157,2019,10,3,3,1499,9,6,Apartment,Unfurnished,45900000,30620
+MUM-10610,Colaba,South Mumbai,18.9065,72.8134,2019,3,3,4,1181,29,6,Apartment,Unfurnished,38700000,32769
+MUM-11063,Colaba,South Mumbai,18.9104,72.8088,2019,10,3,3,1522,19,25,Apartment,Unfurnished,46300000,30420
+MUM-10189,Dadar West,South Mumbai,19.0213,72.8494,2019,3,2,2,910,3,11,Apartment,Unfurnished,16500000,18132
+MUM-10291,Dadar West,South Mumbai,19.0202,72.8481,2019,10,2,2,1028,19,4,Apartment,Semi-Furnished,22200000,21595
+MUM-10367,Dadar West,South Mumbai,19.0181,72.8421,2019,8,3,4,1555,9,13,Apartment,Semi-Furnished,28200000,18135
+MUM-10918,Dadar West,South Mumbai,19.0212,72.8533,2019,1,3,3,1216,7,3,Apartment,Semi-Furnished,23900000,19655
+MUM-10958,Dadar West,South Mumbai,19.0155,72.8523,2019,4,2,1,921,13,4,Apartment,Unfurnished,20000000,21716
+MUM-11256,Dadar West,South Mumbai,19.0112,72.8473,2019,2,3,3,1101,27,23,Apartment,Semi-Furnished,20100000,18256
+MUM-10168,Goregaon West,Western Suburbs,19.1639,72.8457,2019,7,2,2,884,1,19,Apartment,Fully Furnished,11300000,12783
+MUM-10224,Goregaon West,Western Suburbs,19.1613,72.8533,2019,7,3,3,1104,15,5,Apartment,Semi-Furnished,14400000,13043
+MUM-10226,Goregaon West,Western Suburbs,19.1735,72.8498,2019,6,1,2,632,8,7,Apartment,Unfurnished,6700000,10601
+MUM-10399,Goregaon West,Western Suburbs,19.1671,72.861,2019,3,1,1,530,14,2,Apartment,Fully Furnished,7300000,13774
+MUM-10437,Goregaon West,Western Suburbs,19.1599,72.8515,2019,3,2,2,757,27,17,Apartment,Semi-Furnished,7500000,9908
+MUM-10453,Goregaon West,Western Suburbs,19.1675,72.8483,2019,3,2,2,741,30,17,Apartment,Unfurnished,8200000,11066
+MUM-10931,Goregaon West,Western Suburbs,19.165,72.8549,2019,7,2,1,1037,4,2,Apartment,Semi-Furnished,11900000,11475
+MUM-10612,Juhu,Western Suburbs,19.1053,72.834,2019,1,3,3,1159,3,4,Apartment,Fully Furnished,27800000,23986
+MUM-10647,Juhu,Western Suburbs,19.1073,72.8211,2019,9,4,4,2592,12,16,Apartment,Unfurnished,59200000,22840
+MUM-10940,Juhu,Western Suburbs,19.1049,72.8286,2019,5,2,2,797,3,18,Apartment,Unfurnished,18200000,22836
+MUM-10965,Juhu,Western Suburbs,19.1018,72.8298,2019,10,3,3,1268,28,4,Apartment,Unfurnished,26700000,21057
+MUM-11351,Juhu,Western Suburbs,19.1051,72.8239,2019,11,2,2,1026,25,1,Apartment,Unfurnished,22700000,22125
+MUM-11376,Juhu,Western Suburbs,19.1088,72.8268,2019,8,1,1,496,15,8,Apartment,Unfurnished,10800000,21774
+MUM-11379,Juhu,Western Suburbs,19.104,72.8271,2019,6,3,3,1388,27,0,Apartment,Unfurnished,31400000,22622
+MUM-10055,Kandivali West,Western Suburbs,19.2131,72.8497,2019,11,2,2,966,28,14,Apartment,Unfurnished,9900000,10248
+MUM-10559,Kandivali West,Western Suburbs,19.2068,72.8513,2019,8,1,1,575,24,23,Apartment,Fully Furnished,6200000,10783
+MUM-10710,Kandivali West,Western Suburbs,19.2028,72.8513,2019,11,2,2,906,28,9,Apartment,Semi-Furnished,10200000,11258
+MUM-10743,Kandivali West,Western Suburbs,19.2043,72.8542,2019,9,2,2,979,2,23,Apartment,Semi-Furnished,9600000,9806
+MUM-11051,Kandivali West,Western Suburbs,19.2024,72.8489,2019,11,3,3,1562,10,20,Apartment,Semi-Furnished,15600000,9987
+MUM-10005,Lower Parel,South Mumbai,19.006,72.8265,2019,6,3,3,1525,17,17,Apartment,Semi-Furnished,33500000,21967
+MUM-10196,Lower Parel,South Mumbai,18.9988,72.8304,2019,9,2,2,947,14,5,Apartment,Unfurnished,21100000,22281
+MUM-10378,Lower Parel,South Mumbai,18.9993,72.8234,2019,2,2,2,1035,28,13,Apartment,Semi-Furnished,21300000,20580
+MUM-10425,Lower Parel,South Mumbai,19.0045,72.836,2019,12,3,3,1414,26,1,Apartment,Semi-Furnished,30000000,21216
+MUM-10533,Lower Parel,South Mumbai,19.0008,72.8305,2019,1,3,3,1440,9,2,Apartment,Semi-Furnished,34800000,24167
+MUM-10028,Malabar Hill,South Mumbai,18.9551,72.799,2019,8,4,4,2450,28,20,Apartment,Fully Furnished,92200000,37633
+MUM-10139,Malabar Hill,South Mumbai,18.9614,72.8012,2019,1,3,3,1493,3,11,Apartment,Semi-Furnished,50500000,33825
+MUM-10200,Malabar Hill,South Mumbai,18.9566,72.7988,2019,9,2,2,1046,10,13,Apartment,Fully Furnished,47500000,45411
+MUM-10305,Malabar Hill,South Mumbai,18.9557,72.8071,2019,10,3,3,1368,3,19,Apartment,Unfurnished,49900000,36477
+MUM-11120,Malabar Hill,South Mumbai,18.95,72.7942,2019,4,2,2,1017,20,22,Apartment,Unfurnished,34900000,34317
+MUM-11126,Malabar Hill,South Mumbai,18.9586,72.7983,2019,3,3,3,1311,3,21,Penthouse,Semi-Furnished,66500000,50725
+MUM-11281,Malabar Hill,South Mumbai,18.9556,72.8004,2019,12,1,1,536,4,2,Apartment,Semi-Furnished,21600000,40299
+MUM-10275,Malad West,Western Suburbs,19.193,72.8513,2019,3,4,4,2577,8,25,Apartment,Semi-Furnished,23800000,9236
+MUM-10288,Malad West,Western Suburbs,19.1899,72.8483,2019,12,2,3,771,24,3,Apartment,Fully Furnished,8500000,11025
+MUM-10445,Malad West,Western Suburbs,19.1959,72.8455,2019,9,3,2,1276,16,6,Apartment,Semi-Furnished,15100000,11834
+MUM-10872,Malad West,Western Suburbs,19.1862,72.842,2019,11,2,2,967,15,16,Apartment,Unfurnished,11200000,11582
+MUM-11058,Malad West,Western Suburbs,19.1902,72.8451,2019,9,3,4,1137,11,18,Apartment,Unfurnished,12400000,10906
+MUM-11359,Malad West,Western Suburbs,19.1827,72.8481,2019,1,3,3,1289,23,2,Apartment,Semi-Furnished,14100000,10939
+MUM-10687,Mulund West,Central Suburbs,19.1782,72.9563,2019,2,2,2,808,16,5,Apartment,Unfurnished,7700000,9530
+MUM-10925,Mulund West,Central Suburbs,19.1745,72.9587,2019,3,2,2,781,7,4,Apartment,Fully Furnished,8500000,10883
+MUM-11200,Mulund West,Central Suburbs,19.1727,72.953,2019,9,4,4,2291,19,15,Apartment,Unfurnished,20700000,9035
+MUM-11455,Mulund West,Central Suburbs,19.1752,72.9568,2019,5,1,1,623,30,1,Apartment,Fully Furnished,6500000,10433
+MUM-10176,Powai,Eastern Suburbs,19.1282,72.9032,2019,1,2,2,945,3,11,Apartment,Unfurnished,11100000,11746
+MUM-10230,Powai,Eastern Suburbs,19.1186,72.9139,2019,5,2,2,994,20,2,Apartment,Fully Furnished,13800000,13883
+MUM-10418,Powai,Eastern Suburbs,19.1155,72.9021,2019,7,2,2,951,4,20,Apartment,Semi-Furnished,12200000,12829
+MUM-10506,Powai,Eastern Suburbs,19.1206,72.9023,2019,9,3,3,1299,16,18,Penthouse,Unfurnished,18300000,14088
+MUM-10729,Powai,Eastern Suburbs,19.1212,72.9121,2019,10,4,4,2216,29,24,Villa,Unfurnished,29600000,13357
+MUM-10758,Powai,Eastern Suburbs,19.1162,72.9046,2019,4,2,3,759,11,21,Apartment,Semi-Furnished,9400000,12385
+MUM-10335,Santacruz West,Western Suburbs,19.0809,72.8382,2019,1,2,2,824,2,6,Apartment,Unfurnished,16200000,19660
+MUM-10638,Santacruz West,Western Suburbs,19.0794,72.8376,2019,3,2,2,953,4,12,Apartment,Unfurnished,18400000,19307
+MUM-10960,Santacruz West,Western Suburbs,19.0752,72.8368,2019,6,1,2,460,25,19,Apartment,Fully Furnished,9000000,19565
+MUM-11324,Santacruz West,Western Suburbs,19.0764,72.8356,2019,8,4,4,2409,16,10,Apartment,Unfurnished,52000000,21586
+MUM-10331,Thane West,Thane / Navi Mumbai,19.2183,72.9753,2019,11,1,1,437,16,17,Apartment,Unfurnished,3900000,8924
+MUM-10337,Thane West,Thane / Navi Mumbai,19.2118,72.976,2019,4,3,3,1227,12,11,Apartment,Unfurnished,10300000,8394
+MUM-10423,Thane West,Thane / Navi Mumbai,19.2206,72.9781,2019,1,2,1,728,8,21,Apartment,Unfurnished,6000000,8242
+MUM-10668,Thane West,Thane / Navi Mumbai,19.226,72.9754,2019,10,3,4,1172,22,18,Apartment,Fully Furnished,9600000,8191
+MUM-10847,Thane West,Thane / Navi Mumbai,19.2148,72.9733,2019,11,3,2,1321,8,11,Apartment,Semi-Furnished,12500000,9463
+MUM-11398,Thane West,Thane / Navi Mumbai,19.214,72.9844,2019,8,1,1,505,29,23,Apartment,Semi-Furnished,3600000,7129
+MUM-11442,Thane West,Thane / Navi Mumbai,19.217,72.9741,2019,10,2,2,985,10,19,Apartment,Unfurnished,8000000,8122
+MUM-11479,Thane West,Thane / Navi Mumbai,19.2219,72.9819,2019,12,2,3,876,5,9,Apartment,Unfurnished,7300000,8333
+MUM-10022,Vashi,Thane / Navi Mumbai,19.0871,73.0055,2019,3,2,1,1026,4,21,Apartment,Semi-Furnished,10000000,9747
+MUM-10535,Vashi,Thane / Navi Mumbai,19.0776,73.0057,2019,11,1,1,511,8,9,Apartment,Fully Furnished,5200000,10176
+MUM-11002,Vashi,Thane / Navi Mumbai,19.0762,72.9996,2019,8,2,2,819,10,5,Apartment,Unfurnished,8600000,10501
+MUM-11331,Vashi,Thane / Navi Mumbai,19.0803,73.0004,2019,6,3,3,1581,16,18,Apartment,Fully Furnished,17100000,10816
+MUM-10071,Vile Parle West,Western Suburbs,19.0959,72.845,2019,5,3,2,1336,7,5,Apartment,Unfurnished,25700000,19237
+MUM-10121,Vile Parle West,Western Suburbs,19.0894,72.8395,2019,3,2,2,833,13,6,Apartment,Semi-Furnished,15000000,18007
+MUM-10214,Vile Parle West,Western Suburbs,19.1029,72.8416,2019,5,2,2,958,3,0,Apartment,Fully Furnished,19400000,20251
+MUM-10519,Vile Parle West,Western Suburbs,19.0991,72.846,2019,8,4,4,1732,24,10,Apartment,Unfurnished,29700000,17148
+MUM-10702,Vile Parle West,Western Suburbs,19.0984,72.8456,2019,9,2,2,838,10,16,Apartment,Unfurnished,14200000,16945
+MUM-10840,Vile Parle West,Western Suburbs,19.0973,72.847,2019,5,3,3,1340,13,17,Apartment,Semi-Furnished,23600000,17612
+MUM-10999,Vile Parle West,Western Suburbs,19.1,72.8488,2019,9,2,2,1006,6,0,Apartment,Semi-Furnished,18200000,18091
+MUM-11267,Vile Parle West,Western Suburbs,19.0977,72.8491,2019,1,2,1,748,25,21,Apartment,Fully Furnished,13500000,18048
+MUM-11424,Vile Parle West,Western Suburbs,19.0967,72.8471,2019,4,1,1,569,10,8,Apartment,Semi-Furnished,10400000,18278
+MUM-10409,Worli,South Mumbai,18.9991,72.8193,2019,7,2,2,798,30,2,Apartment,Semi-Furnished,22800000,28571
+MUM-10721,Worli,South Mumbai,19.0052,72.8201,2019,5,4,4,2084,19,11,Apartment,Unfurnished,50600000,24280
+MUM-10851,Worli,South Mumbai,18.9987,72.8123,2019,10,1,1,460,12,9,Apartment,Unfurnished,11900000,25870
+MUM-11322,Worli,South Mumbai,18.9996,72.8158,2019,2,1,1,601,14,0,Apartment,Semi-Furnished,16300000,27121
+MUM-11388,Worli,South Mumbai,18.9972,72.819,2019,7,2,1,1039,16,15,Apartment,Semi-Furnished,27600000,26564
+MUM-11410,Worli,South Mumbai,18.9983,72.817,2019,10,3,3,1581,12,23,Apartment,Semi-Furnished,34500000,21822
+MUM-10194,Andheri East,Western Suburbs,19.1059,72.8664,2020,9,3,3,1165,15,10,Apartment,Unfurnished,14400000,12361
+MUM-10365,Andheri East,Western Suburbs,19.1067,72.869,2020,3,3,2,1196,18,6,Apartment,Unfurnished,14600000,12207
+MUM-10461,Andheri East,Western Suburbs,19.1113,72.8694,2020,8,2,1,781,29,14,Apartment,Unfurnished,8600000,11012
+MUM-10624,Andheri East,Western Suburbs,19.1202,72.8684,2020,6,4,4,1948,19,14,Apartment,Unfurnished,23100000,11858
+MUM-10706,Andheri East,Western Suburbs,19.1166,72.8618,2020,10,1,1,572,30,20,Apartment,Unfurnished,7600000,13287
+MUM-10980,Andheri East,Western Suburbs,19.1122,72.8713,2020,11,2,2,960,30,1,Apartment,Unfurnished,12000000,12500
+MUM-11215,Andheri East,Western Suburbs,19.1181,72.868,2020,8,1,1,605,10,14,Apartment,Fully Furnished,6900000,11405
+MUM-11328,Andheri East,Western Suburbs,19.1173,72.8721,2020,12,3,3,1446,25,11,Apartment,Unfurnished,14300000,9889
+MUM-11428,Andheri East,Western Suburbs,19.1135,72.8701,2020,2,3,4,1312,23,8,Apartment,Fully Furnished,18200000,13872
+MUM-10052,Andheri West,Western Suburbs,19.1416,72.8272,2020,4,3,4,1173,26,5,Apartment,Semi-Furnished,17900000,15260
+MUM-10956,Andheri West,Western Suburbs,19.1343,72.8185,2020,2,1,1,599,25,8,Apartment,Semi-Furnished,9100000,15192
+MUM-11087,Andheri West,Western Suburbs,19.1442,72.8246,2020,11,2,2,733,20,11,Apartment,Semi-Furnished,12000000,16371
+MUM-11403,Andheri West,Western Suburbs,19.1379,72.8302,2020,10,1,1,466,16,25,Apartment,Unfurnished,6500000,13948
+MUM-10151,Bandra West,Western Suburbs,19.0648,72.8282,2020,3,2,2,952,28,7,Apartment,Unfurnished,22900000,24055
+MUM-10155,Bandra West,Western Suburbs,19.0627,72.8327,2020,11,1,1,592,2,1,Apartment,Unfurnished,14600000,24662
+MUM-10246,Bandra West,Western Suburbs,19.0626,72.8284,2020,1,4,4,2521,19,6,Apartment,Fully Furnished,70900000,28124
+MUM-10351,Bandra West,Western Suburbs,19.0559,72.8358,2020,1,2,1,1046,24,5,Apartment,Fully Furnished,26100000,24952
+MUM-10575,Bandra West,Western Suburbs,19.0609,72.8159,2020,7,3,3,1628,10,2,Apartment,Semi-Furnished,43200000,26536
+MUM-10645,Bandra West,Western Suburbs,19.0592,72.8296,2020,2,3,2,1124,17,2,Apartment,Unfurnished,31700000,28203
+MUM-10858,Bandra West,Western Suburbs,19.0556,72.8247,2020,10,4,4,2236,7,3,Apartment,Semi-Furnished,61100000,27326
+MUM-10947,Bandra West,Western Suburbs,19.053,72.8321,2020,2,1,1,528,1,22,Apartment,Unfurnished,11900000,22538
+MUM-11499,Bandra West,Western Suburbs,19.0641,72.8282,2020,2,2,2,1043,3,23,Apartment,Semi-Furnished,25800000,24736
+MUM-10143,Borivali West,Western Suburbs,19.2182,72.85,2020,7,4,4,2387,16,4,Apartment,Semi-Furnished,27100000,11353
+MUM-10147,Borivali West,Western Suburbs,19.2284,72.8618,2020,4,1,1,506,22,16,Apartment,Fully Furnished,5300000,10474
+MUM-10286,Borivali West,Western Suburbs,19.2267,72.8566,2020,9,2,2,826,30,4,Apartment,Unfurnished,9000000,10896
+MUM-10654,Borivali West,Western Suburbs,19.2253,72.8504,2020,6,3,4,1275,19,7,Apartment,Unfurnished,15600000,12235
+MUM-11099,Borivali West,Western Suburbs,19.2375,72.855,2020,10,3,3,1568,28,2,Apartment,Semi-Furnished,21000000,13393
+MUM-11123,Borivali West,Western Suburbs,19.2288,72.8535,2020,5,1,1,599,26,0,Apartment,Semi-Furnished,6100000,10184
+MUM-11224,Borivali West,Western Suburbs,19.2283,72.8588,2020,3,1,1,571,15,1,Apartment,Unfurnished,7100000,12434
+MUM-11236,Borivali West,Western Suburbs,19.2203,72.8576,2020,2,2,1,1016,13,25,Apartment,Unfurnished,10600000,10433
+MUM-11456,Borivali West,Western Suburbs,19.2303,72.8527,2020,12,2,2,935,8,17,Apartment,Semi-Furnished,12100000,12941
+MUM-10019,Chembur,Eastern Suburbs,19.062,72.8993,2020,4,1,1,504,9,15,Apartment,Unfurnished,5900000,11706
+MUM-10094,Chembur,Eastern Suburbs,19.0628,72.9035,2020,11,2,1,1035,8,4,Apartment,Unfurnished,13900000,13430
+MUM-10317,Chembur,Eastern Suburbs,19.0606,72.8946,2020,1,2,2,810,1,14,Apartment,Unfurnished,9400000,11605
+MUM-10605,Chembur,Eastern Suburbs,19.07,72.8996,2020,10,1,1,543,15,12,Studio,Unfurnished,5800000,10681
+MUM-10804,Chembur,Eastern Suburbs,19.0631,72.9066,2020,12,4,4,2328,7,14,Apartment,Unfurnished,25700000,11040
+MUM-10815,Chembur,Eastern Suburbs,19.0569,72.8995,2020,7,2,2,855,7,19,Apartment,Unfurnished,10900000,12749
+MUM-10987,Chembur,Eastern Suburbs,19.0623,72.9021,2020,2,2,2,938,6,17,Apartment,Unfurnished,9900000,10554
+MUM-11443,Chembur,Eastern Suburbs,19.059,72.8964,2020,7,3,3,1286,26,6,Apartment,Unfurnished,14600000,11353
+MUM-11448,Chembur,Eastern Suburbs,19.0641,72.8987,2020,8,2,2,1000,13,23,Apartment,Fully Furnished,13600000,13600
+MUM-11469,Chembur,Eastern Suburbs,19.0667,72.9057,2020,2,2,2,744,13,15,Apartment,Fully Furnished,9700000,13038
+MUM-10310,Colaba,South Mumbai,18.9034,72.8097,2020,3,3,3,1112,9,14,Apartment,Unfurnished,31600000,28417
+MUM-10380,Colaba,South Mumbai,18.9038,72.8144,2020,7,1,1,512,22,19,Apartment,Fully Furnished,17000000,33203
+MUM-10463,Colaba,South Mumbai,18.9026,72.8077,2020,4,3,2,1416,11,5,Apartment,Semi-Furnished,41800000,29520
+MUM-10756,Colaba,South Mumbai,18.9058,72.8208,2020,1,2,2,865,14,20,Apartment,Semi-Furnished,25500000,29480
+MUM-11188,Colaba,South Mumbai,18.9118,72.819,2020,8,4,3,2344,22,20,Penthouse,Unfurnished,102900000,43899
+MUM-11199,Colaba,South Mumbai,18.905,72.8158,2020,9,3,3,1364,11,4,Apartment,Unfurnished,39600000,29032
+MUM-10636,Dadar West,South Mumbai,19.0202,72.8499,2020,5,2,2,968,20,23,Apartment,Semi-Furnished,17300000,17872
+MUM-10674,Dadar West,South Mumbai,19.0115,72.8494,2020,8,4,4,1839,11,10,Penthouse,Fully Furnished,48700000,26482
+MUM-10849,Dadar West,South Mumbai,19.0143,72.8397,2020,4,3,2,1520,18,6,Penthouse,Semi-Furnished,39000000,25658
+MUM-10985,Dadar West,South Mumbai,19.0192,72.8442,2020,10,2,2,904,12,23,Apartment,Unfurnished,14000000,15487
+MUM-10597,Goregaon West,Western Suburbs,19.1658,72.8572,2020,5,2,2,878,17,6,Apartment,Fully Furnished,10700000,12187
+MUM-10649,Goregaon West,Western Suburbs,19.1638,72.8517,2020,8,1,2,489,23,0,Apartment,Unfurnished,5900000,12065
+MUM-10893,Goregaon West,Western Suburbs,19.1641,72.8508,2020,9,3,3,1096,13,10,Apartment,Unfurnished,12200000,11131
+MUM-11181,Goregaon West,Western Suburbs,19.1668,72.8517,2020,4,1,1,583,19,15,Apartment,Unfurnished,7700000,13208
+MUM-10384,Juhu,Western Suburbs,19.0995,72.8214,2020,11,1,1,534,19,8,Apartment,Unfurnished,11700000,21910
+MUM-10387,Juhu,Western Suburbs,19.1072,72.8221,2020,1,4,4,2216,18,3,Apartment,Unfurnished,46600000,21029
+MUM-10722,Juhu,Western Suburbs,19.1007,72.8245,2020,6,1,1,546,1,5,Apartment,Unfurnished,10800000,19780
+MUM-11066,Juhu,Western Suburbs,19.1055,72.825,2020,10,1,1,425,15,9,Apartment,Unfurnished,9700000,22824
+MUM-11090,Juhu,Western Suburbs,19.107,72.8304,2020,1,1,1,577,5,16,Apartment,Semi-Furnished,14700000,25477
+MUM-11130,Juhu,Western Suburbs,19.1086,72.8154,2020,9,2,2,782,22,18,Apartment,Semi-Furnished,18600000,23785
+MUM-11179,Juhu,Western Suburbs,19.1051,72.8207,2020,2,4,4,1739,22,2,Apartment,Semi-Furnished,39400000,22657
+MUM-11343,Juhu,Western Suburbs,19.0981,72.8278,2020,11,2,1,1013,17,16,Apartment,Semi-Furnished,23100000,22804
+MUM-11422,Juhu,Western Suburbs,19.1009,72.8251,2020,1,2,3,997,28,18,Apartment,Semi-Furnished,22400000,22467
+MUM-10029,Kandivali West,Western Suburbs,19.2062,72.8485,2020,6,2,2,826,26,13,Apartment,Fully Furnished,8900000,10775
+MUM-10086,Kandivali West,Western Suburbs,19.2053,72.8472,2020,6,3,2,1154,8,18,Apartment,Fully Furnished,11900000,10312
+MUM-10163,Kandivali West,Western Suburbs,19.207,72.8403,2020,11,3,3,1170,2,24,Apartment,Unfurnished,9800000,8376
+MUM-10216,Kandivali West,Western Suburbs,19.2038,72.8451,2020,7,1,1,633,10,8,Apartment,Fully Furnished,6400000,10111
+MUM-10294,Kandivali West,Western Suburbs,19.2009,72.8521,2020,5,2,2,1033,12,10,Apartment,Unfurnished,8800000,8519
+MUM-10614,Kandivali West,Western Suburbs,19.2108,72.8567,2020,11,3,3,1302,30,5,Apartment,Semi-Furnished,13500000,10369
+MUM-10625,Kandivali West,Western Suburbs,19.2099,72.8562,2020,3,2,1,898,10,21,Apartment,Unfurnished,8200000,9131
+MUM-10831,Kandivali West,Western Suburbs,19.1993,72.8525,2020,7,2,2,853,9,17,Apartment,Unfurnished,8500000,9965
+MUM-11496,Kandivali West,Western Suburbs,19.2036,72.8478,2020,4,3,4,1339,3,8,Apartment,Unfurnished,12400000,9261
+MUM-10026,Lower Parel,South Mumbai,19.0041,72.8306,2020,10,1,1,485,6,5,Studio,Unfurnished,10400000,21443
+MUM-10315,Lower Parel,South Mumbai,18.9963,72.8252,2020,11,4,4,1917,20,7,Apartment,Unfurnished,40000000,20866
+MUM-10538,Lower Parel,South Mumbai,18.9989,72.8263,2020,6,2,1,915,10,19,Apartment,Semi-Furnished,18100000,19781
+MUM-10879,Lower Parel,South Mumbai,18.9986,72.8237,2020,11,2,2,733,4,11,Apartment,Fully Furnished,15600000,21282
+MUM-10908,Lower Parel,South Mumbai,18.9973,72.827,2020,3,3,3,1358,3,4,Apartment,Unfurnished,29000000,21355
+MUM-11191,Lower Parel,South Mumbai,19.001,72.8304,2020,5,1,1,532,23,17,Apartment,Unfurnished,10900000,20489
+MUM-11239,Lower Parel,South Mumbai,18.9929,72.8264,2020,4,3,2,1550,27,6,Apartment,Fully Furnished,36300000,23419
+MUM-10012,Malabar Hill,South Mumbai,18.9599,72.794,2020,10,2,2,935,15,4,Apartment,Unfurnished,35500000,37968
+MUM-10089,Malabar Hill,South Mumbai,18.9524,72.799,2020,11,2,2,793,25,14,Apartment,Unfurnished,27100000,34174
+MUM-10683,Malabar Hill,South Mumbai,18.9551,72.8035,2020,10,2,2,972,24,23,Apartment,Semi-Furnished,37200000,38272
+MUM-10857,Malabar Hill,South Mumbai,18.9461,72.7948,2020,3,4,4,2201,2,17,Apartment,Semi-Furnished,82900000,37665
+MUM-10946,Malabar Hill,South Mumbai,18.9526,72.8053,2020,11,2,2,853,13,11,Apartment,Semi-Furnished,33300000,39039
+MUM-10376,Malad West,Western Suburbs,19.1824,72.8498,2020,1,2,2,953,21,23,Apartment,Unfurnished,8800000,9234
+MUM-10600,Malad West,Western Suburbs,19.1884,72.8361,2020,10,1,1,463,20,17,Apartment,Semi-Furnished,5200000,11231
+MUM-10697,Malad West,Western Suburbs,19.1851,72.8498,2020,2,2,2,728,17,8,Apartment,Semi-Furnished,9000000,12363
+MUM-10752,Malad West,Western Suburbs,19.1892,72.8473,2020,3,2,2,994,16,1,Apartment,Unfurnished,10700000,10765
+MUM-10817,Malad West,Western Suburbs,19.1947,72.8523,2020,6,4,4,1721,15,4,Apartment,Fully Furnished,21100000,12260
+MUM-10935,Malad West,Western Suburbs,19.1866,72.8439,2020,3,1,1,524,14,16,Apartment,Semi-Furnished,5400000,10305
+MUM-11022,Malad West,Western Suburbs,19.1795,72.8473,2020,11,1,1,615,27,17,Apartment,Semi-Furnished,5900000,9593
+MUM-11185,Malad West,Western Suburbs,19.1833,72.848,2020,10,3,3,1098,3,13,Apartment,Unfurnished,11500000,10474
+MUM-11251,Malad West,Western Suburbs,19.1892,72.8471,2020,12,1,2,544,7,16,Apartment,Fully Furnished,5900000,10846
+MUM-11423,Malad West,Western Suburbs,19.1778,72.8577,2020,4,2,2,1037,18,25,Apartment,Fully Furnished,12200000,11765
+MUM-10038,Mulund West,Central Suburbs,19.167,72.9496,2020,4,2,2,930,1,14,Apartment,Semi-Furnished,8400000,9032
+MUM-10084,Mulund West,Central Suburbs,19.1716,72.9565,2020,8,1,1,604,30,5,Apartment,Unfurnished,6900000,11424
+MUM-10441,Mulund West,Central Suburbs,19.1732,72.9575,2020,10,1,1,472,19,7,Apartment,Unfurnished,5100000,10805
+MUM-10842,Mulund West,Central Suburbs,19.1708,72.9597,2020,8,3,3,1119,6,21,Apartment,Semi-Furnished,11500000,10277
+MUM-10988,Mulund West,Central Suburbs,19.1729,72.9587,2020,10,2,3,1041,24,19,Apartment,Fully Furnished,10200000,9798
+MUM-10995,Mulund West,Central Suburbs,19.1667,72.9519,2020,3,2,2,1037,29,8,Apartment,Fully Furnished,10600000,10222
+MUM-11026,Mulund West,Central Suburbs,19.1691,72.9546,2020,10,1,1,566,8,25,Apartment,Semi-Furnished,5700000,10071
+MUM-11054,Mulund West,Central Suburbs,19.1789,72.9475,2020,8,2,2,913,15,2,Apartment,Fully Furnished,9900000,10843
+MUM-11074,Mulund West,Central Suburbs,19.1715,72.9653,2020,10,1,2,482,4,8,Apartment,Unfurnished,4700000,9751
+MUM-11254,Mulund West,Central Suburbs,19.1687,72.9515,2020,7,4,4,1944,30,6,Apartment,Semi-Furnished,19900000,10237
+MUM-10267,Powai,Eastern Suburbs,19.11,72.904,2020,10,3,3,1384,15,4,Apartment,Unfurnished,17400000,12572
+MUM-10544,Powai,Eastern Suburbs,19.1142,72.8986,2020,9,1,1,623,10,22,Apartment,Fully Furnished,8500000,13644
+MUM-10790,Powai,Eastern Suburbs,19.1204,72.9093,2020,11,2,3,873,8,2,Apartment,Unfurnished,10600000,12142
+MUM-10826,Powai,Eastern Suburbs,19.1193,72.902,2020,6,4,4,1781,29,8,Apartment,Unfurnished,22100000,12409
+MUM-10926,Powai,Eastern Suburbs,19.1227,72.8994,2020,12,1,1,574,30,7,Studio,Unfurnished,6700000,11672
+MUM-11168,Powai,Eastern Suburbs,19.1172,72.8974,2020,12,3,3,1511,6,10,Apartment,Semi-Furnished,17500000,11582
+MUM-10149,Santacruz West,Western Suburbs,19.0848,72.8323,2020,6,2,2,994,13,18,Apartment,Unfurnished,16600000,16700
+MUM-10328,Santacruz West,Western Suburbs,19.0818,72.8352,2020,8,2,2,934,2,13,Apartment,Fully Furnished,19500000,20878
+MUM-10562,Santacruz West,Western Suburbs,19.0836,72.8194,2020,9,3,2,1509,8,11,Apartment,Semi-Furnished,32000000,21206
+MUM-10816,Santacruz West,Western Suburbs,19.0834,72.8329,2020,2,1,1,564,27,10,Studio,Fully Furnished,11700000,20745
+MUM-11028,Santacruz West,Western Suburbs,19.0803,72.8349,2020,9,1,1,554,24,10,Apartment,Semi-Furnished,10400000,18773
+MUM-11171,Santacruz West,Western Suburbs,19.0823,72.839,2020,4,1,1,565,21,24,Apartment,Fully Furnished,12800000,22655
+MUM-11193,Santacruz West,Western Suburbs,19.0781,72.83,2020,6,3,2,1339,13,1,Apartment,Fully Furnished,27400000,20463
+MUM-11313,Santacruz West,Western Suburbs,19.0819,72.8372,2020,5,3,3,1198,4,2,Apartment,Fully Furnished,23500000,19616
+MUM-11317,Santacruz West,Western Suburbs,19.0816,72.8433,2020,11,2,2,1026,19,3,Apartment,Unfurnished,20000000,19493
+MUM-10033,Thane West,Thane / Navi Mumbai,19.2131,72.9753,2020,10,4,4,1852,30,20,Apartment,Semi-Furnished,15700000,8477
+MUM-10070,Thane West,Thane / Navi Mumbai,19.217,72.9739,2020,8,1,1,641,14,25,Apartment,Unfurnished,5500000,8580
+MUM-10516,Thane West,Thane / Navi Mumbai,19.2269,72.9809,2020,12,3,3,1194,19,13,Apartment,Unfurnished,10700000,8961
+MUM-10884,Thane West,Thane / Navi Mumbai,19.2163,72.972,2020,8,2,1,756,10,0,Apartment,Semi-Furnished,7000000,9259
+MUM-11056,Thane West,Thane / Navi Mumbai,19.2142,72.9802,2020,5,2,3,1040,10,5,Apartment,Unfurnished,8200000,7885
+MUM-11408,Thane West,Thane / Navi Mumbai,19.2194,72.9742,2020,9,2,2,975,23,6,Apartment,Fully Furnished,8800000,9026
+MUM-11435,Thane West,Thane / Navi Mumbai,19.2193,72.9809,2020,3,3,3,1252,8,5,Apartment,Semi-Furnished,10400000,8307
+MUM-10242,Vashi,Thane / Navi Mumbai,19.0731,72.9991,2020,3,2,2,797,12,22,Apartment,Fully Furnished,7200000,9034
+MUM-10388,Vashi,Thane / Navi Mumbai,19.0795,72.9916,2020,1,2,2,935,8,5,Apartment,Semi-Furnished,8600000,9198
+MUM-10439,Vashi,Thane / Navi Mumbai,19.0773,72.9961,2020,6,2,2,725,1,9,Apartment,Semi-Furnished,7200000,9931
+MUM-10529,Vashi,Thane / Navi Mumbai,19.0786,72.9949,2020,10,2,1,1045,23,10,Apartment,Semi-Furnished,10600000,10144
+MUM-10773,Vashi,Thane / Navi Mumbai,19.0796,72.9937,2020,12,2,2,863,24,22,Apartment,Fully Furnished,9300000,10776
+MUM-10934,Vashi,Thane / Navi Mumbai,19.0762,72.9954,2020,8,3,3,1604,1,1,Apartment,Unfurnished,15800000,9850
+MUM-10464,Vile Parle West,Western Suburbs,19.0976,72.8511,2020,5,1,2,620,15,5,Apartment,Unfurnished,10600000,17097
+MUM-10641,Vile Parle West,Western Suburbs,19.1033,72.8433,2020,7,4,4,2238,23,11,Apartment,Semi-Furnished,39800000,17784
+MUM-10853,Vile Parle West,Western Suburbs,19.1022,72.8476,2020,5,2,2,756,18,5,Apartment,Semi-Furnished,13800000,18254
+MUM-10864,Vile Parle West,Western Suburbs,19.0977,72.8377,2020,4,2,2,765,18,0,Apartment,Semi-Furnished,16300000,21307
+MUM-10865,Vile Parle West,Western Suburbs,19.0951,72.8402,2020,11,1,2,589,9,15,Apartment,Unfurnished,10000000,16978
+MUM-10885,Vile Parle West,Western Suburbs,19.0903,72.8466,2020,11,2,3,726,9,23,Apartment,Semi-Furnished,12300000,16942
+MUM-11204,Vile Parle West,Western Suburbs,19.1015,72.8408,2020,8,2,2,857,6,25,Apartment,Unfurnished,14300000,16686
+MUM-11273,Vile Parle West,Western Suburbs,19.1043,72.8388,2020,8,1,1,570,26,0,Apartment,Fully Furnished,10000000,17544
+MUM-11491,Vile Parle West,Western Suburbs,19.0996,72.8413,2020,1,1,1,453,2,2,Apartment,Semi-Furnished,9100000,20088
+MUM-10323,Worli,South Mumbai,19.0035,72.8177,2020,9,2,2,828,24,0,Apartment,Unfurnished,19600000,23671
+MUM-10457,Worli,South Mumbai,19.0018,72.8212,2020,10,1,1,602,11,22,Apartment,Unfurnished,14600000,24252
+MUM-10473,Worli,South Mumbai,18.9987,72.8164,2020,5,3,3,1330,9,11,Apartment,Unfurnished,33900000,25489
+MUM-10720,Worli,South Mumbai,19.005,72.8147,2020,8,3,3,1132,9,12,Apartment,Fully Furnished,29100000,25707
+MUM-10796,Worli,South Mumbai,18.9938,72.8252,2020,8,2,2,993,18,17,Apartment,Semi-Furnished,21500000,21652
+MUM-11287,Worli,South Mumbai,18.9966,72.8221,2020,12,2,2,1030,30,9,Apartment,Unfurnished,24200000,23495
+MUM-11352,Worli,South Mumbai,18.9993,72.8222,2020,5,2,2,888,19,0,Apartment,Semi-Furnished,26800000,30180
+MUM-10017,Andheri East,Western Suburbs,19.1125,72.8701,2021,11,4,4,1862,5,4,Villa,Fully Furnished,31700000,17025
+MUM-10034,Andheri East,Western Suburbs,19.1147,72.8755,2021,3,2,2,923,14,12,Apartment,Semi-Furnished,12200000,13218
+MUM-10064,Andheri East,Western Suburbs,19.1117,72.8684,2021,2,1,2,624,25,11,Apartment,Semi-Furnished,8400000,13462
+MUM-10281,Andheri East,Western Suburbs,19.1063,72.879,2021,2,1,2,533,6,24,Apartment,Unfurnished,7300000,13696
+MUM-10355,Andheri East,Western Suburbs,19.1185,72.8757,2021,10,1,1,446,21,21,Apartment,Unfurnished,5400000,12108
+MUM-10430,Andheri East,Western Suburbs,19.114,72.8774,2021,8,2,2,726,28,14,Apartment,Semi-Furnished,9500000,13085
+MUM-10432,Andheri East,Western Suburbs,19.1112,72.8732,2021,10,2,1,923,6,14,Apartment,Unfurnished,10900000,11809
+MUM-10574,Andheri East,Western Suburbs,19.107,72.8661,2021,5,3,3,1426,7,5,Apartment,Unfurnished,16400000,11501
+MUM-10767,Andheri East,Western Suburbs,19.1102,72.8727,2021,7,1,1,430,6,18,Apartment,Fully Furnished,5700000,13256
+MUM-10770,Andheri East,Western Suburbs,19.1177,72.867,2021,6,1,1,639,2,2,Apartment,Semi-Furnished,8400000,13146
+MUM-11014,Andheri East,Western Suburbs,19.1162,72.8644,2021,4,3,3,1124,30,1,Apartment,Semi-Furnished,15400000,13701
+MUM-11023,Andheri East,Western Suburbs,19.113,72.8652,2021,8,2,1,973,22,16,Apartment,Fully Furnished,15200000,15622
+MUM-10010,Andheri West,Western Suburbs,19.1346,72.8324,2021,9,4,4,2330,14,20,Apartment,Semi-Furnished,33300000,14292
+MUM-10108,Andheri West,Western Suburbs,19.1354,72.8307,2021,3,1,2,650,28,22,Apartment,Semi-Furnished,10000000,15385
+MUM-10244,Andheri West,Western Suburbs,19.1336,72.8216,2021,4,1,1,611,16,1,Apartment,Fully Furnished,11400000,18658
+MUM-10478,Andheri West,Western Suburbs,19.1409,72.8256,2021,11,3,3,1332,16,25,Apartment,Unfurnished,18700000,14039
+MUM-11037,Andheri West,Western Suburbs,19.1425,72.8214,2021,9,2,2,744,7,1,Apartment,Fully Furnished,13900000,18683
+MUM-11118,Andheri West,Western Suburbs,19.1373,72.8278,2021,6,3,3,1272,9,1,Apartment,Unfurnished,19100000,15016
+MUM-11163,Andheri West,Western Suburbs,19.1367,72.8337,2021,10,2,2,871,27,18,Apartment,Semi-Furnished,12100000,13892
+MUM-11252,Andheri West,Western Suburbs,19.1355,72.828,2021,8,1,1,428,26,20,Apartment,Fully Furnished,6700000,15654
+MUM-11332,Andheri West,Western Suburbs,19.1347,72.8278,2021,1,1,1,593,5,13,Apartment,Fully Furnished,8900000,15008
+MUM-11433,Andheri West,Western Suburbs,19.1362,72.8285,2021,2,2,2,825,10,11,Apartment,Fully Furnished,13100000,15879
+MUM-11490,Andheri West,Western Suburbs,19.1342,72.8281,2021,6,1,1,584,29,5,Apartment,Unfurnished,9200000,15753
+MUM-10161,Bandra West,Western Suburbs,19.0619,72.8297,2021,11,1,1,425,13,24,Apartment,Unfurnished,10000000,23529
+MUM-10181,Bandra West,Western Suburbs,19.0512,72.8326,2021,12,2,2,931,1,15,Apartment,Fully Furnished,25700000,27605
+MUM-10508,Bandra West,Western Suburbs,19.0539,72.8376,2021,10,1,1,526,3,4,Studio,Fully Furnished,13800000,26236
+MUM-10537,Bandra West,Western Suburbs,19.0586,72.8335,2021,11,2,2,922,11,2,Apartment,Semi-Furnished,25500000,27657
+MUM-11055,Bandra West,Western Suburbs,19.0544,72.8291,2021,1,4,4,2160,3,22,Apartment,Unfurnished,54900000,25417
+MUM-11218,Bandra West,Western Suburbs,19.0621,72.8307,2021,3,1,1,446,7,18,Apartment,Unfurnished,12600000,28251
+MUM-10359,Borivali West,Western Suburbs,19.2358,72.8553,2021,2,2,2,960,23,12,Apartment,Unfurnished,10000000,10417
+MUM-10474,Borivali West,Western Suburbs,19.2298,72.8539,2021,7,3,4,1522,3,22,Apartment,Unfurnished,17700000,11629
+MUM-10666,Borivali West,Western Suburbs,19.2256,72.8567,2021,10,3,3,1366,30,0,Apartment,Unfurnished,15500000,11347
+MUM-11169,Borivali West,Western Suburbs,19.2374,72.8521,2021,3,2,3,785,22,8,Apartment,Semi-Furnished,10300000,13121
+MUM-11293,Borivali West,Western Suburbs,19.2294,72.8573,2021,2,1,1,507,19,17,Apartment,Unfurnished,4900000,9665
+MUM-11425,Borivali West,Western Suburbs,19.2318,72.8509,2021,10,3,4,1153,19,11,Apartment,Fully Furnished,14300000,12402
+MUM-10036,Chembur,Eastern Suburbs,19.0578,72.8995,2021,2,2,1,972,5,8,Apartment,Unfurnished,13700000,14095
+MUM-10264,Chembur,Eastern Suburbs,19.0597,72.9011,2021,6,2,2,1041,26,0,Apartment,Unfurnished,14100000,13545
+MUM-10358,Chembur,Eastern Suburbs,19.0638,72.8985,2021,1,2,2,922,27,20,Apartment,Semi-Furnished,13600000,14751
+MUM-11010,Chembur,Eastern Suburbs,19.06,72.9031,2021,8,1,1,554,12,12,Apartment,Unfurnished,7300000,13177
+MUM-11078,Chembur,Eastern Suburbs,19.0657,72.898,2021,2,3,3,1518,29,3,Penthouse,Semi-Furnished,28900000,19038
+MUM-11489,Chembur,Eastern Suburbs,19.0653,72.9034,2021,2,2,2,959,25,3,Apartment,Semi-Furnished,15500000,16163
+MUM-10637,Colaba,South Mumbai,18.9053,72.8215,2021,1,2,2,767,9,25,Apartment,Unfurnished,21300000,27771
+MUM-10657,Colaba,South Mumbai,18.9027,72.8132,2021,11,3,3,1121,23,15,Apartment,Semi-Furnished,38000000,33898
+MUM-10670,Colaba,South Mumbai,18.9018,72.8172,2021,6,2,2,831,4,5,Apartment,Unfurnished,26800000,32250
+MUM-11011,Colaba,South Mumbai,18.9079,72.8071,2021,9,4,4,2178,9,15,Apartment,Unfurnished,58000000,26630
+MUM-11095,Colaba,South Mumbai,18.9107,72.8149,2021,9,1,1,476,26,2,Apartment,Unfurnished,13700000,28782
+MUM-11141,Colaba,South Mumbai,18.9032,72.8101,2021,5,2,2,775,25,24,Apartment,Semi-Furnished,22400000,28903
+MUM-11156,Colaba,South Mumbai,18.909,72.8155,2021,10,2,2,761,9,12,Apartment,Unfurnished,22600000,29698
+MUM-11209,Colaba,South Mumbai,18.9083,72.8203,2021,4,1,1,462,17,2,Apartment,Semi-Furnished,14700000,31818
+MUM-11299,Colaba,South Mumbai,18.9128,72.8153,2021,8,2,2,832,14,5,Apartment,Semi-Furnished,27700000,33293
+MUM-10087,Dadar West,South Mumbai,19.0173,72.8394,2021,1,2,2,738,4,12,Apartment,Unfurnished,14900000,20190
+MUM-10375,Dadar West,South Mumbai,19.0188,72.8507,2021,5,2,2,887,26,7,Apartment,Unfurnished,18600000,20970
+MUM-10449,Dadar West,South Mumbai,19.0084,72.848,2021,5,4,4,2483,1,11,Apartment,Unfurnished,46300000,18647
+MUM-10593,Dadar West,South Mumbai,19.0169,72.8407,2021,3,1,1,497,1,23,Studio,Unfurnished,8400000,16901
+MUM-10623,Dadar West,South Mumbai,19.02,72.8471,2021,11,3,3,1224,5,7,Apartment,Semi-Furnished,25000000,20425
+MUM-10648,Dadar West,South Mumbai,19.01,72.8435,2021,9,1,1,603,12,1,Apartment,Semi-Furnished,11700000,19403
+MUM-10797,Dadar West,South Mumbai,19.0188,72.8459,2021,3,2,2,945,6,10,Apartment,Semi-Furnished,19100000,20212
+MUM-10924,Dadar West,South Mumbai,19.0095,72.8501,2021,5,3,3,1617,5,1,Apartment,Semi-Furnished,35300000,21831
+MUM-10930,Dadar West,South Mumbai,19.0167,72.8445,2021,11,3,3,1329,27,21,Apartment,Fully Furnished,27500000,20692
+MUM-10997,Dadar West,South Mumbai,19.0213,72.8467,2021,1,4,4,2311,24,3,Apartment,Semi-Furnished,50100000,21679
+MUM-11167,Dadar West,South Mumbai,19.0226,72.8465,2021,6,3,3,1295,16,3,Apartment,Semi-Furnished,30500000,23552
+MUM-11309,Dadar West,South Mumbai,19.0191,72.8551,2021,1,2,2,755,15,9,Apartment,Semi-Furnished,15900000,21060
+MUM-10016,Goregaon West,Western Suburbs,19.1697,72.8535,2021,8,1,1,631,25,8,Apartment,Unfurnished,7000000,11094
+MUM-10248,Goregaon West,Western Suburbs,19.1709,72.8542,2021,3,2,3,825,20,2,Apartment,Semi-Furnished,10000000,12121
+MUM-10353,Goregaon West,Western Suburbs,19.1649,72.8494,2021,7,2,2,768,11,21,Apartment,Semi-Furnished,9200000,11979
+MUM-10577,Goregaon West,Western Suburbs,19.1636,72.8509,2021,4,1,1,586,17,24,Apartment,Semi-Furnished,7400000,12628
+MUM-10622,Goregaon West,Western Suburbs,19.17,72.8528,2021,8,2,1,863,27,11,Apartment,Semi-Furnished,11400000,13210
+MUM-10626,Goregaon West,Western Suburbs,19.1637,72.8529,2021,2,3,3,1629,23,10,Apartment,Unfurnished,20400000,12523
+MUM-10678,Goregaon West,Western Suburbs,19.1613,72.8563,2021,12,3,3,1118,18,7,Apartment,Semi-Furnished,13500000,12075
+MUM-10801,Goregaon West,Western Suburbs,19.1653,72.8453,2021,12,2,2,1031,5,5,Apartment,Unfurnished,11600000,11251
+MUM-10873,Goregaon West,Western Suburbs,19.1687,72.8519,2021,3,1,1,542,29,25,Apartment,Fully Furnished,6000000,11070
+MUM-11240,Goregaon West,Western Suburbs,19.1664,72.8516,2021,5,1,2,592,18,24,Apartment,Unfurnished,6800000,11486
+MUM-10150,Juhu,Western Suburbs,19.1068,72.834,2021,3,2,2,991,15,6,Apartment,Unfurnished,19700000,19879
+MUM-10157,Juhu,Western Suburbs,19.0981,72.8274,2021,3,3,2,1427,26,20,Apartment,Fully Furnished,36300000,25438
+MUM-10162,Juhu,Western Suburbs,19.1021,72.8227,2021,7,4,3,2405,7,1,Apartment,Fully Furnished,66400000,27609
+MUM-10164,Juhu,Western Suburbs,19.105,72.8311,2021,10,2,2,759,18,13,Apartment,Semi-Furnished,16800000,22134
+MUM-10277,Juhu,Western Suburbs,19.1047,72.8242,2021,10,1,1,505,3,15,Apartment,Unfurnished,11200000,22178
+MUM-10332,Juhu,Western Suburbs,19.106,72.828,2021,8,2,1,890,20,20,Apartment,Unfurnished,18900000,21236
+MUM-10484,Juhu,Western Suburbs,19.1009,72.8214,2021,5,2,2,1004,5,5,Apartment,Semi-Furnished,22500000,22410
+MUM-10627,Juhu,Western Suburbs,19.1072,72.8214,2021,9,3,3,1430,21,17,Apartment,Semi-Furnished,31300000,21888
+MUM-10962,Juhu,Western Suburbs,19.1095,72.8269,2021,7,2,2,722,29,13,Apartment,Fully Furnished,20200000,27978
+MUM-11260,Juhu,Western Suburbs,19.1016,72.8219,2021,7,3,3,1279,5,20,Apartment,Fully Furnished,30900000,24159
+MUM-11278,Juhu,Western Suburbs,19.1055,72.8196,2021,6,3,2,1324,11,11,Apartment,Semi-Furnished,37000000,27946
+MUM-11329,Juhu,Western Suburbs,19.1103,72.8176,2021,5,1,1,600,28,17,Studio,Fully Furnished,13900000,23167
+MUM-10199,Kandivali West,Western Suburbs,19.206,72.8444,2021,1,3,3,1366,23,16,Apartment,Fully Furnished,15500000,11347
+MUM-10223,Kandivali West,Western Suburbs,19.2025,72.8437,2021,8,2,2,784,18,25,Apartment,Semi-Furnished,8200000,10459
+MUM-10300,Kandivali West,Western Suburbs,19.2025,72.8542,2021,10,1,1,481,23,21,Apartment,Semi-Furnished,4800000,9979
+MUM-10356,Kandivali West,Western Suburbs,19.2047,72.8476,2021,3,2,1,818,10,19,Apartment,Unfurnished,8400000,10269
+MUM-10578,Kandivali West,Western Suburbs,19.2021,72.8555,2021,9,2,2,1007,23,3,Apartment,Unfurnished,10100000,10030
+MUM-10731,Kandivali West,Western Suburbs,19.2021,72.8489,2021,12,3,4,1306,6,6,Villa,Unfurnished,16400000,12557
+MUM-10976,Kandivali West,Western Suburbs,19.2018,72.857,2021,7,1,2,449,19,25,Apartment,Semi-Furnished,5100000,11359
+MUM-11119,Kandivali West,Western Suburbs,19.2098,72.8482,2021,5,3,2,1344,24,14,Apartment,Fully Furnished,13800000,10268
+MUM-11187,Kandivali West,Western Suburbs,19.2131,72.8535,2021,10,2,2,901,5,0,Apartment,Fully Furnished,11900000,13208
+MUM-11348,Kandivali West,Western Suburbs,19.2042,72.8523,2021,6,3,3,1303,4,9,Apartment,Semi-Furnished,13500000,10361
+MUM-10043,Lower Parel,South Mumbai,18.9927,72.8337,2021,8,3,2,1378,3,25,Apartment,Unfurnished,29000000,21045
+MUM-10219,Lower Parel,South Mumbai,19.0043,72.8288,2021,10,3,3,1268,30,10,Apartment,Semi-Furnished,31200000,24606
+MUM-10860,Lower Parel,South Mumbai,18.9978,72.8298,2021,12,1,1,461,17,5,Apartment,Semi-Furnished,11700000,25380
+MUM-11153,Lower Parel,South Mumbai,19.0004,72.8256,2021,9,3,3,1585,17,10,Apartment,Semi-Furnished,42600000,26877
+MUM-11300,Lower Parel,South Mumbai,19.0005,72.8335,2021,6,4,4,2258,10,14,Apartment,Unfurnished,53200000,23561
+MUM-11301,Lower Parel,South Mumbai,19.0012,72.8247,2021,1,2,2,1036,19,8,Apartment,Semi-Furnished,25000000,24131
+MUM-10245,Malabar Hill,South Mumbai,18.9566,72.7989,2021,3,3,3,1285,30,3,Apartment,Semi-Furnished,57300000,44591
+MUM-10318,Malabar Hill,South Mumbai,18.9581,72.7971,2021,7,3,3,1210,29,24,Apartment,Unfurnished,42700000,35289
+MUM-10410,Malabar Hill,South Mumbai,18.9541,72.801,2021,9,1,1,624,4,22,Apartment,Fully Furnished,27200000,43590
+MUM-10591,Malabar Hill,South Mumbai,18.9563,72.7982,2021,11,2,2,957,2,11,Apartment,Semi-Furnished,38200000,39916
+MUM-10669,Malabar Hill,South Mumbai,18.9524,72.7977,2021,12,2,2,912,11,5,Apartment,Fully Furnished,35000000,38377
+MUM-11024,Malabar Hill,South Mumbai,18.9595,72.7991,2021,11,2,2,847,8,20,Apartment,Unfurnished,31400000,37072
+MUM-11152,Malabar Hill,South Mumbai,18.9583,72.8038,2021,9,3,3,1521,6,22,Apartment,Semi-Furnished,61600000,40500
+MUM-11450,Malabar Hill,South Mumbai,18.9579,72.7971,2021,6,2,2,775,5,11,Apartment,Unfurnished,32800000,42323
+MUM-10185,Malad West,Western Suburbs,19.1886,72.8437,2021,11,1,1,422,1,1,Apartment,Unfurnished,4400000,10427
+MUM-10228,Malad West,Western Suburbs,19.183,72.846,2021,4,1,1,435,22,0,Apartment,Unfurnished,5900000,13563
+MUM-10569,Malad West,Western Suburbs,19.1844,72.8456,2021,4,2,2,891,27,20,Apartment,Semi-Furnished,9900000,11111
+MUM-10811,Malad West,Western Suburbs,19.1791,72.8508,2021,3,1,1,444,29,8,Apartment,Unfurnished,4900000,11036
+MUM-10966,Malad West,Western Suburbs,19.1888,72.857,2021,3,2,2,1005,4,18,Apartment,Unfurnished,11200000,11144
+MUM-11044,Malad West,Western Suburbs,19.186,72.8521,2021,6,3,3,1138,29,11,Apartment,Semi-Furnished,13900000,12214
+MUM-11077,Malad West,Western Suburbs,19.1882,72.8461,2021,2,4,4,1911,7,14,Apartment,Unfurnished,18800000,9838
+MUM-11150,Malad West,Western Suburbs,19.1875,72.8478,2021,9,2,2,723,11,11,Apartment,Semi-Furnished,7700000,10650
+MUM-10088,Mulund West,Central Suburbs,19.1676,72.9513,2021,8,2,3,756,27,7,Apartment,Semi-Furnished,8800000,11640
+MUM-10217,Mulund West,Central Suburbs,19.165,72.9561,2021,8,3,2,1429,18,1,Penthouse,Unfurnished,19400000,13576
+MUM-10266,Mulund West,Central Suburbs,19.1735,72.9623,2021,2,2,2,720,9,14,Apartment,Unfurnished,7200000,10000
+MUM-10280,Mulund West,Central Suburbs,19.1751,72.959,2021,6,2,2,791,1,13,Apartment,Semi-Furnished,7600000,9608
+MUM-10385,Mulund West,Central Suburbs,19.1676,72.9577,2021,9,2,1,830,23,24,Apartment,Fully Furnished,7800000,9398
+MUM-10438,Mulund West,Central Suburbs,19.1709,72.9584,2021,3,3,3,1531,4,4,Apartment,Semi-Furnished,16500000,10777
+MUM-10503,Mulund West,Central Suburbs,19.1661,72.9589,2021,1,3,2,1163,4,2,Apartment,Unfurnished,13400000,11522
+MUM-10760,Mulund West,Central Suburbs,19.1668,72.9559,2021,11,3,3,1324,23,2,Apartment,Semi-Furnished,14700000,11103
+MUM-11158,Mulund West,Central Suburbs,19.1746,72.9491,2021,10,2,2,761,8,4,Apartment,Fully Furnished,9300000,12221
+MUM-11353,Mulund West,Central Suburbs,19.1733,72.9599,2021,5,2,2,913,22,12,Apartment,Unfurnished,9100000,9967
+MUM-11468,Mulund West,Central Suburbs,19.1702,72.9519,2021,4,1,1,529,27,19,Apartment,Unfurnished,5300000,10019
+MUM-10413,Powai,Eastern Suburbs,19.1308,72.9061,2021,1,4,4,2321,22,0,Apartment,Semi-Furnished,31800000,13701
+MUM-10798,Powai,Eastern Suburbs,19.1127,72.9059,2021,9,2,2,1043,21,18,Apartment,Fully Furnished,14500000,13902
+MUM-11248,Powai,Eastern Suburbs,19.1161,72.9087,2021,5,3,2,1394,10,22,Villa,Unfurnished,18400000,13199
+MUM-11305,Powai,Eastern Suburbs,19.1172,72.9006,2021,1,1,1,521,26,10,Studio,Unfurnished,5600000,10749
+MUM-11347,Powai,Eastern Suburbs,19.1175,72.9032,2021,4,1,1,488,21,16,Apartment,Fully Furnished,6000000,12295
+MUM-11497,Powai,Eastern Suburbs,19.1165,72.8998,2021,1,3,3,1349,29,17,Villa,Unfurnished,18600000,13788
+MUM-10068,Santacruz West,Western Suburbs,19.087,72.8349,2021,4,2,2,1009,24,15,Apartment,Semi-Furnished,21200000,21011
+MUM-10451,Santacruz West,Western Suburbs,19.0808,72.83,2021,3,1,2,529,9,14,Apartment,Semi-Furnished,10600000,20038
+MUM-10476,Santacruz West,Western Suburbs,19.0827,72.8484,2021,8,3,3,1327,17,7,Apartment,Semi-Furnished,26500000,19970
+MUM-10690,Santacruz West,Western Suburbs,19.0805,72.8315,2021,1,1,1,513,12,9,Apartment,Unfurnished,9400000,18324
+MUM-10887,Santacruz West,Western Suburbs,19.0856,72.8349,2021,9,2,1,944,6,17,Apartment,Semi-Furnished,20700000,21928
+MUM-10977,Santacruz West,Western Suburbs,19.0808,72.8269,2021,5,2,2,927,12,9,Apartment,Unfurnished,16900000,18231
+MUM-11072,Santacruz West,Western Suburbs,19.0861,72.8384,2021,1,4,4,1896,4,18,Apartment,Semi-Furnished,36300000,19146
+MUM-11109,Santacruz West,Western Suburbs,19.0804,72.8355,2021,6,3,4,1552,18,13,Apartment,Unfurnished,29300000,18879
+MUM-11113,Santacruz West,Western Suburbs,19.0803,72.8317,2021,5,1,1,581,23,18,Apartment,Unfurnished,10000000,17212
+MUM-11164,Santacruz West,Western Suburbs,19.0705,72.8328,2021,12,4,4,2528,21,16,Apartment,Semi-Furnished,47700000,18869
+MUM-11259,Santacruz West,Western Suburbs,19.0787,72.8361,2021,4,4,3,2214,6,11,Apartment,Fully Furnished,46800000,21138
+MUM-11368,Santacruz West,Western Suburbs,19.0813,72.8418,2021,8,1,2,576,30,16,Apartment,Fully Furnished,12200000,21181
+MUM-10020,Thane West,Thane / Navi Mumbai,19.2145,72.9767,2021,1,1,1,423,16,7,Apartment,Unfurnished,3500000,8274
+MUM-10103,Thane West,Thane / Navi Mumbai,19.2222,72.9828,2021,8,2,2,900,18,18,Apartment,Fully Furnished,8500000,9444
+MUM-10201,Thane West,Thane / Navi Mumbai,19.2185,72.9777,2021,12,2,2,735,1,2,Apartment,Unfurnished,6400000,8707
+MUM-10297,Thane West,Thane / Navi Mumbai,19.2188,72.9843,2021,8,4,4,2139,19,2,Apartment,Semi-Furnished,22600000,10566
+MUM-10397,Thane West,Thane / Navi Mumbai,19.2166,72.9725,2021,3,2,1,853,30,16,Apartment,Unfurnished,7300000,8558
+MUM-10589,Thane West,Thane / Navi Mumbai,19.2171,72.9803,2021,1,2,3,736,9,11,Apartment,Unfurnished,6500000,8832
+MUM-10825,Thane West,Thane / Navi Mumbai,19.2189,72.9735,2021,11,3,2,1467,28,8,Apartment,Unfurnished,12800000,8725
+MUM-10372,Vashi,Thane / Navi Mumbai,19.0832,72.9953,2021,4,3,3,1324,19,10,Apartment,Semi-Furnished,13100000,9894
+MUM-11021,Vashi,Thane / Navi Mumbai,19.0811,72.9958,2021,5,4,4,2176,17,23,Apartment,Unfurnished,18700000,8594
+MUM-11052,Vashi,Thane / Navi Mumbai,19.079,72.9947,2021,5,3,4,1468,15,18,Apartment,Fully Furnished,15800000,10763
+MUM-11134,Vashi,Thane / Navi Mumbai,19.0774,72.9995,2021,11,1,1,649,3,20,Apartment,Unfurnished,5600000,8629
+MUM-10044,Vile Parle West,Western Suburbs,19.1053,72.8436,2021,6,4,4,1782,20,6,Apartment,Semi-Furnished,35300000,19809
+MUM-10492,Vile Parle West,Western Suburbs,19.0947,72.8393,2021,8,4,4,2507,5,5,Apartment,Unfurnished,47400000,18907
+MUM-10495,Vile Parle West,Western Suburbs,19.1045,72.8533,2021,6,2,2,844,7,7,Apartment,Unfurnished,13700000,16232
+MUM-11069,Vile Parle West,Western Suburbs,19.1,72.8479,2021,2,3,3,1429,27,18,Apartment,Unfurnished,29000000,20294
+MUM-11094,Vile Parle West,Western Suburbs,19.1003,72.838,2021,1,2,2,886,4,15,Apartment,Unfurnished,14300000,16140
+MUM-11221,Vile Parle West,Western Suburbs,19.0982,72.8448,2021,11,1,1,630,13,19,Studio,Unfurnished,10100000,16032
+MUM-11344,Vile Parle West,Western Suburbs,19.1023,72.851,2021,1,2,2,860,16,5,Apartment,Semi-Furnished,17100000,19884
+MUM-11375,Vile Parle West,Western Suburbs,19.0999,72.8505,2021,6,2,1,955,18,11,Apartment,Semi-Furnished,18600000,19476
+MUM-10295,Worli,South Mumbai,19.0056,72.8143,2021,1,3,3,1082,12,15,Apartment,Semi-Furnished,25900000,23937
+MUM-10307,Worli,South Mumbai,18.9964,72.8176,2021,11,2,2,735,24,1,Apartment,Unfurnished,18500000,25170
+MUM-10542,Worli,South Mumbai,18.9975,72.8143,2021,4,1,1,525,20,5,Apartment,Unfurnished,14800000,28190
+MUM-10599,Worli,South Mumbai,18.9987,72.8131,2021,3,3,4,1257,26,18,Apartment,Unfurnished,32500000,25855
+MUM-10755,Worli,South Mumbai,18.9991,72.82,2021,5,3,3,1288,5,3,Apartment,Unfurnished,35600000,27640
+MUM-11223,Worli,South Mumbai,19.0032,72.8176,2021,3,2,2,1010,21,14,Apartment,Fully Furnished,27500000,27228
+MUM-11288,Worli,South Mumbai,18.9975,72.8141,2021,8,1,1,557,23,19,Studio,Unfurnished,12500000,22442
+MUM-10144,Andheri East,Western Suburbs,19.1191,72.8678,2022,4,1,1,530,20,18,Apartment,Unfurnished,8300000,15660
+MUM-10231,Andheri East,Western Suburbs,19.1189,72.8697,2022,5,2,1,950,26,7,Apartment,Unfurnished,11400000,12000
+MUM-10289,Andheri East,Western Suburbs,19.1176,72.8691,2022,6,2,2,772,8,14,Apartment,Unfurnished,10500000,13601
+MUM-10312,Andheri East,Western Suburbs,19.1151,72.8769,2022,9,1,1,634,3,25,Studio,Unfurnished,8300000,13091
+MUM-10403,Andheri East,Western Suburbs,19.1124,72.8689,2022,6,3,3,1374,2,23,Apartment,Semi-Furnished,18800000,13683
+MUM-10662,Andheri East,Western Suburbs,19.1197,72.8713,2022,7,2,2,847,22,13,Apartment,Unfurnished,11600000,13695
+MUM-10671,Andheri East,Western Suburbs,19.1077,72.8755,2022,7,2,2,950,21,1,Apartment,Semi-Furnished,16000000,16842
+MUM-10742,Andheri East,Western Suburbs,19.1118,72.8639,2022,9,2,2,952,30,2,Apartment,Fully Furnished,14000000,14706
+MUM-10791,Andheri East,Western Suburbs,19.1124,72.8622,2022,9,4,4,2409,2,5,Apartment,Semi-Furnished,34600000,14363
+MUM-10830,Andheri East,Western Suburbs,19.1127,72.8679,2022,11,4,4,2539,5,0,Apartment,Semi-Furnished,35700000,14061
+MUM-10889,Andheri East,Western Suburbs,19.1124,72.8668,2022,3,3,3,1099,3,14,Apartment,Unfurnished,16900000,15378
+MUM-10900,Andheri East,Western Suburbs,19.1064,72.8626,2022,1,2,2,1038,26,20,Apartment,Unfurnished,14600000,14066
+MUM-11041,Andheri East,Western Suburbs,19.1087,72.8679,2022,8,3,3,1411,17,21,Apartment,Fully Furnished,18100000,12828
+MUM-11197,Andheri East,Western Suburbs,19.1132,72.8657,2022,1,1,2,620,7,3,Apartment,Unfurnished,9500000,15323
+MUM-11202,Andheri East,Western Suburbs,19.1148,72.8724,2022,5,3,3,1168,12,3,Apartment,Semi-Furnished,18600000,15925
+MUM-11432,Andheri East,Western Suburbs,19.1066,72.8798,2022,2,3,2,1448,15,16,Apartment,Unfurnished,21400000,14779
+MUM-10124,Andheri West,Western Suburbs,19.1402,72.8293,2022,5,1,1,449,18,0,Apartment,Fully Furnished,8100000,18040
+MUM-10153,Andheri West,Western Suburbs,19.1293,72.8253,2022,2,2,2,972,30,14,Apartment,Fully Furnished,18200000,18724
+MUM-10218,Andheri West,Western Suburbs,19.1361,72.8297,2022,3,2,1,765,9,12,Apartment,Semi-Furnished,12200000,15948
+MUM-10481,Andheri West,Western Suburbs,19.1359,72.8288,2022,10,1,1,571,16,12,Apartment,Unfurnished,9100000,15937
+MUM-10496,Andheri West,Western Suburbs,19.1334,72.8295,2022,12,3,2,1165,13,11,Apartment,Semi-Furnished,19300000,16567
+MUM-10621,Andheri West,Western Suburbs,19.1295,72.8346,2022,8,4,4,1792,5,13,Apartment,Unfurnished,29200000,16295
+MUM-10719,Andheri West,Western Suburbs,19.1384,72.8265,2022,6,3,3,1232,18,3,Apartment,Semi-Furnished,22100000,17938
+MUM-10844,Andheri West,Western Suburbs,19.1394,72.832,2022,3,2,1,755,17,0,Apartment,Unfurnished,13300000,17616
+MUM-11043,Andheri West,Western Suburbs,19.1335,72.8246,2022,3,1,1,498,13,18,Apartment,Semi-Furnished,8600000,17269
+MUM-11088,Andheri West,Western Suburbs,19.1394,72.8216,2022,5,2,2,824,24,25,Apartment,Unfurnished,12600000,15291
+MUM-11175,Andheri West,Western Suburbs,19.1396,72.8286,2022,10,2,2,916,13,5,Apartment,Semi-Furnished,15100000,16485
+MUM-11303,Andheri West,Western Suburbs,19.1394,72.8273,2022,2,1,1,630,26,22,Apartment,Unfurnished,9000000,14286
+MUM-11380,Andheri West,Western Suburbs,19.1423,72.833,2022,3,2,2,1031,9,10,Apartment,Fully Furnished,19300000,18720
+MUM-11396,Andheri West,Western Suburbs,19.1356,72.8337,2022,10,4,4,2005,27,7,Apartment,Semi-Furnished,35300000,17606
+MUM-10211,Bandra West,Western Suburbs,19.0598,72.8263,2022,11,2,2,735,26,22,Apartment,Unfurnished,20600000,28027
+MUM-10235,Bandra West,Western Suburbs,19.0641,72.8279,2022,7,4,4,2186,6,17,Apartment,Unfurnished,66800000,30558
+MUM-10249,Bandra West,Western Suburbs,19.0572,72.8363,2022,7,1,1,608,8,16,Apartment,Semi-Furnished,17100000,28125
+MUM-10373,Bandra West,Western Suburbs,19.0567,72.8347,2022,5,4,4,2272,24,16,Apartment,Semi-Furnished,69600000,30634
+MUM-10395,Bandra West,Western Suburbs,19.0617,72.8277,2022,6,3,3,1331,15,24,Apartment,Semi-Furnished,40600000,30503
+MUM-10420,Bandra West,Western Suburbs,19.0641,72.8281,2022,1,3,2,1472,1,18,Apartment,Unfurnished,43000000,29212
+MUM-10428,Bandra West,Western Suburbs,19.0569,72.829,2022,4,3,3,1208,5,13,Apartment,Unfurnished,32200000,26656
+MUM-10890,Bandra West,Western Suburbs,19.0647,72.8331,2022,4,2,2,1041,22,6,Apartment,Semi-Furnished,32500000,31220
+MUM-10949,Bandra West,Western Suburbs,19.0549,72.8324,2022,8,1,1,517,13,19,Apartment,Semi-Furnished,15100000,29207
+MUM-11032,Bandra West,Western Suburbs,19.0615,72.8289,2022,7,2,2,914,28,17,Apartment,Semi-Furnished,23700000,25930
+MUM-11104,Bandra West,Western Suburbs,19.0546,72.829,2022,3,1,1,612,26,13,Apartment,Semi-Furnished,17900000,29248
+MUM-11237,Bandra West,Western Suburbs,19.0571,72.8258,2022,12,1,1,446,7,18,Apartment,Unfurnished,12700000,28475
+MUM-11386,Bandra West,Western Suburbs,19.0612,72.8299,2022,7,3,3,1266,24,3,Apartment,Unfurnished,36300000,28673
+MUM-11392,Bandra West,Western Suburbs,19.0598,72.8399,2022,9,3,4,1082,1,14,Apartment,Semi-Furnished,33600000,31054
+MUM-10192,Borivali West,Western Suburbs,19.2265,72.8602,2022,2,4,4,2159,6,25,Apartment,Unfurnished,24500000,11348
+MUM-10202,Borivali West,Western Suburbs,19.228,72.8576,2022,3,2,2,1004,12,22,Apartment,Fully Furnished,14200000,14143
+MUM-10299,Borivali West,Western Suburbs,19.2221,72.8592,2022,11,1,2,542,3,25,Apartment,Semi-Furnished,6400000,11808
+MUM-10532,Borivali West,Western Suburbs,19.2316,72.8566,2022,6,1,2,544,6,23,Apartment,Semi-Furnished,6900000,12684
+MUM-10553,Borivali West,Western Suburbs,19.2314,72.8504,2022,9,1,1,487,30,13,Apartment,Unfurnished,6100000,12526
+MUM-10590,Borivali West,Western Suburbs,19.2294,72.8555,2022,7,2,3,792,24,19,Apartment,Unfurnished,9100000,11490
+MUM-10607,Borivali West,Western Suburbs,19.2261,72.8507,2022,7,2,2,1018,20,6,Apartment,Unfurnished,11900000,11690
+MUM-10718,Borivali West,Western Suburbs,19.2362,72.8605,2022,2,2,1,897,4,8,Apartment,Unfurnished,10900000,12152
+MUM-10740,Borivali West,Western Suburbs,19.2301,72.8557,2022,8,2,2,726,5,14,Apartment,Fully Furnished,9200000,12672
+MUM-10802,Borivali West,Western Suburbs,19.2362,72.8519,2022,9,3,3,1307,30,3,Apartment,Unfurnished,18200000,13925
+MUM-11013,Borivali West,Western Suburbs,19.2268,72.8582,2022,9,3,3,1511,27,12,Apartment,Semi-Furnished,18900000,12508
+MUM-11128,Borivali West,Western Suburbs,19.2261,72.8543,2022,11,3,3,1563,9,10,Apartment,Unfurnished,19300000,12348
+MUM-11184,Borivali West,Western Suburbs,19.2358,72.8588,2022,2,2,3,743,6,7,Apartment,Semi-Furnished,9200000,12382
+MUM-11337,Borivali West,Western Suburbs,19.2213,72.8516,2022,4,1,1,648,4,13,Apartment,Unfurnished,8800000,13580
+MUM-11429,Borivali West,Western Suburbs,19.2292,72.8502,2022,2,1,1,607,28,1,Apartment,Fully Furnished,9900000,16310
+MUM-11452,Borivali West,Western Suburbs,19.2331,72.8513,2022,1,1,2,449,17,18,Apartment,Unfurnished,5800000,12918
+MUM-10096,Chembur,Eastern Suburbs,19.0685,72.9005,2022,7,1,1,632,19,17,Apartment,Semi-Furnished,9200000,14557
+MUM-10259,Chembur,Eastern Suburbs,19.0567,72.8933,2022,10,2,2,907,17,6,Apartment,Semi-Furnished,14300000,15766
+MUM-10304,Chembur,Eastern Suburbs,19.0602,72.8981,2022,7,1,1,496,4,6,Apartment,Semi-Furnished,6800000,13710
+MUM-10415,Chembur,Eastern Suburbs,19.0567,72.9021,2022,1,1,1,455,21,4,Apartment,Fully Furnished,6500000,14286
+MUM-10730,Chembur,Eastern Suburbs,19.0622,72.9003,2022,3,2,2,872,9,11,Apartment,Semi-Furnished,12500000,14335
+MUM-10819,Chembur,Eastern Suburbs,19.0615,72.8951,2022,2,2,2,940,9,12,Apartment,Semi-Furnished,14100000,15000
+MUM-10891,Chembur,Eastern Suburbs,19.066,72.892,2022,6,4,4,1710,2,9,Apartment,Semi-Furnished,25400000,14854
+MUM-10913,Chembur,Eastern Suburbs,19.0658,72.9004,2022,1,2,1,720,6,15,Apartment,Unfurnished,10300000,14306
+MUM-11065,Chembur,Eastern Suburbs,19.0586,72.9007,2022,6,1,1,586,3,7,Apartment,Fully Furnished,9900000,16894
+MUM-11319,Chembur,Eastern Suburbs,19.0606,72.9036,2022,8,2,1,1025,6,6,Apartment,Unfurnished,15300000,14927
+MUM-10077,Colaba,South Mumbai,18.9121,72.8147,2022,9,1,1,582,10,4,Apartment,Semi-Furnished,20900000,35911
+MUM-10114,Colaba,South Mumbai,18.8974,72.8067,2022,8,3,3,1132,16,5,Apartment,Semi-Furnished,44900000,39664
+MUM-10133,Colaba,South Mumbai,18.9102,72.8158,2022,3,2,2,1028,18,5,Apartment,Unfurnished,32200000,31323
+MUM-10179,Colaba,South Mumbai,18.9085,72.8135,2022,12,3,3,1387,4,19,Villa,Unfurnished,52000000,37491
+MUM-10203,Colaba,South Mumbai,18.9144,72.8116,2022,4,1,1,585,12,17,Apartment,Semi-Furnished,20500000,35043
+MUM-10406,Colaba,South Mumbai,18.8978,72.8138,2022,12,1,1,436,26,13,Apartment,Unfurnished,14200000,32569
+MUM-10485,Colaba,South Mumbai,18.9148,72.8077,2022,8,2,1,912,18,0,Apartment,Semi-Furnished,32200000,35307
+MUM-10652,Colaba,South Mumbai,18.9021,72.8112,2022,1,4,4,1823,27,3,Villa,Semi-Furnished,68800000,37740
+MUM-10914,Colaba,South Mumbai,18.8993,72.8168,2022,3,3,3,1409,24,1,Apartment,Unfurnished,45100000,32009
+MUM-10936,Colaba,South Mumbai,18.8984,72.8083,2022,12,3,2,1453,21,4,Villa,Unfurnished,55500000,38197
+MUM-11136,Colaba,South Mumbai,18.9008,72.8138,2022,1,1,1,609,21,9,Apartment,Unfurnished,20400000,33498
+MUM-11155,Colaba,South Mumbai,18.9113,72.8129,2022,9,3,3,1107,3,8,Apartment,Semi-Furnished,35000000,31617
+MUM-11365,Colaba,South Mumbai,18.906,72.8126,2022,12,1,2,618,24,21,Apartment,Fully Furnished,23400000,37864
+MUM-11458,Colaba,South Mumbai,18.9138,72.816,2022,7,3,3,1463,9,11,Apartment,Unfurnished,51900000,35475
+MUM-10011,Dadar West,South Mumbai,19.0171,72.8534,2022,10,2,2,901,1,4,Apartment,Fully Furnished,21400000,23751
+MUM-10067,Dadar West,South Mumbai,19.0203,72.8484,2022,8,4,4,1975,19,13,Apartment,Semi-Furnished,38600000,19544
+MUM-10611,Dadar West,South Mumbai,19.0141,72.8459,2022,8,2,1,817,30,23,Apartment,Fully Furnished,19300000,23623
+MUM-10628,Dadar West,South Mumbai,19.0165,72.8465,2022,11,1,2,511,4,8,Apartment,Unfurnished,13400000,26223
+MUM-10794,Dadar West,South Mumbai,19.02,72.8478,2022,6,3,3,1427,25,4,Apartment,Fully Furnished,34600000,24247
+MUM-10837,Dadar West,South Mumbai,19.0147,72.8449,2022,9,2,2,943,25,23,Apartment,Semi-Furnished,19400000,20573
+MUM-10850,Dadar West,South Mumbai,19.023,72.8502,2022,7,1,1,454,17,5,Apartment,Unfurnished,11100000,24449
+MUM-10896,Dadar West,South Mumbai,19.0087,72.8512,2022,4,3,3,1312,15,10,Apartment,Semi-Furnished,25300000,19284
+MUM-11006,Dadar West,South Mumbai,19.017,72.851,2022,1,4,4,2460,27,8,Apartment,Unfurnished,47700000,19390
+MUM-11071,Dadar West,South Mumbai,19.0129,72.851,2022,12,4,4,2321,27,9,Apartment,Fully Furnished,49600000,21370
+MUM-11217,Dadar West,South Mumbai,19.018,72.8448,2022,2,3,2,1423,26,3,Apartment,Unfurnished,28400000,19958
+MUM-10095,Goregaon West,Western Suburbs,19.1591,72.8538,2022,12,2,2,894,26,13,Apartment,Unfurnished,8600000,9620
+MUM-10142,Goregaon West,Western Suburbs,19.1693,72.8557,2022,10,3,3,1619,10,16,Apartment,Unfurnished,18700000,11550
+MUM-10197,Goregaon West,Western Suburbs,19.165,72.8489,2022,5,3,3,1513,10,2,Villa,Semi-Furnished,24200000,15995
+MUM-10311,Goregaon West,Western Suburbs,19.1631,72.8535,2022,12,2,2,911,18,2,Apartment,Unfurnished,12200000,13392
+MUM-10366,Goregaon West,Western Suburbs,19.1606,72.8599,2022,4,2,2,873,28,0,Apartment,Unfurnished,10000000,11455
+MUM-10456,Goregaon West,Western Suburbs,19.168,72.8525,2022,1,3,2,1543,10,11,Apartment,Unfurnished,19100000,12378
+MUM-10482,Goregaon West,Western Suburbs,19.1719,72.8497,2022,7,3,2,1167,26,10,Apartment,Unfurnished,14000000,11997
+MUM-10550,Goregaon West,Western Suburbs,19.1622,72.8499,2022,3,1,1,490,4,22,Apartment,Unfurnished,5900000,12041
+MUM-10728,Goregaon West,Western Suburbs,19.165,72.849,2022,3,3,3,1259,22,13,Apartment,Semi-Furnished,19000000,15091
+MUM-10898,Goregaon West,Western Suburbs,19.1668,72.844,2022,2,4,4,1789,23,12,Apartment,Fully Furnished,24500000,13695
+MUM-11017,Goregaon West,Western Suburbs,19.159,72.8553,2022,12,1,1,517,18,10,Apartment,Fully Furnished,7100000,13733
+MUM-11108,Goregaon West,Western Suburbs,19.1703,72.8539,2022,1,1,1,515,15,13,Studio,Unfurnished,6200000,12039
+MUM-11177,Goregaon West,Western Suburbs,19.1637,72.8486,2022,2,2,1,911,18,18,Apartment,Semi-Furnished,11100000,12184
+MUM-11395,Goregaon West,Western Suburbs,19.1691,72.8474,2022,9,2,2,783,7,4,Apartment,Semi-Furnished,10800000,13793
+MUM-11401,Goregaon West,Western Suburbs,19.1703,72.8609,2022,5,2,1,768,28,10,Apartment,Unfurnished,9600000,12500
+MUM-11475,Goregaon West,Western Suburbs,19.1751,72.8479,2022,6,3,3,1375,9,0,Apartment,Semi-Furnished,19500000,14182
+MUM-10030,Juhu,Western Suburbs,19.1028,72.8247,2022,10,2,2,878,11,13,Apartment,Unfurnished,21100000,24032
+MUM-10039,Juhu,Western Suburbs,19.1098,72.8266,2022,11,4,4,2365,2,20,Apartment,Fully Furnished,62300000,26342
+MUM-10047,Juhu,Western Suburbs,19.1095,72.8246,2022,9,2,2,751,18,14,Apartment,Semi-Furnished,19000000,25300
+MUM-10287,Juhu,Western Suburbs,19.1057,72.8227,2022,10,3,2,1092,3,24,Apartment,Unfurnished,24400000,22344
+MUM-10350,Juhu,Western Suburbs,19.1084,72.8248,2022,9,3,3,1539,30,12,Apartment,Unfurnished,37000000,24042
+MUM-10486,Juhu,Western Suburbs,19.1097,72.828,2022,3,1,1,515,28,2,Apartment,Fully Furnished,14800000,28738
+MUM-10491,Juhu,Western Suburbs,19.1026,72.8308,2022,11,2,1,890,26,0,Apartment,Unfurnished,23200000,26067
+MUM-10511,Juhu,Western Suburbs,19.1042,72.8286,2022,6,3,3,1419,22,16,Apartment,Unfurnished,33300000,23467
+MUM-10563,Juhu,Western Suburbs,19.1116,72.8275,2022,11,3,3,1447,5,9,Apartment,Fully Furnished,39900000,27574
+MUM-10568,Juhu,Western Suburbs,19.1125,72.8284,2022,6,2,2,786,26,7,Apartment,Semi-Furnished,22500000,28626
+MUM-10582,Juhu,Western Suburbs,19.1054,72.8238,2022,5,1,1,574,10,4,Apartment,Semi-Furnished,17800000,31010
+MUM-10812,Juhu,Western Suburbs,19.1051,72.8282,2022,2,4,4,2301,1,8,Apartment,Unfurnished,59600000,25902
+MUM-10846,Juhu,Western Suburbs,19.1083,72.829,2022,5,1,1,447,17,0,Apartment,Semi-Furnished,11600000,25951
+MUM-10992,Juhu,Western Suburbs,19.1042,72.827,2022,2,1,1,577,10,17,Studio,Fully Furnished,13600000,23570
+MUM-11016,Juhu,Western Suburbs,19.11,72.8291,2022,9,3,3,1515,6,24,Apartment,Unfurnished,37400000,24686
+MUM-11110,Juhu,Western Suburbs,19.1107,72.8254,2022,2,1,1,453,7,8,Apartment,Fully Furnished,13500000,29801
+MUM-11226,Juhu,Western Suburbs,19.1083,72.8248,2022,4,2,2,746,19,25,Apartment,Unfurnished,16100000,21582
+MUM-11230,Juhu,Western Suburbs,19.1134,72.8265,2022,10,2,2,739,20,0,Apartment,Semi-Furnished,19000000,25710
+MUM-11242,Juhu,Western Suburbs,19.1043,72.8267,2022,1,2,2,771,7,12,Apartment,Semi-Furnished,19600000,25422
+MUM-11269,Juhu,Western Suburbs,19.1075,72.823,2022,5,1,1,458,8,20,Apartment,Fully Furnished,11200000,24454
+MUM-11314,Juhu,Western Suburbs,19.109,72.8209,2022,1,3,3,1115,7,8,Apartment,Semi-Furnished,28800000,25830
+MUM-11320,Juhu,Western Suburbs,19.1094,72.8222,2022,7,3,3,1290,26,3,Apartment,Unfurnished,30700000,23798
+MUM-11360,Juhu,Western Suburbs,19.1137,72.823,2022,12,4,4,2156,12,24,Apartment,Semi-Furnished,56200000,26067
+MUM-10049,Kandivali West,Western Suburbs,19.2068,72.8488,2022,11,3,2,1299,27,12,Apartment,Unfurnished,14100000,10855
+MUM-10082,Kandivali West,Western Suburbs,19.1965,72.8426,2022,8,3,3,1587,6,6,Apartment,Fully Furnished,18100000,11405
+MUM-10129,Kandivali West,Western Suburbs,19.206,72.8534,2022,2,3,3,1644,21,9,Apartment,Unfurnished,15900000,9672
+MUM-10174,Kandivali West,Western Suburbs,19.2019,72.8475,2022,2,3,3,1560,23,22,Apartment,Unfurnished,17700000,11346
+MUM-10177,Kandivali West,Western Suburbs,19.2108,72.8532,2022,6,2,2,747,28,16,Apartment,Fully Furnished,8200000,10977
+MUM-10440,Kandivali West,Western Suburbs,19.2029,72.851,2022,11,1,1,562,6,22,Apartment,Unfurnished,6500000,11566
+MUM-10458,Kandivali West,Western Suburbs,19.2056,72.8552,2022,3,2,2,961,26,20,Apartment,Semi-Furnished,11300000,11759
+MUM-10469,Kandivali West,Western Suburbs,19.2094,72.8512,2022,9,1,1,519,30,1,Apartment,Fully Furnished,6300000,12139
+MUM-10633,Kandivali West,Western Suburbs,19.2153,72.8495,2022,4,3,3,1533,28,19,Apartment,Fully Furnished,18400000,12003
+MUM-10749,Kandivali West,Western Suburbs,19.2042,72.8493,2022,12,3,3,1443,24,13,Apartment,Unfurnished,17100000,11850
+MUM-10795,Kandivali West,Western Suburbs,19.2049,72.8513,2022,5,2,2,818,21,6,Apartment,Unfurnished,10400000,12714
+MUM-10969,Kandivali West,Western Suburbs,19.1982,72.8513,2022,4,3,3,1290,7,2,Apartment,Fully Furnished,15400000,11938
+MUM-11047,Kandivali West,Western Suburbs,19.203,72.8542,2022,12,1,1,498,18,17,Apartment,Semi-Furnished,5800000,11647
+MUM-11064,Kandivali West,Western Suburbs,19.1992,72.8491,2022,10,3,3,1363,24,22,Apartment,Fully Furnished,16300000,11959
+MUM-11121,Kandivali West,Western Suburbs,19.2137,72.8488,2022,1,2,1,987,8,1,Apartment,Unfurnished,12000000,12158
+MUM-11190,Kandivali West,Western Suburbs,19.2063,72.8496,2022,6,2,2,830,28,17,Apartment,Fully Furnished,11600000,13976
+MUM-11335,Kandivali West,Western Suburbs,19.1964,72.8538,2022,9,2,2,893,2,24,Apartment,Semi-Furnished,9300000,10414
+MUM-11466,Kandivali West,Western Suburbs,19.204,72.8415,2022,12,3,3,1167,27,24,Apartment,Unfurnished,14000000,11997
+MUM-10057,Lower Parel,South Mumbai,19.001,72.8264,2022,4,1,1,479,13,0,Apartment,Unfurnished,12100000,25261
+MUM-10098,Lower Parel,South Mumbai,18.9939,72.8309,2022,2,3,3,1606,18,17,Apartment,Semi-Furnished,40900000,25467
+MUM-10116,Lower Parel,South Mumbai,18.999,72.824,2022,1,3,3,1336,6,11,Apartment,Fully Furnished,34500000,25823
+MUM-10262,Lower Parel,South Mumbai,18.9991,72.8327,2022,11,3,3,1621,5,4,Apartment,Fully Furnished,43200000,26650
+MUM-10447,Lower Parel,South Mumbai,19.001,72.8279,2022,6,3,2,1560,26,4,Apartment,Unfurnished,40500000,25962
+MUM-10526,Lower Parel,South Mumbai,18.997,72.8335,2022,4,4,4,1871,30,21,Apartment,Unfurnished,45900000,24532
+MUM-10716,Lower Parel,South Mumbai,19.0034,72.8308,2022,12,2,2,1040,7,15,Apartment,Unfurnished,28200000,27115
+MUM-10753,Lower Parel,South Mumbai,18.9982,72.8317,2022,10,2,2,832,12,17,Apartment,Unfurnished,21900000,26322
+MUM-10909,Lower Parel,South Mumbai,18.9952,72.8307,2022,10,1,1,588,9,24,Apartment,Unfurnished,12100000,20578
+MUM-10917,Lower Parel,South Mumbai,19.0008,72.828,2022,12,1,1,616,15,12,Apartment,Semi-Furnished,15400000,25000
+MUM-11086,Lower Parel,South Mumbai,19.0028,72.8305,2022,2,2,2,984,12,2,Apartment,Unfurnished,22700000,23069
+MUM-11170,Lower Parel,South Mumbai,18.9956,72.8327,2022,7,2,2,744,16,17,Apartment,Fully Furnished,21500000,28898
+MUM-11387,Lower Parel,South Mumbai,19.0036,72.8303,2022,11,4,4,1891,30,15,Apartment,Fully Furnished,48900000,25859
+MUM-11461,Lower Parel,South Mumbai,19.004,72.8313,2022,1,3,4,1464,27,7,Apartment,Unfurnished,36800000,25137
+MUM-10000,Malabar Hill,South Mumbai,18.9539,72.7954,2022,7,3,3,1521,30,13,Apartment,Unfurnished,60200000,39579
+MUM-10046,Malabar Hill,South Mumbai,18.9495,72.797,2022,4,3,3,1253,13,3,Apartment,Unfurnished,45700000,36472
+MUM-10258,Malabar Hill,South Mumbai,18.9582,72.7966,2022,4,3,3,1647,28,23,Apartment,Semi-Furnished,58100000,35276
+MUM-10398,Malabar Hill,South Mumbai,18.9499,72.7976,2022,1,2,2,771,22,7,Apartment,Unfurnished,32600000,42283
+MUM-10411,Malabar Hill,South Mumbai,18.9514,72.8017,2022,2,1,1,596,8,18,Apartment,Unfurnished,22400000,37584
+MUM-10462,Malabar Hill,South Mumbai,18.9649,72.8012,2022,3,2,2,920,11,3,Apartment,Fully Furnished,39400000,42826
+MUM-10549,Malabar Hill,South Mumbai,18.9554,72.7964,2022,1,2,2,900,28,16,Apartment,Semi-Furnished,39500000,43889
+MUM-10747,Malabar Hill,South Mumbai,18.9574,72.7994,2022,3,2,2,1041,26,18,Apartment,Fully Furnished,43700000,41979
+MUM-10781,Malabar Hill,South Mumbai,18.9555,72.8007,2022,7,1,1,534,30,12,Apartment,Fully Furnished,23800000,44569
+MUM-10862,Malabar Hill,South Mumbai,18.9532,72.8021,2022,1,3,3,1299,27,15,Apartment,Fully Furnished,62300000,47960
+MUM-10993,Malabar Hill,South Mumbai,18.9502,72.8011,2022,5,3,3,1088,5,12,Apartment,Unfurnished,50800000,46691
+MUM-11060,Malabar Hill,South Mumbai,18.956,72.8039,2022,8,3,3,1124,24,6,Apartment,Semi-Furnished,43000000,38256
+MUM-11211,Malabar Hill,South Mumbai,18.9521,72.7999,2022,8,2,2,900,22,9,Apartment,Unfurnished,38200000,42444
+MUM-11383,Malabar Hill,South Mumbai,18.9583,72.7954,2022,12,3,3,1421,30,19,Apartment,Semi-Furnished,49300000,34694
+MUM-10009,Malad West,Western Suburbs,19.182,72.8496,2022,5,2,1,799,19,7,Apartment,Semi-Furnished,9100000,11389
+MUM-10336,Malad West,Western Suburbs,19.1849,72.8441,2022,3,3,2,1511,1,16,Apartment,Semi-Furnished,18900000,12508
+MUM-10386,Malad West,Western Suburbs,19.1809,72.8496,2022,3,2,2,755,21,3,Apartment,Unfurnished,8400000,11126
+MUM-10405,Malad West,Western Suburbs,19.1856,72.849,2022,6,2,2,1046,10,6,Apartment,Semi-Furnished,13600000,13002
+MUM-10732,Malad West,Western Suburbs,19.1853,72.8443,2022,12,2,2,966,1,12,Apartment,Semi-Furnished,10800000,11180
+MUM-10751,Malad West,Western Suburbs,19.1828,72.845,2022,5,2,2,734,16,0,Apartment,Unfurnished,7900000,10763
+MUM-10843,Malad West,Western Suburbs,19.1862,72.8485,2022,11,1,1,617,25,7,Apartment,Unfurnished,7700000,12480
+MUM-10939,Malad West,Western Suburbs,19.1825,72.8485,2022,12,1,1,551,18,24,Apartment,Semi-Furnished,6800000,12341
+MUM-11133,Malad West,Western Suburbs,19.1862,72.8471,2022,9,2,1,1032,23,9,Apartment,Semi-Furnished,13600000,13178
+MUM-11198,Malad West,Western Suburbs,19.1864,72.8464,2022,4,2,2,972,7,10,Apartment,Semi-Furnished,10900000,11214
+MUM-11284,Malad West,Western Suburbs,19.1853,72.8486,2022,3,1,1,593,16,18,Apartment,Unfurnished,7300000,12310
+MUM-11345,Malad West,Western Suburbs,19.1861,72.8567,2022,5,2,2,951,28,9,Apartment,Fully Furnished,12500000,13144
+MUM-10083,Mulund West,Central Suburbs,19.1705,72.953,2022,10,2,2,749,17,19,Apartment,Semi-Furnished,7800000,10414
+MUM-10167,Mulund West,Central Suburbs,19.1679,72.9538,2022,10,3,2,1198,29,8,Apartment,Semi-Furnished,12700000,10601
+MUM-10209,Mulund West,Central Suburbs,19.1651,72.9531,2022,2,3,4,1487,15,20,Apartment,Fully Furnished,17700000,11903
+MUM-10316,Mulund West,Central Suburbs,19.1745,72.9575,2022,4,3,3,1397,30,3,Apartment,Semi-Furnished,16900000,12097
+MUM-10341,Mulund West,Central Suburbs,19.1735,72.9575,2022,9,2,2,847,30,0,Apartment,Semi-Furnished,12500000,14758
+MUM-10515,Mulund West,Central Suburbs,19.1635,72.9558,2022,9,3,4,1603,18,15,Apartment,Unfurnished,16800000,10480
+MUM-10704,Mulund West,Central Suburbs,19.1704,72.9542,2022,12,2,2,920,6,23,Apartment,Unfurnished,9800000,10652
+MUM-10725,Mulund West,Central Suburbs,19.1668,72.9577,2022,6,1,1,455,21,2,Apartment,Unfurnished,5400000,11868
+MUM-10813,Mulund West,Central Suburbs,19.1659,72.961,2022,1,2,3,1041,28,0,Apartment,Semi-Furnished,13900000,13353
+MUM-10823,Mulund West,Central Suburbs,19.1703,72.9583,2022,12,1,1,473,20,7,Apartment,Semi-Furnished,5900000,12474
+MUM-10902,Mulund West,Central Suburbs,19.1695,72.9537,2022,10,3,3,1267,24,0,Penthouse,Fully Furnished,21800000,17206
+MUM-10920,Mulund West,Central Suburbs,19.173,72.9522,2022,8,2,2,933,29,15,Apartment,Unfurnished,9500000,10182
+MUM-11027,Mulund West,Central Suburbs,19.1743,72.9558,2022,1,3,3,1538,22,17,Apartment,Unfurnished,15100000,9818
+MUM-11145,Mulund West,Central Suburbs,19.171,72.9535,2022,7,3,3,1176,1,15,Apartment,Unfurnished,14000000,11905
+MUM-11306,Mulund West,Central Suburbs,19.1747,72.9552,2022,10,3,2,1310,16,22,Apartment,Unfurnished,13100000,10000
+MUM-11404,Mulund West,Central Suburbs,19.1706,72.95,2022,12,4,4,2275,14,13,Apartment,Unfurnished,26500000,11648
+MUM-11465,Mulund West,Central Suburbs,19.1703,72.9591,2022,3,1,1,445,27,7,Apartment,Semi-Furnished,5200000,11685
+MUM-10066,Powai,Eastern Suburbs,19.1156,72.9047,2022,5,3,3,1090,29,23,Apartment,Unfurnished,13300000,12202
+MUM-10523,Powai,Eastern Suburbs,19.1163,72.9084,2022,1,2,1,815,1,21,Apartment,Semi-Furnished,10600000,13006
+MUM-10551,Powai,Eastern Suburbs,19.1154,72.9034,2022,3,3,3,1439,25,20,Apartment,Semi-Furnished,18900000,13134
+MUM-10774,Powai,Eastern Suburbs,19.1169,72.9072,2022,10,3,3,1452,6,2,Apartment,Fully Furnished,21900000,15083
+MUM-11172,Powai,Eastern Suburbs,19.1131,72.9051,2022,7,3,2,1114,11,15,Apartment,Semi-Furnished,15000000,13465
+MUM-11367,Powai,Eastern Suburbs,19.1128,72.9105,2022,6,2,2,962,24,6,Apartment,Unfurnished,15100000,15696
+MUM-11405,Powai,Eastern Suburbs,19.1138,72.9029,2022,5,3,3,1373,13,2,Penthouse,Semi-Furnished,28400000,20685
+MUM-10048,Santacruz West,Western Suburbs,19.0818,72.8363,2022,4,3,3,1393,23,21,Apartment,Semi-Furnished,30600000,21967
+MUM-10101,Santacruz West,Western Suburbs,19.0835,72.8321,2022,9,2,2,805,10,3,Apartment,Unfurnished,18600000,23106
+MUM-10118,Santacruz West,Western Suburbs,19.0845,72.837,2022,1,2,2,905,10,4,Apartment,Semi-Furnished,19400000,21436
+MUM-10260,Santacruz West,Western Suburbs,19.0789,72.8436,2022,1,2,2,923,18,8,Apartment,Semi-Furnished,22000000,23835
+MUM-10793,Santacruz West,Western Suburbs,19.0856,72.8341,2022,3,3,4,1291,27,9,Apartment,Semi-Furnished,25600000,19830
+MUM-10818,Santacruz West,Western Suburbs,19.0839,72.832,2022,3,1,1,594,7,7,Apartment,Semi-Furnished,13200000,22222
+MUM-10820,Santacruz West,Western Suburbs,19.0798,72.8414,2022,8,2,2,912,14,2,Apartment,Semi-Furnished,21700000,23794
+MUM-10845,Santacruz West,Western Suburbs,19.0851,72.8426,2022,6,2,2,930,13,17,Apartment,Unfurnished,20200000,21720
+MUM-11102,Santacruz West,Western Suburbs,19.0813,72.8415,2022,10,4,3,1987,11,23,Apartment,Unfurnished,40100000,20181
+MUM-11151,Santacruz West,Western Suburbs,19.0822,72.8335,2022,9,4,4,2390,1,1,Apartment,Semi-Furnished,54500000,22803
+MUM-11210,Santacruz West,Western Suburbs,19.0821,72.8392,2022,6,1,1,550,23,13,Apartment,Semi-Furnished,12200000,22182
+MUM-10076,Thane West,Thane / Navi Mumbai,19.221,72.9805,2022,11,3,3,1642,19,2,Apartment,Semi-Furnished,17700000,10780
+MUM-10480,Thane West,Thane / Navi Mumbai,19.2202,72.9779,2022,8,3,3,1617,28,15,Apartment,Semi-Furnished,15900000,9833
+MUM-10488,Thane West,Thane / Navi Mumbai,19.2155,72.9769,2022,8,2,2,775,7,8,Apartment,Semi-Furnished,8000000,10323
+MUM-10509,Thane West,Thane / Navi Mumbai,19.2142,72.9739,2022,4,2,1,800,11,9,Apartment,Unfurnished,9100000,11375
+MUM-10512,Thane West,Thane / Navi Mumbai,19.2191,72.9783,2022,1,3,3,1229,4,14,Apartment,Unfurnished,12800000,10415
+MUM-10546,Thane West,Thane / Navi Mumbai,19.2199,72.9812,2022,7,3,3,1430,18,23,Apartment,Unfurnished,12100000,8462
+MUM-10888,Thane West,Thane / Navi Mumbai,19.219,72.9726,2022,1,2,1,831,7,23,Apartment,Unfurnished,7000000,8424
+MUM-10901,Thane West,Thane / Navi Mumbai,19.2155,72.9679,2022,12,1,2,519,27,2,Studio,Semi-Furnished,5200000,10019
+MUM-10948,Thane West,Thane / Navi Mumbai,19.2283,72.9811,2022,1,2,2,901,5,1,Apartment,Unfurnished,8700000,9656
+MUM-11033,Thane West,Thane / Navi Mumbai,19.2179,72.9766,2022,7,1,1,632,29,20,Apartment,Unfurnished,6000000,9494
+MUM-11100,Thane West,Thane / Navi Mumbai,19.2246,72.9861,2022,1,3,2,1381,15,17,Apartment,Unfurnished,13400000,9703
+MUM-11355,Thane West,Thane / Navi Mumbai,19.217,72.9761,2022,7,2,2,873,11,23,Apartment,Fully Furnished,8300000,9507
+MUM-10003,Vashi,Thane / Navi Mumbai,19.0796,73.001,2022,2,2,2,745,14,12,Apartment,Unfurnished,7400000,9933
+MUM-10126,Vashi,Thane / Navi Mumbai,19.0768,72.9975,2022,7,1,1,499,12,25,Apartment,Semi-Furnished,5000000,10020
+MUM-10160,Vashi,Thane / Navi Mumbai,19.0755,72.9992,2022,8,1,1,442,9,6,Apartment,Semi-Furnished,4900000,11086
+MUM-10253,Vashi,Thane / Navi Mumbai,19.079,72.9913,2022,2,3,3,1378,4,11,Apartment,Unfurnished,12900000,9361
+MUM-10552,Vashi,Thane / Navi Mumbai,19.0804,72.9974,2022,10,2,2,1012,9,9,Apartment,Unfurnished,10200000,10079
+MUM-10603,Vashi,Thane / Navi Mumbai,19.0828,72.9996,2022,12,2,2,979,7,11,Apartment,Unfurnished,11600000,11849
+MUM-10800,Vashi,Thane / Navi Mumbai,19.078,72.9993,2022,9,3,2,1293,26,25,Apartment,Semi-Furnished,13800000,10673
+MUM-10927,Vashi,Thane / Navi Mumbai,19.0787,72.9967,2022,8,4,4,1809,30,16,Apartment,Unfurnished,17700000,9784
+MUM-11019,Vashi,Thane / Navi Mumbai,19.0813,72.9993,2022,3,1,1,638,20,0,Apartment,Unfurnished,7000000,10972
+MUM-11083,Vashi,Thane / Navi Mumbai,19.0812,72.9946,2022,8,1,1,615,6,13,Apartment,Semi-Furnished,6400000,10407
+MUM-11338,Vashi,Thane / Navi Mumbai,19.0875,72.9988,2022,10,1,1,463,2,2,Apartment,Unfurnished,4900000,10583
+MUM-10166,Vile Parle West,Western Suburbs,19.0996,72.8386,2022,6,4,4,2275,27,16,Apartment,Unfurnished,41600000,18286
+MUM-10188,Vile Parle West,Western Suburbs,19.0969,72.8405,2022,9,3,3,1090,25,13,Apartment,Semi-Furnished,23700000,21743
+MUM-10352,Vile Parle West,Western Suburbs,19.1019,72.8397,2022,7,3,3,1454,21,14,Apartment,Semi-Furnished,30000000,20633
+MUM-10382,Vile Parle West,Western Suburbs,19.1011,72.8473,2022,2,1,1,572,28,7,Apartment,Unfurnished,12600000,22028
+MUM-10402,Vile Parle West,Western Suburbs,19.0951,72.8432,2022,1,2,2,1006,24,14,Apartment,Fully Furnished,21500000,21372
+MUM-10450,Vile Parle West,Western Suburbs,19.096,72.8413,2022,10,3,3,1479,30,2,Apartment,Unfurnished,31700000,21433
+MUM-10619,Vile Parle West,Western Suburbs,19.1069,72.8441,2022,11,2,3,872,16,3,Apartment,Semi-Furnished,18500000,21216
+MUM-10723,Vile Parle West,Western Suburbs,19.1005,72.8399,2022,4,4,4,1878,6,20,Apartment,Unfurnished,33600000,17891
+MUM-10810,Vile Parle West,Western Suburbs,19.0948,72.8425,2022,11,2,2,1022,29,24,Apartment,Semi-Furnished,19900000,19472
+MUM-10279,Worli,South Mumbai,19.0011,72.8115,2022,1,1,1,614,7,10,Apartment,Fully Furnished,16600000,27036
+MUM-10895,Worli,South Mumbai,18.9911,72.8155,2022,6,2,3,948,22,13,Apartment,Fully Furnished,32700000,34494
+MUM-10974,Worli,South Mumbai,18.994,72.8283,2022,10,2,1,831,30,2,Apartment,Unfurnished,24100000,29001
+MUM-10990,Worli,South Mumbai,19.0011,72.8145,2022,4,2,1,899,7,13,Apartment,Unfurnished,25200000,28031
+MUM-11183,Worli,South Mumbai,18.9996,72.8106,2022,3,1,1,602,9,11,Apartment,Semi-Furnished,17300000,28738
+MUM-11275,Worli,South Mumbai,18.9963,72.8146,2022,7,2,2,884,7,6,Apartment,Unfurnished,24900000,28167
+MUM-10105,Andheri East,Western Suburbs,19.108,72.8682,2023,12,3,3,1544,29,8,Apartment,Fully Furnished,25900000,16775
+MUM-10141,Andheri East,Western Suburbs,19.1219,72.873,2023,12,1,1,537,19,20,Apartment,Fully Furnished,7800000,14525
+MUM-10234,Andheri East,Western Suburbs,19.1043,72.8696,2023,9,2,2,761,23,17,Apartment,Semi-Furnished,10500000,13798
+MUM-10298,Andheri East,Western Suburbs,19.1099,72.8642,2023,2,2,2,809,27,4,Apartment,Unfurnished,11900000,14710
+MUM-10429,Andheri East,Western Suburbs,19.1104,72.8757,2023,10,2,2,901,14,11,Apartment,Unfurnished,13000000,14428
+MUM-10536,Andheri East,Western Suburbs,19.116,72.8702,2023,7,2,2,823,26,11,Apartment,Unfurnished,13700000,16646
+MUM-10558,Andheri East,Western Suburbs,19.1088,72.8668,2023,9,4,4,2395,6,10,Apartment,Unfurnished,39400000,16451
+MUM-10617,Andheri East,Western Suburbs,19.1056,72.8677,2023,5,3,3,1582,8,12,Apartment,Unfurnished,25500000,16119
+MUM-10757,Andheri East,Western Suburbs,19.1104,72.8701,2023,4,2,3,908,24,21,Apartment,Fully Furnished,12600000,13877
+MUM-10764,Andheri East,Western Suburbs,19.1128,72.8762,2023,8,3,3,1261,20,18,Apartment,Semi-Furnished,20100000,15940
+MUM-10957,Andheri East,Western Suburbs,19.112,72.8727,2023,3,1,1,558,19,9,Apartment,Fully Furnished,9400000,16846
+MUM-10964,Andheri East,Western Suburbs,19.1109,72.8646,2023,12,3,3,1134,5,2,Apartment,Semi-Furnished,17100000,15079
+MUM-11262,Andheri East,Western Suburbs,19.1152,72.8743,2023,8,4,3,2271,29,18,Apartment,Unfurnished,32700000,14399
+MUM-11399,Andheri East,Western Suburbs,19.1181,72.87,2023,8,3,3,1509,23,22,Apartment,Semi-Furnished,21400000,14182
+MUM-10120,Andheri West,Western Suburbs,19.1334,72.8263,2023,5,1,1,465,13,2,Studio,Unfurnished,8000000,17204
+MUM-10212,Andheri West,Western Suburbs,19.1454,72.8275,2023,6,1,1,479,13,14,Apartment,Semi-Furnished,8800000,18372
+MUM-10227,Andheri West,Western Suburbs,19.1451,72.8329,2023,6,2,2,823,23,21,Apartment,Unfurnished,14600000,17740
+MUM-10368,Andheri West,Western Suburbs,19.1332,72.8283,2023,9,3,3,1532,3,17,Penthouse,Fully Furnished,36800000,24021
+MUM-10547,Andheri West,Western Suburbs,19.1325,72.8315,2023,7,1,1,486,13,23,Apartment,Semi-Furnished,7900000,16255
+MUM-10693,Andheri West,Western Suburbs,19.1352,72.8332,2023,6,3,3,1363,19,19,Apartment,Unfurnished,21100000,15481
+MUM-10955,Andheri West,Western Suburbs,19.1327,72.8271,2023,2,2,2,1037,13,16,Apartment,Semi-Furnished,16600000,16008
+MUM-10996,Andheri West,Western Suburbs,19.1392,72.8331,2023,5,3,2,1233,2,7,Apartment,Unfurnished,23800000,19303
+MUM-11137,Andheri West,Western Suburbs,19.1272,72.8265,2023,9,3,2,1297,12,18,Apartment,Fully Furnished,23700000,18273
+MUM-11207,Andheri West,Western Suburbs,19.1378,72.8321,2023,12,1,2,570,28,11,Apartment,Unfurnished,9700000,17018
+MUM-11341,Andheri West,Western Suburbs,19.1399,72.828,2023,6,1,1,439,12,23,Apartment,Unfurnished,7800000,17768
+MUM-11385,Andheri West,Western Suburbs,19.1392,72.8278,2023,11,3,3,1589,23,11,Apartment,Semi-Furnished,31200000,19635
+MUM-11474,Andheri West,Western Suburbs,19.1328,72.8378,2023,3,1,1,494,29,4,Apartment,Semi-Furnished,10500000,21255
+MUM-11478,Andheri West,Western Suburbs,19.1344,72.8334,2023,8,2,2,983,2,17,Apartment,Semi-Furnished,17700000,18006
+MUM-10014,Bandra West,Western Suburbs,19.0572,72.8289,2023,5,4,4,2138,9,20,Apartment,Semi-Furnished,63000000,29467
+MUM-10175,Bandra West,Western Suburbs,19.0549,72.8264,2023,8,2,2,832,14,14,Apartment,Semi-Furnished,26000000,31250
+MUM-10377,Bandra West,Western Suburbs,19.0583,72.8297,2023,2,2,1,766,5,9,Apartment,Unfurnished,21500000,28068
+MUM-10467,Bandra West,Western Suburbs,19.0565,72.8193,2023,8,2,3,935,7,25,Apartment,Fully Furnished,33100000,35401
+MUM-10475,Bandra West,Western Suburbs,19.0631,72.8305,2023,2,4,4,1956,28,7,Apartment,Semi-Furnished,55500000,28374
+MUM-10499,Bandra West,Western Suburbs,19.0639,72.8281,2023,12,3,2,1279,11,4,Apartment,Semi-Furnished,42800000,33464
+MUM-10775,Bandra West,Western Suburbs,19.0549,72.8267,2023,3,1,1,603,5,4,Apartment,Unfurnished,17200000,28524
+MUM-10832,Bandra West,Western Suburbs,19.0615,72.8198,2023,3,4,4,2176,28,16,Apartment,Semi-Furnished,69300000,31847
+MUM-10876,Bandra West,Western Suburbs,19.0568,72.8352,2023,11,2,2,953,16,24,Apartment,Unfurnished,26700000,28017
+MUM-10899,Bandra West,Western Suburbs,19.0506,72.8255,2023,7,2,2,953,12,12,Apartment,Unfurnished,27500000,28856
+MUM-10938,Bandra West,Western Suburbs,19.06,72.8331,2023,3,2,2,930,11,21,Apartment,Unfurnished,27500000,29570
+MUM-11036,Bandra West,Western Suburbs,19.0602,72.8263,2023,1,4,4,2316,2,15,Apartment,Semi-Furnished,81200000,35060
+MUM-11059,Bandra West,Western Suburbs,19.0627,72.8273,2023,10,3,2,1258,2,13,Apartment,Unfurnished,39400000,31320
+MUM-11101,Bandra West,Western Suburbs,19.0578,72.8261,2023,2,3,3,1347,11,14,Apartment,Unfurnished,39000000,28953
+MUM-11149,Bandra West,Western Suburbs,19.0637,72.8292,2023,2,2,3,1025,28,12,Apartment,Unfurnished,32700000,31902
+MUM-11189,Bandra West,Western Suburbs,19.0562,72.8285,2023,7,2,3,974,8,21,Apartment,Unfurnished,30700000,31520
+MUM-11205,Bandra West,Western Suburbs,19.0662,72.8176,2023,2,3,3,1167,5,7,Apartment,Semi-Furnished,44900000,38475
+MUM-11298,Bandra West,Western Suburbs,19.0582,72.8357,2023,4,4,4,2576,30,22,Apartment,Semi-Furnished,78500000,30474
+MUM-11327,Bandra West,Western Suburbs,19.0607,72.827,2023,10,3,3,1482,7,13,Apartment,Semi-Furnished,46700000,31511
+MUM-11340,Bandra West,Western Suburbs,19.0556,72.8224,2023,11,2,2,770,3,3,Apartment,Semi-Furnished,21800000,28312
+MUM-11415,Bandra West,Western Suburbs,19.059,72.83,2023,2,3,3,1312,24,4,Apartment,Unfurnished,34300000,26143
+MUM-11460,Bandra West,Western Suburbs,19.0661,72.8231,2023,11,3,3,1087,22,14,Apartment,Semi-Furnished,32000000,29439
+MUM-10037,Borivali West,Western Suburbs,19.2322,72.8643,2023,12,4,4,2025,20,20,Apartment,Unfurnished,27500000,13580
+MUM-10081,Borivali West,Western Suburbs,19.228,72.8525,2023,1,3,3,1489,29,25,Apartment,Semi-Furnished,19700000,13230
+MUM-10165,Borivali West,Western Suburbs,19.2395,72.8506,2023,12,2,2,983,14,4,Apartment,Semi-Furnished,14100000,14344
+MUM-10448,Borivali West,Western Suburbs,19.2368,72.8508,2023,1,3,3,1640,20,1,Apartment,Fully Furnished,23700000,14451
+MUM-10494,Borivali West,Western Suburbs,19.2294,72.8626,2023,1,1,1,546,10,23,Apartment,Unfurnished,6500000,11905
+MUM-10505,Borivali West,Western Suburbs,19.2289,72.8534,2023,3,3,2,1618,8,1,Apartment,Unfurnished,22400000,13844
+MUM-10631,Borivali West,Western Suburbs,19.2384,72.848,2023,4,3,3,1605,22,5,Apartment,Semi-Furnished,24400000,15202
+MUM-10691,Borivali West,Western Suburbs,19.2354,72.8521,2023,6,1,1,561,12,7,Apartment,Semi-Furnished,7300000,13012
+MUM-10724,Borivali West,Western Suburbs,19.2347,72.8617,2023,2,1,1,552,3,18,Apartment,Semi-Furnished,7600000,13768
+MUM-10912,Borivali West,Western Suburbs,19.2267,72.8566,2023,2,1,1,542,19,1,Studio,Semi-Furnished,7300000,13469
+MUM-10942,Borivali West,Western Suburbs,19.2287,72.8541,2023,12,1,1,494,19,16,Apartment,Fully Furnished,6600000,13360
+MUM-10982,Borivali West,Western Suburbs,19.2305,72.8572,2023,12,1,1,540,20,9,Apartment,Semi-Furnished,6700000,12407
+MUM-11030,Borivali West,Western Suburbs,19.2322,72.8583,2023,3,1,1,642,2,24,Apartment,Semi-Furnished,8200000,12773
+MUM-11046,Borivali West,Western Suburbs,19.2299,72.8517,2023,1,1,1,622,4,16,Apartment,Semi-Furnished,9000000,14469
+MUM-11075,Borivali West,Western Suburbs,19.2327,72.8537,2023,10,1,1,515,4,22,Apartment,Unfurnished,6700000,13010
+MUM-11144,Borivali West,Western Suburbs,19.225,72.8585,2023,11,1,1,518,19,2,Apartment,Semi-Furnished,8200000,15830
+MUM-11234,Borivali West,Western Suburbs,19.2332,72.8493,2023,3,2,2,913,23,3,Apartment,Unfurnished,11400000,12486
+MUM-11249,Borivali West,Western Suburbs,19.2306,72.8532,2023,9,2,2,1048,15,15,Apartment,Unfurnished,13200000,12595
+MUM-11272,Borivali West,Western Suburbs,19.2328,72.8553,2023,4,1,1,522,12,13,Apartment,Unfurnished,7800000,14943
+MUM-11381,Borivali West,Western Suburbs,19.2289,72.8522,2023,10,2,2,876,26,25,Apartment,Unfurnished,11500000,13128
+MUM-10319,Chembur,Eastern Suburbs,19.0661,72.8978,2023,8,2,1,767,20,8,Apartment,Unfurnished,11900000,15515
+MUM-10320,Chembur,Eastern Suburbs,19.0668,72.9089,2023,3,2,2,931,14,3,Apartment,Unfurnished,13100000,14071
+MUM-10326,Chembur,Eastern Suburbs,19.0536,72.8969,2023,7,3,2,1534,4,13,Apartment,Unfurnished,24400000,15906
+MUM-10483,Chembur,Eastern Suburbs,19.0588,72.8935,2023,9,3,3,1537,9,17,Apartment,Unfurnished,20800000,13533
+MUM-10572,Chembur,Eastern Suburbs,19.0552,72.8978,2023,7,2,1,912,19,12,Apartment,Unfurnished,13800000,15132
+MUM-10584,Chembur,Eastern Suburbs,19.0678,72.9023,2023,5,2,2,773,25,6,Apartment,Semi-Furnished,13200000,17076
+MUM-10618,Chembur,Eastern Suburbs,19.0516,72.8957,2023,11,2,3,1000,14,11,Apartment,Unfurnished,15000000,15000
+MUM-10694,Chembur,Eastern Suburbs,19.0625,72.9008,2023,7,1,1,479,20,24,Apartment,Unfurnished,7200000,15031
+MUM-10892,Chembur,Eastern Suburbs,19.0643,72.9022,2023,3,4,4,2466,26,3,Apartment,Unfurnished,37800000,15328
+MUM-11161,Chembur,Eastern Suburbs,19.0664,72.9012,2023,2,4,4,2386,25,8,Apartment,Fully Furnished,39800000,16681
+MUM-11264,Chembur,Eastern Suburbs,19.0607,72.9014,2023,3,2,2,835,25,2,Apartment,Semi-Furnished,12900000,15449
+MUM-11495,Chembur,Eastern Suburbs,19.0594,72.9007,2023,5,2,2,820,16,15,Apartment,Fully Furnished,12300000,15000
+MUM-10292,Colaba,South Mumbai,18.8996,72.8204,2023,5,1,1,529,25,16,Apartment,Unfurnished,15100000,28544
+MUM-10424,Colaba,South Mumbai,18.9076,72.8167,2023,7,2,2,761,29,8,Apartment,Semi-Furnished,28300000,37188
+MUM-10604,Colaba,South Mumbai,18.9013,72.8093,2023,1,3,3,1100,22,2,Apartment,Unfurnished,40200000,36545
+MUM-10782,Colaba,South Mumbai,18.9123,72.8148,2023,8,3,3,1481,29,8,Apartment,Semi-Furnished,57000000,38488
+MUM-10952,Colaba,South Mumbai,18.9051,72.8124,2023,9,1,1,437,20,7,Apartment,Semi-Furnished,16500000,37757
+MUM-11106,Colaba,South Mumbai,18.9009,72.8164,2023,6,1,1,555,11,3,Apartment,Unfurnished,21400000,38559
+MUM-11174,Colaba,South Mumbai,18.8994,72.8159,2023,3,1,1,631,10,15,Apartment,Unfurnished,22500000,35658
+MUM-11261,Colaba,South Mumbai,18.9132,72.8119,2023,2,2,3,1045,21,7,Apartment,Fully Furnished,40700000,38947
+MUM-11459,Colaba,South Mumbai,18.9047,72.8124,2023,11,1,1,594,6,20,Apartment,Semi-Furnished,19800000,33333
+MUM-10106,Dadar West,South Mumbai,19.0188,72.8464,2023,4,2,2,972,20,15,Apartment,Unfurnished,21500000,22119
+MUM-10158,Dadar West,South Mumbai,19.0131,72.8452,2023,6,3,3,1198,23,8,Apartment,Unfurnished,28900000,24124
+MUM-10322,Dadar West,South Mumbai,19.0206,72.8424,2023,11,1,1,425,17,13,Apartment,Fully Furnished,10800000,25412
+MUM-10333,Dadar West,South Mumbai,19.0177,72.8492,2023,5,3,3,1488,15,1,Apartment,Fully Furnished,38400000,25806
+MUM-10613,Dadar West,South Mumbai,19.0162,72.8464,2023,8,1,1,436,20,0,Apartment,Unfurnished,10500000,24083
+MUM-10688,Dadar West,South Mumbai,19.0216,72.8462,2023,6,1,2,634,29,2,Studio,Unfurnished,13700000,21609
+MUM-10786,Dadar West,South Mumbai,19.0128,72.8429,2023,5,3,3,1638,28,24,Apartment,Semi-Furnished,33300000,20330
+MUM-10856,Dadar West,South Mumbai,19.0214,72.8452,2023,8,1,1,464,12,21,Apartment,Semi-Furnished,11100000,23922
+MUM-10963,Dadar West,South Mumbai,19.0178,72.8518,2023,4,3,3,1355,23,10,Apartment,Unfurnished,25100000,18524
+MUM-11138,Dadar West,South Mumbai,19.0115,72.8432,2023,10,2,2,780,26,10,Apartment,Unfurnished,18000000,23077
+MUM-11139,Dadar West,South Mumbai,19.0179,72.8474,2023,12,2,2,887,12,17,Apartment,Unfurnished,18100000,20406
+MUM-11258,Dadar West,South Mumbai,19.0145,72.8555,2023,1,2,2,779,21,11,Apartment,Unfurnished,20500000,26316
+MUM-11302,Dadar West,South Mumbai,19.0193,72.8439,2023,2,4,4,2294,16,20,Apartment,Unfurnished,46500000,20270
+MUM-11311,Dadar West,South Mumbai,19.0197,72.8435,2023,7,2,2,984,5,20,Apartment,Fully Furnished,20300000,20630
+MUM-11438,Dadar West,South Mumbai,19.0276,72.8396,2023,12,1,2,586,4,11,Apartment,Semi-Furnished,11200000,19113
+MUM-11470,Dadar West,South Mumbai,19.0172,72.8512,2023,4,2,2,1000,27,19,Apartment,Fully Furnished,25700000,25700
+MUM-10191,Goregaon West,Western Suburbs,19.1583,72.8565,2023,9,2,1,931,20,14,Apartment,Unfurnished,13300000,14286
+MUM-10340,Goregaon West,Western Suburbs,19.1663,72.8525,2023,5,1,1,535,4,9,Apartment,Semi-Furnished,7000000,13084
+MUM-10347,Goregaon West,Western Suburbs,19.1703,72.8549,2023,12,3,3,1424,9,13,Apartment,Unfurnished,20200000,14185
+MUM-10421,Goregaon West,Western Suburbs,19.1729,72.8505,2023,8,3,4,1212,14,6,Apartment,Unfurnished,17200000,14191
+MUM-10566,Goregaon West,Western Suburbs,19.1653,72.8494,2023,11,2,2,1020,19,20,Apartment,Unfurnished,13500000,13235
+MUM-10659,Goregaon West,Western Suburbs,19.1694,72.8531,2023,4,2,2,757,14,17,Apartment,Unfurnished,9700000,12814
+MUM-10799,Goregaon West,Western Suburbs,19.1666,72.8494,2023,10,2,2,813,29,10,Apartment,Unfurnished,10700000,13161
+MUM-10907,Goregaon West,Western Suburbs,19.1624,72.8553,2023,12,1,2,574,30,22,Studio,Unfurnished,6200000,10801
+MUM-10973,Goregaon West,Western Suburbs,19.1654,72.8569,2023,9,1,1,553,10,25,Apartment,Semi-Furnished,6400000,11573
+MUM-11253,Goregaon West,Western Suburbs,19.1638,72.8527,2023,2,3,3,1330,16,22,Apartment,Semi-Furnished,18300000,13759
+MUM-11364,Goregaon West,Western Suburbs,19.1633,72.8527,2023,4,3,3,1580,21,12,Apartment,Unfurnished,20200000,12785
+MUM-11384,Goregaon West,Western Suburbs,19.1645,72.858,2023,4,3,3,1289,26,5,Apartment,Semi-Furnished,21500000,16680
+MUM-11417,Goregaon West,Western Suburbs,19.1654,72.8506,2023,12,3,4,1338,11,1,Apartment,Fully Furnished,20900000,15620
+MUM-11445,Goregaon West,Western Suburbs,19.1736,72.8576,2023,9,1,1,459,2,21,Apartment,Unfurnished,5600000,12200
+MUM-10056,Juhu,Western Suburbs,19.1083,72.8262,2023,5,3,2,1599,16,22,Apartment,Semi-Furnished,41200000,25766
+MUM-10097,Juhu,Western Suburbs,19.1066,72.8269,2023,6,1,1,547,12,25,Apartment,Unfurnished,13200000,24132
+MUM-10178,Juhu,Western Suburbs,19.1111,72.8194,2023,8,4,4,2164,29,25,Apartment,Semi-Furnished,56500000,26109
+MUM-10225,Juhu,Western Suburbs,19.1061,72.8186,2023,5,4,4,2256,23,25,Villa,Unfurnished,68200000,30230
+MUM-10290,Juhu,Western Suburbs,19.1133,72.8333,2023,9,3,3,1547,19,4,Apartment,Fully Furnished,51900000,33549
+MUM-10407,Juhu,Western Suburbs,19.105,72.8304,2023,12,2,2,1012,10,25,Apartment,Semi-Furnished,25200000,24901
+MUM-10444,Juhu,Western Suburbs,19.1074,72.8217,2023,6,2,2,1047,30,18,Apartment,Unfurnished,24700000,23591
+MUM-10510,Juhu,Western Suburbs,19.1055,72.825,2023,3,2,2,754,1,1,Apartment,Unfurnished,21800000,28912
+MUM-10606,Juhu,Western Suburbs,19.1035,72.8266,2023,6,1,1,535,12,10,Apartment,Semi-Furnished,14100000,26355
+MUM-10656,Juhu,Western Suburbs,19.1095,72.8251,2023,4,2,2,998,12,0,Apartment,Unfurnished,27400000,27455
+MUM-10785,Juhu,Western Suburbs,19.112,72.8345,2023,11,1,1,469,18,21,Apartment,Unfurnished,12300000,26226
+MUM-11008,Juhu,Western Suburbs,19.1084,72.819,2023,8,3,3,1428,4,11,Apartment,Semi-Furnished,39100000,27381
+MUM-11045,Juhu,Western Suburbs,19.1001,72.8208,2023,7,3,3,1376,17,21,Apartment,Semi-Furnished,40300000,29288
+MUM-11115,Juhu,Western Suburbs,19.105,72.8276,2023,2,2,1,825,2,13,Apartment,Unfurnished,23000000,27879
+MUM-11400,Juhu,Western Suburbs,19.1122,72.8245,2023,2,1,1,473,4,11,Studio,Unfurnished,12100000,25581
+MUM-11430,Juhu,Western Suburbs,19.1004,72.8255,2023,12,3,4,1583,5,5,Apartment,Semi-Furnished,42400000,26785
+MUM-11454,Juhu,Western Suburbs,19.1104,72.8288,2023,5,3,3,1473,30,24,Apartment,Semi-Furnished,36100000,24508
+MUM-10093,Kandivali West,Western Suburbs,19.2068,72.8547,2023,6,2,1,869,25,13,Apartment,Semi-Furnished,10700000,12313
+MUM-10221,Kandivali West,Western Suburbs,19.2059,72.8506,2023,10,3,3,1556,14,22,Apartment,Semi-Furnished,17100000,10990
+MUM-10293,Kandivali West,Western Suburbs,19.2067,72.8529,2023,11,1,1,496,10,2,Apartment,Unfurnished,6900000,13911
+MUM-10343,Kandivali West,Western Suburbs,19.2033,72.8539,2023,6,3,2,1560,30,2,Apartment,Semi-Furnished,19700000,12628
+MUM-10426,Kandivali West,Western Suburbs,19.2018,72.8514,2023,11,4,4,2188,15,10,Apartment,Unfurnished,25400000,11609
+MUM-10472,Kandivali West,Western Suburbs,19.2061,72.8506,2023,10,2,2,1020,23,15,Apartment,Semi-Furnished,12200000,11961
+MUM-10517,Kandivali West,Western Suburbs,19.2023,72.8497,2023,7,4,4,2280,23,6,Apartment,Unfurnished,26600000,11667
+MUM-10632,Kandivali West,Western Suburbs,19.212,72.8578,2023,9,4,4,2061,2,0,Apartment,Unfurnished,26800000,13003
+MUM-10746,Kandivali West,Western Suburbs,19.2024,72.8498,2023,6,2,2,1034,28,18,Apartment,Unfurnished,11500000,11122
+MUM-10855,Kandivali West,Western Suburbs,19.206,72.8488,2023,2,3,3,1339,10,10,Apartment,Fully Furnished,17800000,13294
+MUM-10919,Kandivali West,Western Suburbs,19.205,72.8425,2023,9,3,3,1443,24,17,Apartment,Semi-Furnished,16000000,11088
+MUM-10971,Kandivali West,Western Suburbs,19.2064,72.8492,2023,11,1,1,604,8,17,Apartment,Unfurnished,7200000,11921
+MUM-11122,Kandivali West,Western Suburbs,19.1999,72.8421,2023,1,3,3,1562,9,18,Apartment,Semi-Furnished,20500000,13124
+MUM-11124,Kandivali West,Western Suburbs,19.2053,72.8488,2023,10,2,2,891,27,20,Apartment,Semi-Furnished,9700000,10887
+MUM-11214,Kandivali West,Western Suburbs,19.1994,72.8542,2023,1,4,4,1726,8,1,Apartment,Unfurnished,22700000,13152
+MUM-11233,Kandivali West,Western Suburbs,19.2072,72.8531,2023,9,2,2,846,19,7,Apartment,Fully Furnished,11400000,13475
+MUM-11250,Kandivali West,Western Suburbs,19.2048,72.8475,2023,3,1,1,454,27,18,Apartment,Semi-Furnished,5700000,12555
+MUM-10054,Lower Parel,South Mumbai,18.9993,72.829,2023,10,2,2,882,8,6,Apartment,Unfurnished,23900000,27098
+MUM-10080,Lower Parel,South Mumbai,19.0014,72.8315,2023,7,2,2,726,8,21,Apartment,Fully Furnished,18300000,25207
+MUM-10371,Lower Parel,South Mumbai,19.0025,72.8311,2023,2,3,3,1432,26,24,Apartment,Semi-Furnished,37300000,26047
+MUM-10391,Lower Parel,South Mumbai,19.0001,72.8336,2023,1,2,2,1049,17,4,Apartment,Fully Furnished,32200000,30696
+MUM-10602,Lower Parel,South Mumbai,18.9994,72.8325,2023,8,2,2,948,27,7,Apartment,Semi-Furnished,23200000,24473
+MUM-10655,Lower Parel,South Mumbai,19.0068,72.8187,2023,4,3,3,1325,27,4,Apartment,Fully Furnished,38700000,29208
+MUM-10769,Lower Parel,South Mumbai,19.002,72.831,2023,7,3,2,1569,14,0,Villa,Unfurnished,51400000,32760
+MUM-10779,Lower Parel,South Mumbai,18.9987,72.8286,2023,12,1,2,477,16,20,Apartment,Fully Furnished,13600000,28512
+MUM-10792,Lower Parel,South Mumbai,19.0045,72.8267,2023,10,2,2,918,29,23,Apartment,Unfurnished,22700000,24728
+MUM-10897,Lower Parel,South Mumbai,18.9988,72.8314,2023,6,1,1,480,4,4,Apartment,Fully Furnished,13700000,28542
+MUM-10923,Lower Parel,South Mumbai,19.0079,72.8212,2023,4,4,4,2171,12,18,Apartment,Semi-Furnished,57700000,26578
+MUM-10975,Lower Parel,South Mumbai,18.9935,72.8268,2023,8,3,2,1462,20,2,Apartment,Unfurnished,42200000,28865
+MUM-11140,Lower Parel,South Mumbai,18.9987,72.8318,2023,6,3,3,1491,21,14,Apartment,Semi-Furnished,40500000,27163
+MUM-11255,Lower Parel,South Mumbai,18.9985,72.8304,2023,8,2,2,864,23,20,Apartment,Unfurnished,23500000,27199
+MUM-11411,Lower Parel,South Mumbai,18.9967,72.831,2023,8,2,2,940,7,18,Apartment,Semi-Furnished,25500000,27128
+MUM-10111,Malabar Hill,South Mumbai,18.9599,72.7977,2023,10,2,2,827,28,20,Apartment,Fully Furnished,40300000,48730
+MUM-10122,Malabar Hill,South Mumbai,18.9504,72.8009,2023,1,1,1,446,25,2,Apartment,Semi-Furnished,22300000,50000
+MUM-10308,Malabar Hill,South Mumbai,18.9514,72.8069,2023,7,3,3,1488,3,14,Apartment,Unfurnished,70600000,47446
+MUM-10324,Malabar Hill,South Mumbai,18.9606,72.7953,2023,5,2,1,1000,9,12,Apartment,Fully Furnished,45400000,45400
+MUM-10676,Malabar Hill,South Mumbai,18.9537,72.8008,2023,2,3,3,1240,16,12,Apartment,Unfurnished,56400000,45484
+MUM-10863,Malabar Hill,South Mumbai,18.9582,72.7962,2023,8,1,1,552,18,14,Apartment,Unfurnished,22600000,40942
+MUM-10998,Malabar Hill,South Mumbai,18.9454,72.7982,2023,1,3,3,1541,22,16,Apartment,Semi-Furnished,67900000,44062
+MUM-11025,Malabar Hill,South Mumbai,18.9521,72.798,2023,12,2,1,967,6,5,Apartment,Fully Furnished,49800000,51499
+MUM-11029,Malabar Hill,South Mumbai,18.9526,72.7953,2023,9,2,1,870,19,24,Apartment,Fully Furnished,42200000,48506
+MUM-11103,Malabar Hill,South Mumbai,18.9519,72.8044,2023,4,2,3,944,23,2,Apartment,Fully Furnished,51600000,54661
+MUM-11235,Malabar Hill,South Mumbai,18.9552,72.797,2023,7,1,1,582,20,20,Apartment,Semi-Furnished,23300000,40034
+MUM-11286,Malabar Hill,South Mumbai,18.9616,72.8004,2023,7,1,2,485,7,18,Apartment,Semi-Furnished,20500000,42268
+MUM-11292,Malabar Hill,South Mumbai,18.9517,72.7969,2023,4,2,2,837,23,2,Apartment,Unfurnished,40900000,48865
+MUM-11373,Malabar Hill,South Mumbai,18.9543,72.7928,2023,2,2,2,799,12,3,Apartment,Unfurnished,36200000,45307
+MUM-11397,Malabar Hill,South Mumbai,18.9572,72.8008,2023,12,4,4,2377,12,17,Apartment,Unfurnished,100200000,42154
+MUM-10006,Malad West,Western Suburbs,19.1842,72.8514,2023,4,3,3,1348,17,2,Apartment,Semi-Furnished,17900000,13279
+MUM-10263,Malad West,Western Suburbs,19.1839,72.8492,2023,6,2,2,961,1,21,Apartment,Semi-Furnished,13600000,14152
+MUM-10285,Malad West,Western Suburbs,19.1883,72.8406,2023,3,2,2,833,18,18,Apartment,Semi-Furnished,10700000,12845
+MUM-10360,Malad West,Western Suburbs,19.1841,72.8406,2023,6,1,1,428,13,25,Apartment,Semi-Furnished,5100000,11916
+MUM-10393,Malad West,Western Suburbs,19.1888,72.8529,2023,7,4,3,2051,7,13,Apartment,Semi-Furnished,27100000,13213
+MUM-10443,Malad West,Western Suburbs,19.1894,72.8463,2023,11,2,1,757,13,2,Apartment,Semi-Furnished,11800000,15588
+MUM-10534,Malad West,Western Suburbs,19.1872,72.852,2023,8,1,1,442,21,23,Apartment,Unfurnished,5100000,11538
+MUM-10564,Malad West,Western Suburbs,19.1826,72.8416,2023,10,3,3,1484,30,22,Apartment,Fully Furnished,17500000,11792
+MUM-10663,Malad West,Western Suburbs,19.1876,72.8452,2023,11,2,2,932,8,18,Apartment,Semi-Furnished,14100000,15129
+MUM-10771,Malad West,Western Suburbs,19.1837,72.8444,2023,8,4,4,2081,24,2,Apartment,Unfurnished,25100000,12062
+MUM-10777,Malad West,Western Suburbs,19.1802,72.849,2023,5,4,4,1730,12,1,Apartment,Semi-Furnished,24600000,14220
+MUM-10827,Malad West,Western Suburbs,19.1813,72.8466,2023,7,3,3,1208,2,16,Apartment,Unfurnished,16400000,13576
+MUM-10929,Malad West,Western Suburbs,19.1795,72.8435,2023,7,3,3,1204,14,5,Apartment,Semi-Furnished,14400000,11960
+MUM-10950,Malad West,Western Suburbs,19.1903,72.8438,2023,1,2,1,720,26,15,Apartment,Unfurnished,10200000,14167
+MUM-11279,Malad West,Western Suburbs,19.1877,72.8494,2023,3,3,3,1379,20,10,Apartment,Unfurnished,17400000,12618
+MUM-11296,Malad West,Western Suburbs,19.1869,72.845,2023,3,3,3,1193,24,25,Apartment,Unfurnished,12700000,10645
+MUM-11431,Malad West,Western Suburbs,19.1925,72.848,2023,2,1,2,612,2,11,Apartment,Unfurnished,8200000,13399
+MUM-11485,Malad West,Western Suburbs,19.1863,72.8455,2023,3,3,3,1370,8,8,Apartment,Semi-Furnished,17900000,13066
+MUM-10490,Mulund West,Central Suburbs,19.1727,72.9644,2023,10,3,3,1369,26,9,Apartment,Fully Furnished,18000000,13148
+MUM-10642,Mulund West,Central Suburbs,19.1707,72.9496,2023,12,2,2,933,14,5,Apartment,Semi-Furnished,11100000,11897
+MUM-10803,Mulund West,Central Suburbs,19.1729,72.9565,2023,10,2,2,981,29,21,Apartment,Unfurnished,12000000,12232
+MUM-10981,Mulund West,Central Suburbs,19.1734,72.9501,2023,2,2,3,823,28,19,Apartment,Semi-Furnished,10500000,12758
+MUM-11048,Mulund West,Central Suburbs,19.1741,72.9606,2023,6,1,1,520,16,3,Apartment,Unfurnished,6600000,12692
+MUM-11195,Mulund West,Central Suburbs,19.1712,72.9583,2023,1,2,3,951,21,24,Apartment,Unfurnished,11100000,11672
+MUM-11225,Mulund West,Central Suburbs,19.1698,72.9574,2023,7,2,2,776,16,14,Apartment,Unfurnished,9100000,11727
+MUM-11316,Mulund West,Central Suburbs,19.1723,72.961,2023,5,3,3,1220,18,7,Villa,Unfurnished,16900000,13852
+MUM-11389,Mulund West,Central Suburbs,19.1663,72.9568,2023,11,3,4,1639,8,0,Apartment,Unfurnished,20100000,12264
+MUM-11416,Mulund West,Central Suburbs,19.1643,72.955,2023,3,4,3,1950,28,1,Apartment,Semi-Furnished,23800000,12205
+MUM-11426,Mulund West,Central Suburbs,19.1663,72.9615,2023,4,3,4,1238,17,9,Apartment,Fully Furnished,16500000,13328
+MUM-11451,Mulund West,Central Suburbs,19.1739,72.9545,2023,3,3,3,1152,19,5,Apartment,Semi-Furnished,15700000,13628
+MUM-11463,Mulund West,Central Suburbs,19.1644,72.9497,2023,11,1,1,524,25,18,Apartment,Semi-Furnished,7300000,13931
+MUM-10117,Powai,Eastern Suburbs,19.1167,72.8986,2023,6,3,3,1291,12,18,Villa,Semi-Furnished,21100000,16344
+MUM-10239,Powai,Eastern Suburbs,19.1182,72.9036,2023,7,3,3,1188,29,16,Apartment,Semi-Furnished,15900000,13384
+MUM-10265,Powai,Eastern Suburbs,19.1154,72.9039,2023,9,3,3,1223,8,9,Apartment,Unfurnished,18300000,14963
+MUM-10327,Powai,Eastern Suburbs,19.1154,72.9009,2023,8,3,3,1179,9,17,Apartment,Unfurnished,18300000,15522
+MUM-10408,Powai,Eastern Suburbs,19.12,72.9141,2023,11,4,4,2588,21,22,Apartment,Unfurnished,35300000,13640
+MUM-10422,Powai,Eastern Suburbs,19.1206,72.9096,2023,8,3,3,1550,2,8,Villa,Semi-Furnished,27100000,17484
+MUM-10667,Powai,Eastern Suburbs,19.1141,72.9039,2023,6,1,1,569,23,22,Apartment,Semi-Furnished,8300000,14587
+MUM-10681,Powai,Eastern Suburbs,19.1197,72.9032,2023,7,3,2,1588,9,9,Apartment,Fully Furnished,26800000,16877
+MUM-10695,Powai,Eastern Suburbs,19.1148,72.9064,2023,5,2,2,977,18,20,Apartment,Fully Furnished,13100000,13408
+MUM-10703,Powai,Eastern Suburbs,19.1172,72.911,2023,9,3,3,1255,8,24,Apartment,Fully Furnished,20100000,16016
+MUM-10824,Powai,Eastern Suburbs,19.1158,72.9033,2023,5,1,1,642,20,11,Studio,Fully Furnished,9600000,14953
+MUM-10852,Powai,Eastern Suburbs,19.1186,72.9028,2023,9,1,1,432,22,21,Apartment,Semi-Furnished,6400000,14815
+MUM-11057,Powai,Eastern Suburbs,19.1147,72.909,2023,12,2,2,833,19,7,Apartment,Unfurnished,11200000,13445
+MUM-11263,Powai,Eastern Suburbs,19.1134,72.9041,2023,12,2,2,840,5,12,Apartment,Semi-Furnished,12400000,14762
+MUM-11361,Powai,Eastern Suburbs,19.1178,72.9046,2023,11,2,2,906,15,19,Apartment,Unfurnished,14400000,15894
+MUM-10027,Santacruz West,Western Suburbs,19.0789,72.8326,2023,3,3,3,1532,7,22,Villa,Unfurnished,40300000,26305
+MUM-10085,Santacruz West,Western Suburbs,19.0821,72.8381,2023,12,2,2,847,18,10,Apartment,Semi-Furnished,21400000,25266
+MUM-10138,Santacruz West,Western Suburbs,19.075,72.8374,2023,2,4,4,2191,15,19,Apartment,Semi-Furnished,49500000,22592
+MUM-10171,Santacruz West,Western Suburbs,19.0862,72.8314,2023,4,1,1,480,25,25,Apartment,Fully Furnished,10200000,21250
+MUM-10182,Santacruz West,Western Suburbs,19.085,72.8372,2023,1,3,4,1196,30,6,Apartment,Unfurnished,27300000,22826
+MUM-10183,Santacruz West,Western Suburbs,19.0797,72.837,2023,5,2,2,777,13,13,Apartment,Semi-Furnished,17100000,22008
+MUM-10487,Santacruz West,Western Suburbs,19.0772,72.8328,2023,11,1,1,466,11,23,Apartment,Unfurnished,9200000,19742
+MUM-10635,Santacruz West,Western Suburbs,19.0811,72.8396,2023,8,3,3,1604,21,20,Penthouse,Unfurnished,48600000,30299
+MUM-11040,Santacruz West,Western Suburbs,19.0856,72.8362,2023,11,1,1,617,20,6,Apartment,Fully Furnished,16500000,26742
+MUM-11107,Santacruz West,Western Suburbs,19.0863,72.8384,2023,1,3,3,1455,15,3,Apartment,Semi-Furnished,41200000,28316
+MUM-11111,Santacruz West,Western Suburbs,19.0819,72.8337,2023,10,4,4,2140,17,4,Apartment,Semi-Furnished,55400000,25888
+MUM-11216,Santacruz West,Western Suburbs,19.0795,72.837,2023,2,3,3,1460,26,11,Apartment,Unfurnished,30700000,21027
+MUM-11227,Santacruz West,Western Suburbs,19.0828,72.8346,2023,9,2,3,887,27,6,Apartment,Unfurnished,19400000,21871
+MUM-11283,Santacruz West,Western Suburbs,19.0818,72.8348,2023,4,1,1,557,4,24,Apartment,Unfurnished,11400000,20467
+MUM-11349,Santacruz West,Western Suburbs,19.0819,72.8392,2023,9,4,4,2076,11,2,Apartment,Semi-Furnished,52200000,25145
+MUM-11394,Santacruz West,Western Suburbs,19.086,72.8397,2023,12,4,4,2268,30,2,Apartment,Fully Furnished,61500000,27116
+MUM-10136,Thane West,Thane / Navi Mumbai,19.2214,72.9765,2023,7,4,3,1840,14,20,Apartment,Unfurnished,16100000,8750
+MUM-10500,Thane West,Thane / Navi Mumbai,19.2116,72.9714,2023,10,3,3,1110,17,6,Apartment,Unfurnished,11800000,10631
+MUM-10570,Thane West,Thane / Navi Mumbai,19.2221,72.9797,2023,2,2,2,1009,12,7,Apartment,Unfurnished,10700000,10605
+MUM-10608,Thane West,Thane / Navi Mumbai,19.2122,72.9748,2023,12,1,1,469,15,22,Apartment,Unfurnished,5300000,11301
+MUM-10650,Thane West,Thane / Navi Mumbai,19.2101,72.9778,2023,9,4,4,2039,10,10,Apartment,Unfurnished,21200000,10397
+MUM-10717,Thane West,Thane / Navi Mumbai,19.2211,72.9807,2023,7,2,2,729,4,3,Apartment,Fully Furnished,8400000,11523
+MUM-10805,Thane West,Thane / Navi Mumbai,19.2195,72.9815,2023,5,3,4,1508,9,9,Penthouse,Fully Furnished,24700000,16379
+MUM-11160,Thane West,Thane / Navi Mumbai,19.2124,72.976,2023,10,3,2,1102,24,23,Villa,Unfurnished,12100000,10980
+MUM-11203,Thane West,Thane / Navi Mumbai,19.2097,72.9844,2023,11,1,1,422,6,12,Apartment,Unfurnished,4500000,10664
+MUM-11213,Thane West,Thane / Navi Mumbai,19.2174,72.9748,2023,4,4,4,2194,28,23,Penthouse,Unfurnished,27900000,12716
+MUM-11232,Thane West,Thane / Navi Mumbai,19.2206,72.9802,2023,12,4,4,2380,21,14,Apartment,Fully Furnished,26300000,11050
+MUM-11270,Thane West,Thane / Navi Mumbai,19.219,72.9747,2023,12,2,2,980,18,12,Apartment,Semi-Furnished,10500000,10714
+MUM-11391,Thane West,Thane / Navi Mumbai,19.2127,72.9787,2023,3,3,3,1625,29,0,Villa,Fully Furnished,19900000,12246
+MUM-10131,Vashi,Thane / Navi Mumbai,19.0786,73.0003,2023,2,2,2,1029,4,9,Apartment,Unfurnished,11200000,10884
+MUM-10240,Vashi,Thane / Navi Mumbai,19.074,72.9955,2023,9,1,1,621,23,0,Apartment,Unfurnished,8100000,13043
+MUM-10247,Vashi,Thane / Navi Mumbai,19.0803,72.9952,2023,6,3,3,1161,1,9,Villa,Semi-Furnished,16300000,14040
+MUM-10256,Vashi,Thane / Navi Mumbai,19.0825,72.994,2023,9,4,4,1774,13,4,Apartment,Semi-Furnished,23600000,13303
+MUM-10309,Vashi,Thane / Navi Mumbai,19.0718,72.9947,2023,7,1,2,449,2,22,Apartment,Unfurnished,4900000,10913
+MUM-10419,Vashi,Thane / Navi Mumbai,19.0688,72.9993,2023,10,1,1,479,16,1,Studio,Semi-Furnished,4900000,10230
+MUM-10435,Vashi,Thane / Navi Mumbai,19.0804,72.9965,2023,8,3,2,1268,21,13,Apartment,Unfurnished,13600000,10726
+MUM-10741,Vashi,Thane / Navi Mumbai,19.078,73.0012,2023,10,2,2,732,28,9,Apartment,Fully Furnished,7500000,10246
+MUM-10841,Vashi,Thane / Navi Mumbai,19.08,72.9984,2023,4,2,2,1039,20,5,Apartment,Semi-Furnished,12700000,12223
+MUM-10904,Vashi,Thane / Navi Mumbai,19.073,72.9957,2023,11,2,2,843,19,10,Apartment,Unfurnished,10600000,12574
+MUM-11308,Vashi,Thane / Navi Mumbai,19.078,73.0056,2023,11,4,3,2463,24,13,Apartment,Fully Furnished,29700000,12058
+MUM-11370,Vashi,Thane / Navi Mumbai,19.0713,72.9925,2023,8,3,3,1291,12,2,Apartment,Semi-Furnished,14800000,11464
+MUM-11484,Vashi,Thane / Navi Mumbai,19.0834,73.0036,2023,12,3,3,1252,5,11,Apartment,Unfurnished,13100000,10463
+MUM-10148,Vile Parle West,Western Suburbs,19.1013,72.8457,2023,3,4,4,1962,6,21,Apartment,Semi-Furnished,37400000,19062
+MUM-10581,Vile Parle West,Western Suburbs,19.1018,72.8464,2023,1,2,2,799,25,11,Apartment,Semi-Furnished,17200000,21527
+MUM-10596,Vile Parle West,Western Suburbs,19.0997,72.8526,2023,12,1,2,452,13,18,Apartment,Fully Furnished,11300000,25000
+MUM-10700,Vile Parle West,Western Suburbs,19.0989,72.8451,2023,4,3,3,1336,22,8,Apartment,Unfurnished,29100000,21781
+MUM-10772,Vile Parle West,Western Suburbs,19.0996,72.8394,2023,12,4,4,2023,6,9,Apartment,Fully Furnished,50600000,25012
+MUM-10871,Vile Parle West,Western Suburbs,19.0946,72.8427,2023,7,3,3,1506,22,10,Apartment,Unfurnished,30700000,20385
+MUM-10922,Vile Parle West,Western Suburbs,19.0999,72.8458,2023,7,1,1,612,24,24,Apartment,Semi-Furnished,12300000,20098
+MUM-10951,Vile Parle West,Western Suburbs,19.1044,72.8462,2023,12,3,3,1116,23,6,Apartment,Semi-Furnished,24900000,22312
+MUM-11001,Vile Parle West,Western Suburbs,19.0941,72.8439,2023,3,3,3,1321,21,8,Apartment,Semi-Furnished,31200000,23618
+MUM-11097,Vile Parle West,Western Suburbs,19.099,72.841,2023,6,3,2,1379,24,9,Apartment,Unfurnished,31100000,22553
+MUM-11244,Vile Parle West,Western Suburbs,19.1027,72.8397,2023,5,4,4,2092,26,16,Apartment,Unfurnished,48700000,23279
+MUM-11289,Vile Parle West,Western Suburbs,19.1017,72.8434,2023,1,3,3,1349,5,21,Villa,Fully Furnished,34800000,25797
+MUM-11449,Vile Parle West,Western Suburbs,19.1033,72.8472,2023,1,2,2,1049,12,13,Apartment,Unfurnished,20500000,19542
+MUM-11473,Vile Parle West,Western Suburbs,19.0983,72.8467,2023,10,2,1,847,11,19,Apartment,Unfurnished,16900000,19953
+MUM-11481,Vile Parle West,Western Suburbs,19.0997,72.8402,2023,9,1,1,474,10,5,Apartment,Unfurnished,9900000,20886
+MUM-10072,Worli,South Mumbai,19.0045,72.8079,2023,11,2,2,888,24,14,Apartment,Unfurnished,26400000,29730
+MUM-10198,Worli,South Mumbai,19.0009,72.8209,2023,3,2,2,727,4,19,Apartment,Unfurnished,22100000,30399
+MUM-10206,Worli,South Mumbai,18.9944,72.8091,2023,5,1,1,539,28,1,Apartment,Unfurnished,16600000,30798
+MUM-10271,Worli,South Mumbai,18.9993,72.8244,2023,9,2,2,824,8,5,Apartment,Semi-Furnished,25000000,30340
+MUM-10427,Worli,South Mumbai,18.999,72.8155,2023,3,1,1,637,22,15,Apartment,Semi-Furnished,20800000,32653
+MUM-10468,Worli,South Mumbai,18.9956,72.8235,2023,7,1,1,578,10,13,Apartment,Fully Furnished,17700000,30623
+MUM-10477,Worli,South Mumbai,18.9894,72.8156,2023,2,3,3,1282,25,8,Apartment,Fully Furnished,43500000,33931
+MUM-10507,Worli,South Mumbai,19.0034,72.8143,2023,10,4,4,1798,23,25,Apartment,Unfurnished,51600000,28699
+MUM-10539,Worli,South Mumbai,19.0017,72.8217,2023,9,2,2,814,14,6,Apartment,Unfurnished,26300000,32310
+MUM-10556,Worli,South Mumbai,19.0018,72.8117,2023,8,1,1,626,23,4,Apartment,Fully Furnished,25300000,40415
+MUM-10576,Worli,South Mumbai,18.9996,72.8176,2023,2,1,1,614,5,18,Apartment,Unfurnished,20300000,33062
+MUM-10664,Worli,South Mumbai,18.9947,72.8173,2023,1,3,3,1440,5,24,Apartment,Semi-Furnished,41600000,28889
+MUM-10672,Worli,South Mumbai,19.0007,72.8139,2023,9,1,1,472,4,25,Apartment,Semi-Furnished,13600000,28814
+MUM-10880,Worli,South Mumbai,18.9986,72.8201,2023,11,1,1,476,4,21,Studio,Semi-Furnished,14000000,29412
+MUM-11068,Worli,South Mumbai,19.0028,72.816,2023,10,3,3,1080,9,20,Apartment,Unfurnished,28800000,26667
+MUM-11277,Worli,South Mumbai,19.0059,72.815,2023,6,2,2,795,1,0,Apartment,Fully Furnished,31600000,39748
+MUM-11418,Worli,South Mumbai,19.002,72.8144,2023,7,1,1,560,10,22,Studio,Semi-Furnished,14800000,26429
+MUM-11436,Worli,South Mumbai,19.004,72.82,2023,11,1,1,571,10,20,Apartment,Unfurnished,17100000,29947
+MUM-10104,Andheri East,Western Suburbs,19.1157,72.8652,2024,11,1,1,512,19,25,Apartment,Fully Furnished,8700000,16992
+MUM-10173,Andheri East,Western Suburbs,19.1114,72.8749,2024,3,2,2,953,3,8,Apartment,Semi-Furnished,15900000,16684
+MUM-10195,Andheri East,Western Suburbs,19.1119,72.8681,2024,2,2,2,985,6,24,Apartment,Semi-Furnished,14600000,14822
+MUM-10276,Andheri East,Western Suburbs,19.1111,72.8709,2024,7,3,3,1344,9,12,Apartment,Semi-Furnished,22800000,16964
+MUM-10370,Andheri East,Western Suburbs,19.1161,72.8708,2024,1,2,2,934,1,3,Apartment,Unfurnished,14300000,15310
+MUM-10381,Andheri East,Western Suburbs,19.112,72.8724,2024,5,2,2,729,9,12,Apartment,Fully Furnished,12200000,16735
+MUM-10394,Andheri East,Western Suburbs,19.1127,72.8674,2024,5,2,3,845,5,18,Apartment,Semi-Furnished,15900000,18817
+MUM-10459,Andheri East,Western Suburbs,19.114,72.8678,2024,2,4,4,2583,8,11,Apartment,Unfurnished,45300000,17538
+MUM-10630,Andheri East,Western Suburbs,19.1084,72.8615,2024,2,3,3,1347,15,24,Apartment,Unfurnished,19300000,14328
+MUM-10684,Andheri East,Western Suburbs,19.1146,72.8691,2024,7,4,4,2368,27,0,Apartment,Semi-Furnished,37400000,15794
+MUM-10701,Andheri East,Western Suburbs,19.11,72.8718,2024,12,3,3,1557,30,9,Villa,Fully Furnished,31300000,20103
+MUM-10733,Andheri East,Western Suburbs,19.1089,72.8736,2024,8,4,4,2308,4,22,Apartment,Semi-Furnished,34900000,15121
+MUM-10821,Andheri East,Western Suburbs,19.1181,72.8676,2024,8,4,4,2497,21,20,Apartment,Unfurnished,35700000,14297
+MUM-11114,Andheri East,Western Suburbs,19.1147,72.8758,2024,12,3,3,1468,24,24,Apartment,Fully Furnished,23500000,16008
+MUM-11243,Andheri East,Western Suburbs,19.1081,72.8713,2024,2,2,1,917,7,6,Apartment,Unfurnished,15600000,17012
+MUM-11412,Andheri East,Western Suburbs,19.1176,72.8667,2024,5,1,1,552,18,23,Apartment,Unfurnished,8600000,15580
+MUM-11427,Andheri East,Western Suburbs,19.108,72.8632,2024,4,4,4,2410,30,0,Apartment,Unfurnished,38100000,15809
+MUM-10018,Andheri West,Western Suburbs,19.1305,72.8356,2024,1,3,3,1260,23,19,Apartment,Unfurnished,21100000,16746
+MUM-10073,Andheri West,Western Suburbs,19.1362,72.8312,2024,1,2,2,966,15,8,Apartment,Fully Furnished,20800000,21532
+MUM-10232,Andheri West,Western Suburbs,19.1471,72.8323,2024,5,2,1,949,1,14,Apartment,Unfurnished,17800000,18757
+MUM-10609,Andheri West,Western Suburbs,19.1333,72.8299,2024,6,2,2,865,19,9,Apartment,Unfurnished,18700000,21618
+MUM-11020,Andheri West,Western Suburbs,19.1468,72.8273,2024,7,2,2,756,1,7,Apartment,Semi-Furnished,14700000,19444
+MUM-11447,Andheri West,Western Suburbs,19.1429,72.8297,2024,8,4,4,1937,15,13,Apartment,Unfurnished,35400000,18276
+MUM-10060,Bandra West,Western Suburbs,19.0573,72.8346,2024,3,2,3,733,14,22,Apartment,Fully Furnished,25600000,34925
+MUM-10303,Bandra West,Western Suburbs,19.0615,72.8316,2024,9,3,3,1082,23,11,Apartment,Unfurnished,34100000,31516
+MUM-10525,Bandra West,Western Suburbs,19.0606,72.8316,2024,10,1,1,555,28,21,Apartment,Semi-Furnished,16100000,29009
+MUM-10766,Bandra West,Western Suburbs,19.0552,72.8278,2024,2,3,2,1228,9,10,Apartment,Fully Furnished,41900000,34121
+MUM-10768,Bandra West,Western Suburbs,19.0545,72.8287,2024,11,3,3,1218,4,18,Apartment,Unfurnished,47900000,39327
+MUM-10778,Bandra West,Western Suburbs,19.0553,72.8292,2024,3,3,3,1228,16,17,Apartment,Fully Furnished,50500000,41124
+MUM-10836,Bandra West,Western Suburbs,19.0509,72.8367,2024,3,3,3,1536,23,22,Apartment,Semi-Furnished,41700000,27148
+MUM-11176,Bandra West,Western Suburbs,19.0556,72.8269,2024,6,2,3,896,25,17,Apartment,Unfurnished,27200000,30357
+MUM-11257,Bandra West,Western Suburbs,19.0585,72.8317,2024,1,1,1,531,23,4,Apartment,Unfurnished,19800000,37288
+MUM-11265,Bandra West,Western Suburbs,19.0587,72.8322,2024,7,2,3,850,25,3,Apartment,Unfurnished,29600000,34824
+MUM-11402,Bandra West,Western Suburbs,19.0632,72.8296,2024,5,2,2,721,28,2,Apartment,Unfurnished,23500000,32594
+MUM-11413,Bandra West,Western Suburbs,19.0588,72.8313,2024,12,3,3,1358,26,3,Apartment,Unfurnished,46400000,34168
+MUM-11480,Bandra West,Western Suburbs,19.0591,72.827,2024,3,1,1,646,10,1,Apartment,Semi-Furnished,22600000,34985
+MUM-10021,Borivali West,Western Suburbs,19.2353,72.8544,2024,4,1,1,520,30,3,Apartment,Unfurnished,7900000,15192
+MUM-10050,Borivali West,Western Suburbs,19.224,72.8431,2024,7,1,1,492,12,10,Apartment,Fully Furnished,7300000,14837
+MUM-10062,Borivali West,Western Suburbs,19.2275,72.8569,2024,10,1,1,590,26,6,Apartment,Semi-Furnished,9100000,15424
+MUM-10100,Borivali West,Western Suburbs,19.2333,72.8548,2024,5,2,2,841,22,3,Apartment,Semi-Furnished,13000000,15458
+MUM-10257,Borivali West,Western Suburbs,19.2325,72.8517,2024,11,2,2,814,25,22,Apartment,Unfurnished,11300000,13882
+MUM-10272,Borivali West,Western Suburbs,19.2291,72.8648,2024,1,4,4,1767,19,13,Apartment,Semi-Furnished,24200000,13696
+MUM-10466,Borivali West,Western Suburbs,19.2262,72.8485,2024,10,3,2,1202,14,0,Apartment,Unfurnished,17100000,14226
+MUM-10540,Borivali West,Western Suburbs,19.2346,72.8487,2024,9,2,2,833,26,10,Apartment,Unfurnished,12100000,14526
+MUM-10567,Borivali West,Western Suburbs,19.2309,72.8584,2024,9,1,1,497,20,19,Apartment,Unfurnished,7000000,14085
+MUM-10651,Borivali West,Western Suburbs,19.2339,72.8528,2024,5,2,2,745,1,4,Apartment,Fully Furnished,12000000,16107
+MUM-10776,Borivali West,Western Suburbs,19.2321,72.8559,2024,12,2,3,840,8,3,Apartment,Semi-Furnished,12600000,15000
+MUM-10784,Borivali West,Western Suburbs,19.23,72.8455,2024,10,4,4,2048,11,17,Apartment,Semi-Furnished,29000000,14160
+MUM-10869,Borivali West,Western Suburbs,19.2262,72.8538,2024,3,2,2,785,18,10,Apartment,Unfurnished,11700000,14904
+MUM-10967,Borivali West,Western Suburbs,19.2278,72.8561,2024,1,1,1,424,1,23,Apartment,Semi-Furnished,5700000,13443
+MUM-11015,Borivali West,Western Suburbs,19.2308,72.8532,2024,1,2,2,842,17,6,Apartment,Semi-Furnished,13500000,16033
+MUM-11165,Borivali West,Western Suburbs,19.227,72.8561,2024,9,1,1,649,17,9,Apartment,Semi-Furnished,9300000,14330
+MUM-11212,Borivali West,Western Suburbs,19.2316,72.8571,2024,12,2,2,1029,20,24,Apartment,Unfurnished,14000000,13605
+MUM-11390,Borivali West,Western Suburbs,19.2325,72.8523,2024,7,2,2,827,7,15,Apartment,Fully Furnished,13500000,16324
+MUM-10102,Chembur,Eastern Suburbs,19.0645,72.9014,2024,11,3,3,1192,4,4,Apartment,Semi-Furnished,19900000,16695
+MUM-10513,Chembur,Eastern Suburbs,19.0639,72.8993,2024,3,3,3,1649,16,15,Apartment,Unfurnished,24900000,15100
+MUM-10601,Chembur,Eastern Suburbs,19.0622,72.8965,2024,2,2,2,1029,7,7,Apartment,Unfurnished,17700000,17201
+MUM-10616,Chembur,Eastern Suburbs,19.0631,72.8975,2024,1,3,3,1130,5,22,Apartment,Semi-Furnished,19200000,16991
+MUM-10675,Chembur,Eastern Suburbs,19.0641,72.9013,2024,8,3,3,1541,8,25,Apartment,Semi-Furnished,26800000,17391
+MUM-10953,Chembur,Eastern Suburbs,19.0629,72.8938,2024,12,3,3,1641,8,23,Apartment,Unfurnished,22700000,13833
+MUM-11034,Chembur,Eastern Suburbs,19.0613,72.9033,2024,7,2,2,777,18,12,Apartment,Fully Furnished,12800000,16474
+MUM-11194,Chembur,Eastern Suburbs,19.0616,72.9003,2024,5,2,1,948,22,1,Apartment,Semi-Furnished,18800000,19831
+MUM-11266,Chembur,Eastern Suburbs,19.0709,72.898,2024,9,1,1,643,24,4,Apartment,Semi-Furnished,10800000,16796
+MUM-10446,Colaba,South Mumbai,18.9089,72.8147,2024,10,1,1,483,2,5,Apartment,Semi-Furnished,20800000,43064
+MUM-10754,Colaba,South Mumbai,18.9192,72.816,2024,11,3,2,1388,26,14,Apartment,Unfurnished,53400000,38473
+MUM-10759,Colaba,South Mumbai,18.9049,72.8176,2024,1,2,1,806,14,25,Apartment,Semi-Furnished,32200000,39950
+MUM-10814,Colaba,South Mumbai,18.9093,72.8173,2024,4,2,1,908,20,2,Apartment,Unfurnished,33300000,36674
+MUM-10986,Colaba,South Mumbai,18.9044,72.817,2024,11,2,3,957,4,16,Apartment,Unfurnished,34600000,36155
+MUM-11000,Colaba,South Mumbai,18.9095,72.8122,2024,2,3,3,1478,23,19,Apartment,Semi-Furnished,54100000,36604
+MUM-11012,Colaba,South Mumbai,18.9038,72.8112,2024,11,2,2,849,11,17,Apartment,Semi-Furnished,32200000,37927
+MUM-11042,Colaba,South Mumbai,18.9046,72.8152,2024,9,2,2,796,5,13,Apartment,Fully Furnished,33200000,41709
+MUM-11186,Colaba,South Mumbai,18.9103,72.8171,2024,9,2,2,993,26,24,Apartment,Semi-Furnished,37300000,37563
+MUM-10025,Dadar West,South Mumbai,19.0201,72.8487,2024,10,3,3,1627,6,2,Villa,Unfurnished,46600000,28642
+MUM-10107,Dadar West,South Mumbai,19.0125,72.8461,2024,11,3,2,1406,5,4,Villa,Semi-Furnished,41700000,29659
+MUM-10115,Dadar West,South Mumbai,19.0181,72.8448,2024,10,1,1,595,2,2,Apartment,Unfurnished,15700000,26387
+MUM-10205,Dadar West,South Mumbai,19.0239,72.8481,2024,9,1,1,488,5,20,Apartment,Semi-Furnished,10500000,21516
+MUM-10208,Dadar West,South Mumbai,19.0178,72.8495,2024,6,4,4,1882,16,20,Apartment,Semi-Furnished,46400000,24655
+MUM-10274,Dadar West,South Mumbai,19.0196,72.8483,2024,9,1,1,621,9,13,Studio,Semi-Furnished,13200000,21256
+MUM-10348,Dadar West,South Mumbai,19.0168,72.851,2024,2,1,1,490,10,7,Apartment,Unfurnished,13100000,26735
+MUM-10493,Dadar West,South Mumbai,19.0155,72.8443,2024,7,1,1,567,15,25,Apartment,Unfurnished,13200000,23280
+MUM-10524,Dadar West,South Mumbai,19.0183,72.8435,2024,4,3,2,1324,30,12,Apartment,Unfurnished,33800000,25529
+MUM-10711,Dadar West,South Mumbai,19.0163,72.8465,2024,9,3,3,1126,15,10,Apartment,Semi-Furnished,30100000,26732
+MUM-10735,Dadar West,South Mumbai,19.0195,72.8525,2024,2,3,3,1488,23,9,Apartment,Unfurnished,37100000,24933
+MUM-10748,Dadar West,South Mumbai,19.0177,72.8375,2024,10,1,1,603,30,4,Apartment,Unfurnished,13800000,22886
+MUM-10765,Dadar West,South Mumbai,19.0082,72.8525,2024,9,1,1,513,14,20,Apartment,Fully Furnished,14000000,27290
+MUM-10783,Dadar West,South Mumbai,19.0253,72.8555,2024,4,3,4,1249,18,8,Apartment,Unfurnished,29200000,23379
+MUM-10807,Dadar West,South Mumbai,19.0127,72.8495,2024,10,2,3,887,23,9,Apartment,Unfurnished,22000000,24803
+MUM-10937,Dadar West,South Mumbai,19.0186,72.8443,2024,10,3,2,1273,27,22,Apartment,Semi-Furnished,32000000,25137
+MUM-11053,Dadar West,South Mumbai,19.0127,72.8488,2024,10,3,3,1145,18,7,Apartment,Unfurnished,28500000,24891
+MUM-11062,Dadar West,South Mumbai,19.0224,72.8457,2024,3,3,3,1440,23,12,Apartment,Unfurnished,30300000,21042
+MUM-11098,Dadar West,South Mumbai,19.0218,72.8472,2024,9,1,1,575,25,25,Apartment,Unfurnished,13900000,24174
+MUM-11116,Dadar West,South Mumbai,19.0165,72.8598,2024,10,2,2,968,29,9,Apartment,Fully Furnished,27100000,27996
+MUM-11307,Dadar West,South Mumbai,19.0146,72.8521,2024,3,3,2,1324,19,22,Apartment,Semi-Furnished,31900000,24094
+MUM-11333,Dadar West,South Mumbai,19.0173,72.8513,2024,10,3,3,1513,17,19,Apartment,Semi-Furnished,33700000,22274
+MUM-11346,Dadar West,South Mumbai,19.0129,72.8529,2024,10,1,1,520,30,6,Apartment,Unfurnished,12700000,24423
+MUM-11457,Dadar West,South Mumbai,19.0217,72.8495,2024,6,2,2,856,26,21,Apartment,Semi-Furnished,20200000,23598
+MUM-11488,Dadar West,South Mumbai,19.0183,72.8445,2024,1,2,1,926,25,21,Apartment,Semi-Furnished,20500000,22138
+MUM-10128,Goregaon West,Western Suburbs,19.1692,72.8522,2024,7,2,2,732,23,8,Apartment,Unfurnished,9300000,12705
+MUM-10237,Goregaon West,Western Suburbs,19.1687,72.8565,2024,9,3,4,1589,28,18,Apartment,Unfurnished,19800000,12461
+MUM-10414,Goregaon West,Western Suburbs,19.1644,72.8578,2024,8,2,2,979,22,13,Apartment,Semi-Furnished,12900000,13177
+MUM-10452,Goregaon West,Western Suburbs,19.1613,72.8511,2024,9,2,2,926,8,4,Apartment,Unfurnished,14700000,15875
+MUM-10548,Goregaon West,Western Suburbs,19.1692,72.8596,2024,12,2,2,735,19,11,Apartment,Semi-Furnished,11600000,15782
+MUM-10561,Goregaon West,Western Suburbs,19.1656,72.8516,2024,12,4,4,2026,13,17,Villa,Fully Furnished,35600000,17572
+MUM-10580,Goregaon West,Western Suburbs,19.1638,72.848,2024,7,3,2,1454,25,9,Apartment,Unfurnished,20900000,14374
+MUM-10583,Goregaon West,Western Suburbs,19.1659,72.8463,2024,12,2,3,848,15,1,Apartment,Semi-Furnished,12500000,14741
+MUM-10643,Goregaon West,Western Suburbs,19.1658,72.8579,2024,12,1,1,499,1,12,Apartment,Unfurnished,7300000,14629
+MUM-10661,Goregaon West,Western Suburbs,19.1606,72.8514,2024,5,2,2,880,2,21,Apartment,Unfurnished,12800000,14545
+MUM-10705,Goregaon West,Western Suburbs,19.1643,72.8526,2024,3,1,1,630,6,17,Apartment,Unfurnished,10200000,16190
+MUM-10707,Goregaon West,Western Suburbs,19.1723,72.8538,2024,11,2,2,895,12,16,Apartment,Semi-Furnished,12900000,14413
+MUM-10736,Goregaon West,Western Suburbs,19.1687,72.8497,2024,6,1,1,537,12,16,Apartment,Fully Furnished,7500000,13966
+MUM-10954,Goregaon West,Western Suburbs,19.1754,72.8536,2024,12,2,2,865,8,19,Apartment,Unfurnished,12600000,14566
+MUM-11206,Goregaon West,Western Suburbs,19.1708,72.8518,2024,3,2,3,1011,5,11,Apartment,Unfurnished,13400000,13254
+MUM-11321,Goregaon West,Western Suburbs,19.1595,72.8486,2024,2,2,2,900,26,5,Apartment,Unfurnished,15300000,17000
+MUM-11358,Goregaon West,Western Suburbs,19.1685,72.8575,2024,5,3,3,1270,29,2,Apartment,Unfurnished,17800000,14016
+MUM-10008,Juhu,Western Suburbs,19.107,72.8279,2024,6,1,1,513,22,20,Studio,Unfurnished,12500000,24366
+MUM-10113,Juhu,Western Suburbs,19.1059,72.8233,2024,2,1,1,498,1,16,Apartment,Unfurnished,12800000,25703
+MUM-10278,Juhu,Western Suburbs,19.106,72.8283,2024,7,4,4,1989,23,5,Apartment,Unfurnished,59100000,29713
+MUM-10363,Juhu,Western Suburbs,19.1011,72.8317,2024,10,3,4,1568,4,25,Apartment,Semi-Furnished,42000000,26786
+MUM-10489,Juhu,Western Suburbs,19.1037,72.8226,2024,7,3,3,1560,19,18,Apartment,Unfurnished,39100000,25064
+MUM-10644,Juhu,Western Suburbs,19.1062,72.8322,2024,12,4,3,2091,9,23,Apartment,Unfurnished,56100000,26829
+MUM-10809,Juhu,Western Suburbs,19.1095,72.8278,2024,5,4,4,2412,14,8,Apartment,Semi-Furnished,76100000,31551
+MUM-10870,Juhu,Western Suburbs,19.1015,72.8204,2024,11,2,2,1018,8,18,Apartment,Fully Furnished,32700000,32122
+MUM-10916,Juhu,Western Suburbs,19.1114,72.8309,2024,1,3,4,1546,21,2,Apartment,Unfurnished,42500000,27490
+MUM-10994,Juhu,Western Suburbs,19.106,72.8279,2024,11,1,1,493,17,13,Apartment,Unfurnished,14300000,29006
+MUM-11093,Juhu,Western Suburbs,19.1084,72.8243,2024,8,4,4,2462,15,15,Apartment,Unfurnished,70500000,28635
+MUM-11247,Juhu,Western Suburbs,19.1082,72.8253,2024,6,2,1,986,27,11,Apartment,Semi-Furnished,30200000,30629
+MUM-11362,Juhu,Western Suburbs,19.1118,72.8236,2024,3,1,1,499,25,20,Studio,Semi-Furnished,12700000,25451
+MUM-11382,Juhu,Western Suburbs,19.1115,72.8223,2024,12,2,2,908,20,20,Apartment,Fully Furnished,26200000,28855
+MUM-11393,Juhu,Western Suburbs,19.1084,72.8316,2024,1,2,2,812,22,15,Apartment,Unfurnished,24500000,30172
+MUM-10078,Kandivali West,Western Suburbs,19.2086,72.85,2024,7,1,1,453,1,6,Apartment,Fully Furnished,7300000,16115
+MUM-10521,Kandivali West,Western Suburbs,19.2074,72.8537,2024,1,3,3,1233,21,21,Apartment,Unfurnished,16000000,12976
+MUM-10528,Kandivali West,Western Suburbs,19.2121,72.8519,2024,2,2,2,794,10,17,Apartment,Semi-Furnished,11000000,13854
+MUM-10545,Kandivali West,Western Suburbs,19.2073,72.8426,2024,9,2,3,916,23,8,Apartment,Semi-Furnished,11700000,12773
+MUM-10692,Kandivali West,Western Suburbs,19.2026,72.8527,2024,5,3,3,1541,23,19,Apartment,Semi-Furnished,20700000,13433
+MUM-10854,Kandivali West,Western Suburbs,19.2084,72.8465,2024,1,3,3,1271,22,19,Penthouse,Unfurnished,21600000,16994
+MUM-10905,Kandivali West,Western Suburbs,19.2021,72.8448,2024,6,1,2,502,19,14,Apartment,Unfurnished,6500000,12948
+MUM-10910,Kandivali West,Western Suburbs,19.2108,72.8518,2024,3,4,4,2119,7,19,Apartment,Semi-Furnished,27100000,12789
+MUM-11007,Kandivali West,Western Suburbs,19.1962,72.8517,2024,9,2,2,990,14,1,Apartment,Semi-Furnished,12900000,13030
+MUM-11241,Kandivali West,Western Suburbs,19.2005,72.8431,2024,9,2,2,741,8,13,Apartment,Semi-Furnished,9700000,13090
+MUM-10004,Lower Parel,South Mumbai,19.0035,72.8309,2024,10,2,2,995,25,11,Apartment,Fully Furnished,30700000,30854
+MUM-10314,Lower Parel,South Mumbai,18.9989,72.8242,2024,7,3,3,1159,15,8,Apartment,Semi-Furnished,41000000,35375
+MUM-10412,Lower Parel,South Mumbai,19.0041,72.8269,2024,12,1,1,645,5,12,Studio,Unfurnished,15700000,24341
+MUM-10470,Lower Parel,South Mumbai,19.0,72.8332,2024,11,2,1,891,13,17,Apartment,Fully Furnished,28500000,31987
+MUM-10829,Lower Parel,South Mumbai,18.996,72.833,2024,12,2,1,844,16,20,Apartment,Fully Furnished,26200000,31043
+MUM-11378,Lower Parel,South Mumbai,19.0093,72.8216,2024,2,2,3,826,21,3,Apartment,Unfurnished,22800000,27603
+MUM-11493,Lower Parel,South Mumbai,19.0047,72.8378,2024,9,2,2,1039,16,18,Apartment,Unfurnished,28800000,27719
+MUM-10032,Malabar Hill,South Mumbai,18.9613,72.8017,2024,7,1,1,486,4,23,Apartment,Fully Furnished,24800000,51029
+MUM-10053,Malabar Hill,South Mumbai,18.9477,72.8013,2024,3,2,3,878,10,12,Apartment,Unfurnished,42200000,48064
+MUM-10252,Malabar Hill,South Mumbai,18.9565,72.8013,2024,7,4,4,2062,9,21,Apartment,Unfurnished,82400000,39961
+MUM-10306,Malabar Hill,South Mumbai,18.9471,72.7938,2024,10,3,3,1116,26,3,Apartment,Semi-Furnished,56000000,50179
+MUM-10349,Malabar Hill,South Mumbai,18.9533,72.8006,2024,10,3,3,1437,27,10,Apartment,Fully Furnished,82500000,57411
+MUM-10404,Malabar Hill,South Mumbai,18.9536,72.8004,2024,2,3,3,1568,2,20,Apartment,Semi-Furnished,78100000,49809
+MUM-10431,Malabar Hill,South Mumbai,18.9565,72.7966,2024,1,1,1,564,29,6,Apartment,Semi-Furnished,27900000,49468
+MUM-10460,Malabar Hill,South Mumbai,18.9616,72.8018,2024,1,2,2,834,28,11,Apartment,Semi-Furnished,44000000,52758
+MUM-10557,Malabar Hill,South Mumbai,18.9565,72.8033,2024,5,1,2,612,3,1,Apartment,Semi-Furnished,27800000,45425
+MUM-11117,Malabar Hill,South Mumbai,18.9553,72.8021,2024,1,3,3,1611,6,4,Penthouse,Unfurnished,100600000,62446
+MUM-11127,Malabar Hill,South Mumbai,18.9517,72.7983,2024,10,1,1,481,20,6,Apartment,Unfurnished,21900000,45530
+MUM-11325,Malabar Hill,South Mumbai,18.9589,72.8024,2024,6,2,1,816,11,17,Apartment,Semi-Furnished,38300000,46936
+MUM-11356,Malabar Hill,South Mumbai,18.9531,72.7965,2024,11,1,1,494,16,13,Apartment,Unfurnished,19900000,40283
+MUM-10099,Malad West,Western Suburbs,19.1895,72.8539,2024,12,1,1,648,9,11,Apartment,Semi-Furnished,8800000,13580
+MUM-10522,Malad West,Western Suburbs,19.1848,72.8515,2024,8,3,3,1493,23,10,Apartment,Fully Furnished,22600000,15137
+MUM-10592,Malad West,Western Suburbs,19.1968,72.8432,2024,10,4,4,2214,5,7,Apartment,Unfurnished,34200000,15447
+MUM-10634,Malad West,Western Suburbs,19.1787,72.8495,2024,1,1,1,573,14,17,Apartment,Unfurnished,6700000,11693
+MUM-10763,Malad West,Western Suburbs,19.186,72.8492,2024,2,2,2,817,24,24,Apartment,Unfurnished,9800000,11995
+MUM-11031,Malad West,Western Suburbs,19.1886,72.853,2024,6,2,2,853,8,24,Apartment,Fully Furnished,11700000,13716
+MUM-11035,Malad West,Western Suburbs,19.1805,72.8514,2024,10,2,2,738,7,6,Apartment,Unfurnished,10100000,13686
+MUM-11146,Malad West,Western Suburbs,19.1815,72.843,2024,11,3,4,1339,12,21,Apartment,Fully Furnished,16600000,12397
+MUM-10169,Mulund West,Central Suburbs,19.1675,72.954,2024,3,4,4,1968,24,5,Apartment,Semi-Furnished,27200000,13821
+MUM-10502,Mulund West,Central Suburbs,19.1703,72.9455,2024,8,3,3,1209,28,19,Apartment,Unfurnished,13900000,11497
+MUM-10565,Mulund West,Central Suburbs,19.172,72.9567,2024,2,3,2,1650,11,12,Apartment,Semi-Furnished,21300000,12909
+MUM-10587,Mulund West,Central Suburbs,19.17,72.9534,2024,8,3,2,1300,6,19,Apartment,Unfurnished,17300000,13308
+MUM-10665,Mulund West,Central Suburbs,19.1678,72.9536,2024,10,2,2,749,26,24,Apartment,Unfurnished,8700000,11615
+MUM-11084,Mulund West,Central Suburbs,19.1711,72.954,2024,12,2,2,1050,18,11,Apartment,Fully Furnished,12300000,11714
+MUM-11350,Mulund West,Central Suburbs,19.1761,72.9568,2024,5,4,3,1936,26,0,Apartment,Unfurnished,25200000,13017
+MUM-11407,Mulund West,Central Suburbs,19.1721,72.9608,2024,5,4,4,1921,21,22,Apartment,Semi-Furnished,22800000,11869
+MUM-11486,Mulund West,Central Suburbs,19.1729,72.955,2024,9,1,1,520,20,12,Apartment,Unfurnished,6600000,12692
+MUM-10045,Powai,Eastern Suburbs,19.1173,72.9056,2024,5,3,3,1332,21,24,Apartment,Semi-Furnished,23800000,17868
+MUM-10061,Powai,Eastern Suburbs,19.1188,72.9018,2024,2,4,4,2100,12,21,Villa,Unfurnished,33800000,16095
+MUM-10361,Powai,Eastern Suburbs,19.1167,72.9131,2024,6,1,1,438,25,3,Apartment,Semi-Furnished,8000000,18265
+MUM-10471,Powai,Eastern Suburbs,19.1192,72.9067,2024,5,2,2,876,30,17,Apartment,Semi-Furnished,13200000,15068
+MUM-10560,Powai,Eastern Suburbs,19.1166,72.9,2024,1,4,4,2498,19,23,Apartment,Fully Furnished,41800000,16733
+MUM-11148,Powai,Eastern Suburbs,19.1115,72.9006,2024,4,3,3,1257,18,25,Apartment,Semi-Furnished,20000000,15911
+MUM-11192,Powai,Eastern Suburbs,19.1163,72.9147,2024,6,3,3,1386,28,12,Apartment,Semi-Furnished,23000000,16595
+MUM-11434,Powai,Eastern Suburbs,19.1182,72.9095,2024,6,4,4,2478,28,9,Apartment,Unfurnished,37700000,15214
+MUM-10180,Santacruz West,Western Suburbs,19.0742,72.8291,2024,9,2,2,856,16,24,Apartment,Fully Furnished,22900000,26752
+MUM-10254,Santacruz West,Western Suburbs,19.0877,72.843,2024,11,2,2,1013,9,2,Apartment,Semi-Furnished,28100000,27739
+MUM-10261,Santacruz West,Western Suburbs,19.0818,72.8374,2024,9,3,3,1235,24,3,Apartment,Unfurnished,29300000,23725
+MUM-10527,Santacruz West,Western Suburbs,19.0759,72.8385,2024,2,1,1,539,23,17,Apartment,Unfurnished,14600000,27087
+MUM-10573,Santacruz West,Western Suburbs,19.0846,72.8299,2024,4,3,2,1150,17,3,Apartment,Semi-Furnished,31000000,26957
+MUM-10595,Santacruz West,Western Suburbs,19.0837,72.8362,2024,12,1,1,431,6,3,Apartment,Semi-Furnished,10800000,25058
+MUM-10698,Santacruz West,Western Suburbs,19.0773,72.8358,2024,1,1,1,584,11,3,Apartment,Semi-Furnished,16800000,28767
+MUM-10744,Santacruz West,Western Suburbs,19.079,72.8417,2024,3,3,2,1247,23,8,Apartment,Unfurnished,30900000,24779
+MUM-10787,Santacruz West,Western Suburbs,19.0819,72.8347,2024,10,4,4,1788,19,16,Apartment,Semi-Furnished,43600000,24385
+MUM-10874,Santacruz West,Western Suburbs,19.0837,72.837,2024,6,3,3,1119,22,23,Apartment,Unfurnished,26800000,23950
+MUM-10878,Santacruz West,Western Suburbs,19.0825,72.8367,2024,11,2,3,931,9,13,Apartment,Semi-Furnished,23800000,25564
+MUM-10979,Santacruz West,Western Suburbs,19.0829,72.8378,2024,12,2,1,727,11,1,Apartment,Unfurnished,18600000,25585
+MUM-11081,Santacruz West,Western Suburbs,19.081,72.8356,2024,5,1,1,438,2,6,Apartment,Unfurnished,9900000,22603
+MUM-11143,Santacruz West,Western Suburbs,19.0818,72.842,2024,5,3,3,1593,30,13,Apartment,Fully Furnished,45300000,28437
+MUM-11162,Santacruz West,Western Suburbs,19.087,72.8413,2024,5,1,1,558,8,18,Apartment,Unfurnished,12000000,21505
+MUM-11201,Santacruz West,Western Suburbs,19.0775,72.8365,2024,10,3,4,1395,13,5,Apartment,Semi-Furnished,37000000,26523
+MUM-11222,Santacruz West,Western Suburbs,19.0814,72.8354,2024,6,1,1,617,22,3,Apartment,Unfurnished,13400000,21718
+MUM-11245,Santacruz West,Western Suburbs,19.0783,72.8331,2024,11,4,3,2490,26,4,Apartment,Semi-Furnished,74300000,29839
+MUM-11274,Santacruz West,Western Suburbs,19.0807,72.8334,2024,3,4,4,1797,19,0,Apartment,Semi-Furnished,44500000,24763
+MUM-11487,Santacruz West,Western Suburbs,19.0851,72.8403,2024,4,1,1,503,7,20,Apartment,Fully Furnished,12300000,24453
+MUM-10023,Thane West,Thane / Navi Mumbai,19.2094,72.9773,2024,2,2,2,929,20,20,Apartment,Unfurnished,9400000,10118
+MUM-10268,Thane West,Thane / Navi Mumbai,19.22,72.9786,2024,6,3,3,1208,24,10,Apartment,Fully Furnished,15500000,12831
+MUM-10433,Thane West,Thane / Navi Mumbai,19.2146,72.9786,2024,10,2,2,966,25,14,Apartment,Semi-Furnished,11300000,11698
+MUM-10442,Thane West,Thane / Navi Mumbai,19.2187,72.9724,2024,8,2,2,1001,21,25,Apartment,Semi-Furnished,11300000,11289
+MUM-10498,Thane West,Thane / Navi Mumbai,19.2122,72.9797,2024,10,3,3,1447,1,17,Apartment,Unfurnished,17700000,12232
+MUM-10658,Thane West,Thane / Navi Mumbai,19.2203,72.971,2024,5,2,1,917,11,3,Apartment,Semi-Furnished,10800000,11778
+MUM-10941,Thane West,Thane / Navi Mumbai,19.2119,72.9862,2024,12,3,3,1164,9,18,Apartment,Unfurnished,11900000,10223
+MUM-11003,Thane West,Thane / Navi Mumbai,19.218,72.9758,2024,4,4,4,2370,6,23,Apartment,Semi-Furnished,26400000,11139
+MUM-11061,Thane West,Thane / Navi Mumbai,19.2189,72.9765,2024,6,1,1,596,8,20,Apartment,Semi-Furnished,6000000,10067
+MUM-11080,Thane West,Thane / Navi Mumbai,19.2131,72.9765,2024,5,4,3,2250,8,18,Apartment,Unfurnished,27300000,12133
+MUM-11196,Thane West,Thane / Navi Mumbai,19.2166,72.9748,2024,6,3,3,1633,25,21,Apartment,Semi-Furnished,19600000,12002
+MUM-11280,Thane West,Thane / Navi Mumbai,19.218,72.9747,2024,5,2,2,856,26,10,Apartment,Semi-Furnished,9400000,10981
+MUM-11304,Thane West,Thane / Navi Mumbai,19.2252,72.9832,2024,3,3,3,1564,23,7,Apartment,Semi-Furnished,21200000,13555
+MUM-11318,Thane West,Thane / Navi Mumbai,19.2168,72.974,2024,12,3,3,1187,13,16,Apartment,Semi-Furnished,13600000,11457
+MUM-10213,Vashi,Thane / Navi Mumbai,19.0878,72.9996,2024,8,1,1,634,10,13,Apartment,Fully Furnished,8100000,12776
+MUM-10374,Vashi,Thane / Navi Mumbai,19.0719,72.9996,2024,7,2,2,733,20,22,Apartment,Semi-Furnished,8700000,11869
+MUM-10392,Vashi,Thane / Navi Mumbai,19.0814,72.9996,2024,9,2,3,749,10,10,Apartment,Unfurnished,9400000,12550
+MUM-10761,Vashi,Thane / Navi Mumbai,19.0763,72.9933,2024,7,3,3,1469,1,14,Apartment,Semi-Furnished,19300000,13138
+MUM-10808,Vashi,Thane / Navi Mumbai,19.0768,73.0037,2024,11,2,3,784,5,10,Apartment,Semi-Furnished,9400000,11990
+MUM-10968,Vashi,Thane / Navi Mumbai,19.0821,72.9958,2024,12,4,4,2417,22,15,Apartment,Unfurnished,35300000,14605
+MUM-10983,Vashi,Thane / Navi Mumbai,19.0765,73.0103,2024,11,1,1,566,25,0,Apartment,Unfurnished,7200000,12721
+MUM-11096,Vashi,Thane / Navi Mumbai,19.0834,72.9982,2024,12,1,1,569,10,18,Apartment,Semi-Furnished,6700000,11775
+MUM-10186,Vile Parle West,Western Suburbs,19.0978,72.8425,2024,3,4,4,1764,17,8,Villa,Fully Furnished,54900000,31122
+MUM-10640,Vile Parle West,Western Suburbs,19.1077,72.844,2024,6,1,1,475,26,11,Apartment,Unfurnished,10700000,22526
+MUM-10848,Vile Parle West,Western Suburbs,19.1008,72.8532,2024,6,3,2,1152,21,17,Apartment,Semi-Furnished,23400000,20312
+MUM-10877,Vile Parle West,Western Suburbs,19.0982,72.8488,2024,12,1,1,450,6,7,Studio,Unfurnished,9700000,21556
+MUM-10906,Vile Parle West,Western Suburbs,19.0995,72.8476,2024,2,2,2,769,28,12,Apartment,Fully Furnished,17800000,23147
+MUM-10978,Vile Parle West,Western Suburbs,19.0954,72.8475,2024,7,3,3,1354,10,18,Apartment,Unfurnished,30000000,22157
+MUM-11147,Vile Parle West,Western Suburbs,19.0991,72.8466,2024,4,2,2,829,13,11,Apartment,Fully Furnished,21000000,25332
+MUM-11310,Vile Parle West,Western Suburbs,19.0998,72.8457,2024,11,2,2,785,9,23,Apartment,Semi-Furnished,16700000,21274
+MUM-11377,Vile Parle West,Western Suburbs,19.102,72.8496,2024,2,2,2,976,30,24,Apartment,Semi-Furnished,22400000,22951
+MUM-10059,Worli,South Mumbai,19.0073,72.8104,2024,12,2,3,935,13,14,Apartment,Semi-Furnished,31600000,33797
+MUM-10170,Worli,South Mumbai,18.9993,72.8147,2024,1,2,2,930,14,3,Apartment,Semi-Furnished,34800000,37419
+MUM-10210,Worli,South Mumbai,19.002,72.8206,2024,6,3,3,1099,3,9,Apartment,Fully Furnished,40200000,36579
+MUM-10220,Worli,South Mumbai,18.9965,72.8171,2024,9,1,1,630,30,14,Apartment,Semi-Furnished,23700000,37619
+MUM-10313,Worli,South Mumbai,18.9995,72.8241,2024,4,2,2,922,3,0,Apartment,Unfurnished,33100000,35900
+MUM-10390,Worli,South Mumbai,18.9911,72.816,2024,5,2,2,779,8,10,Apartment,Fully Furnished,25200000,32349
+MUM-10396,Worli,South Mumbai,19.0009,72.8238,2024,10,4,3,2055,18,11,Apartment,Unfurnished,67500000,32847
+MUM-11018,Worli,South Mumbai,18.9998,72.8152,2024,8,3,2,1194,16,19,Apartment,Unfurnished,37200000,31156
+MUM-11129,Worli,South Mumbai,18.9975,72.8222,2024,9,2,2,953,9,5,Apartment,Fully Furnished,31700000,33263
+MUM-11142,Worli,South Mumbai,18.9946,72.8181,2024,3,1,1,615,20,10,Apartment,Semi-Furnished,23100000,37561
+MUM-11268,Worli,South Mumbai,19.0052,72.8107,2024,9,3,2,1124,28,3,Apartment,Semi-Furnished,39200000,34875
+MUM-11339,Worli,South Mumbai,18.9994,72.8191,2024,3,1,1,548,23,12,Apartment,Unfurnished,16700000,30474
+MUM-11414,Worli,South Mumbai,18.9978,72.8231,2024,9,2,2,853,2,21,Apartment,Fully Furnished,28500000,33411
+MUM-11439,Worli,South Mumbai,18.9994,72.8156,2024,5,3,3,1234,24,7,Apartment,Semi-Furnished,38300000,31037
+MUM-11462,Worli,South Mumbai,19.0054,72.8126,2024,3,4,4,2017,13,15,Apartment,Semi-Furnished,60300000,29896
+MUM-11477,Worli,South Mumbai,18.9979,72.8139,2024,3,2,2,915,22,14,Apartment,Fully Furnished,34000000,37158
+MUM-10058,Andheri East,Western Suburbs,19.1118,72.8647,2025,1,3,3,1441,28,16,Apartment,Semi-Furnished,22600000,15684
+MUM-10190,Andheri East,Western Suburbs,19.1152,72.8573,2025,1,4,4,1716,28,5,Penthouse,Fully Furnished,44900000,26166
+MUM-10325,Andheri East,Western Suburbs,19.1128,72.8677,2025,10,2,2,1018,23,13,Apartment,Unfurnished,13900000,13654
+MUM-10588,Andheri East,Western Suburbs,19.1145,72.8769,2025,7,4,4,2370,27,16,Apartment,Unfurnished,43300000,18270
+MUM-10686,Andheri East,Western Suburbs,19.1129,72.8638,2025,12,2,2,1046,4,15,Apartment,Semi-Furnished,20400000,19503
+MUM-10738,Andheri East,Western Suburbs,19.1127,72.8658,2025,8,4,4,1989,4,3,Apartment,Unfurnished,33800000,16993
+MUM-10838,Andheri East,Western Suburbs,19.1167,72.8618,2025,4,2,2,852,8,16,Apartment,Unfurnished,13800000,16197
+MUM-10867,Andheri East,Western Suburbs,19.119,72.8735,2025,11,1,1,429,30,20,Studio,Unfurnished,6500000,15152
+MUM-10921,Andheri East,Western Suburbs,19.1104,72.8725,2025,8,1,1,530,9,0,Apartment,Unfurnished,9200000,17358
+MUM-10944,Andheri East,Western Suburbs,19.1139,72.8686,2025,5,3,3,1464,28,18,Apartment,Unfurnished,25500000,17418
+MUM-11105,Andheri East,Western Suburbs,19.1174,72.8701,2025,4,4,4,2428,15,22,Apartment,Semi-Furnished,40900000,16845
+MUM-11159,Andheri East,Western Suburbs,19.117,72.8646,2025,7,4,4,1714,22,21,Apartment,Unfurnished,25900000,15111
+MUM-10090,Andheri West,Western Suburbs,19.1364,72.8284,2025,1,2,2,773,9,19,Apartment,Semi-Furnished,16000000,20699
+MUM-10159,Andheri West,Western Suburbs,19.1317,72.8288,2025,5,3,4,1501,20,17,Apartment,Unfurnished,32800000,21852
+MUM-10250,Andheri West,Western Suburbs,19.1351,72.8361,2025,12,1,1,571,25,12,Apartment,Semi-Furnished,10500000,18389
+MUM-10321,Andheri West,Western Suburbs,19.1385,72.8232,2025,12,3,3,1626,5,12,Apartment,Unfurnished,32400000,19926
+MUM-10338,Andheri West,Western Suburbs,19.135,72.8216,2025,6,2,2,822,17,20,Apartment,Unfurnished,14900000,18127
+MUM-10342,Andheri West,Western Suburbs,19.1381,72.8264,2025,10,3,3,1238,28,11,Apartment,Fully Furnished,24800000,20032
+MUM-10780,Andheri West,Western Suburbs,19.1418,72.8255,2025,7,3,3,1609,29,17,Apartment,Fully Furnished,32200000,20012
+MUM-10984,Andheri West,Western Suburbs,19.1352,72.8273,2025,2,2,2,1041,3,11,Apartment,Fully Furnished,22100000,21230
+MUM-11166,Andheri West,Western Suburbs,19.1344,72.8373,2025,5,3,3,1442,11,12,Apartment,Fully Furnished,29900000,20735
+MUM-10109,Bandra West,Western Suburbs,19.0628,72.8302,2025,6,3,3,1338,5,2,Apartment,Unfurnished,47800000,35725
+MUM-10137,Bandra West,Western Suburbs,19.0595,72.831,2025,12,1,1,575,4,22,Apartment,Fully Furnished,18400000,32000
+MUM-10270,Bandra West,Western Suburbs,19.0602,72.8337,2025,10,1,1,604,20,17,Apartment,Unfurnished,20400000,33775
+MUM-10434,Bandra West,Western Suburbs,19.061,72.8259,2025,7,4,4,1983,12,17,Apartment,Semi-Furnished,66500000,33535
+MUM-10530,Bandra West,Western Suburbs,19.0625,72.8256,2025,6,3,3,1546,20,21,Apartment,Unfurnished,56000000,36223
+MUM-10689,Bandra West,Western Suburbs,19.0587,72.8327,2025,2,2,2,896,2,9,Apartment,Unfurnished,27600000,30804
+MUM-10822,Bandra West,Western Suburbs,19.0544,72.8311,2025,12,3,3,1486,20,9,Apartment,Semi-Furnished,50000000,33647
+MUM-10882,Bandra West,Western Suburbs,19.0589,72.8235,2025,5,2,2,1048,16,5,Apartment,Semi-Furnished,35200000,33588
+MUM-11125,Bandra West,Western Suburbs,19.0617,72.834,2025,5,2,3,776,21,3,Apartment,Unfurnished,29900000,38531
+MUM-11276,Bandra West,Western Suburbs,19.0596,72.8274,2025,11,2,2,915,24,0,Apartment,Unfurnished,32100000,35082
+MUM-11330,Bandra West,Western Suburbs,19.0631,72.8273,2025,4,1,1,580,1,11,Studio,Fully Furnished,17800000,30690
+MUM-11354,Bandra West,Western Suburbs,19.0637,72.8301,2025,10,2,2,888,14,3,Apartment,Fully Furnished,33400000,37613
+MUM-11374,Bandra West,Western Suburbs,19.0571,72.8322,2025,2,3,3,1421,22,12,Apartment,Semi-Furnished,57200000,40253
+MUM-11471,Bandra West,Western Suburbs,19.0604,72.8258,2025,8,2,2,986,7,4,Apartment,Semi-Furnished,38100000,38641
+MUM-10002,Borivali West,Western Suburbs,19.2317,72.8636,2025,5,4,3,2019,15,9,Apartment,Unfurnished,31700000,15701
+MUM-10222,Borivali West,Western Suburbs,19.2258,72.8548,2025,9,3,3,1203,11,23,Apartment,Unfurnished,16200000,13466
+MUM-10282,Borivali West,Western Suburbs,19.2348,72.8553,2025,9,1,2,440,12,3,Apartment,Unfurnished,7000000,15909
+MUM-10401,Borivali West,Western Suburbs,19.2314,72.8496,2025,10,2,2,824,27,8,Apartment,Fully Furnished,13900000,16869
+MUM-10679,Borivali West,Western Suburbs,19.2285,72.8506,2025,8,2,2,955,27,25,Apartment,Unfurnished,15100000,15812
+MUM-10699,Borivali West,Western Suburbs,19.2282,72.8501,2025,11,2,3,1021,12,21,Apartment,Semi-Furnished,14800000,14496
+MUM-11076,Borivali West,Western Suburbs,19.225,72.8616,2025,10,3,3,1582,20,15,Apartment,Fully Furnished,25500000,16119
+MUM-11231,Borivali West,Western Suburbs,19.2273,72.8517,2025,9,2,3,906,10,16,Apartment,Unfurnished,14600000,16115
+MUM-10015,Chembur,Eastern Suburbs,19.0625,72.9039,2025,4,1,1,489,4,14,Apartment,Semi-Furnished,9700000,19836
+MUM-10069,Chembur,Eastern Suburbs,19.061,72.9038,2025,8,3,4,1348,13,4,Apartment,Unfurnished,24100000,17878
+MUM-10127,Chembur,Eastern Suburbs,19.0595,72.9001,2025,12,2,2,754,20,17,Apartment,Unfurnished,12800000,16976
+MUM-10284,Chembur,Eastern Suburbs,19.0584,72.8941,2025,4,1,1,476,1,14,Apartment,Fully Furnished,8500000,17857
+MUM-10379,Chembur,Eastern Suburbs,19.0515,72.8967,2025,7,2,2,889,15,3,Apartment,Semi-Furnished,17400000,19573
+MUM-10579,Chembur,Eastern Suburbs,19.0589,72.9016,2025,3,1,1,446,18,25,Apartment,Unfurnished,7200000,16143
+MUM-10861,Chembur,Eastern Suburbs,19.06,72.8985,2025,4,2,2,721,11,25,Apartment,Fully Furnished,12200000,16921
+MUM-11067,Chembur,Eastern Suburbs,19.0522,72.8977,2025,12,3,4,1309,28,15,Apartment,Semi-Furnished,24400000,18640
+MUM-11092,Chembur,Eastern Suburbs,19.0572,72.8995,2025,10,3,3,1085,22,8,Apartment,Unfurnished,20200000,18618
+MUM-10110,Colaba,South Mumbai,18.9112,72.8172,2025,3,2,3,1048,22,17,Apartment,Unfurnished,44700000,42653
+MUM-10152,Colaba,South Mumbai,18.906,72.8062,2025,6,3,3,1575,24,13,Apartment,Fully Furnished,74300000,47175
+MUM-10329,Colaba,South Mumbai,18.9095,72.8107,2025,11,2,3,818,5,24,Apartment,Unfurnished,32100000,39242
+MUM-10541,Colaba,South Mumbai,18.9001,72.8171,2025,7,2,2,724,2,15,Apartment,Semi-Furnished,32700000,45166
+MUM-10682,Colaba,South Mumbai,18.9077,72.8149,2025,7,4,4,2335,10,25,Apartment,Semi-Furnished,85100000,36445
+MUM-10708,Colaba,South Mumbai,18.9114,72.8056,2025,9,3,3,1345,19,25,Apartment,Semi-Furnished,53100000,39480
+MUM-10932,Colaba,South Mumbai,18.901,72.8126,2025,2,2,2,931,11,21,Apartment,Fully Furnished,34200000,36735
+MUM-10961,Colaba,South Mumbai,18.9106,72.821,2025,10,2,2,998,9,11,Apartment,Semi-Furnished,45100000,45190
+MUM-10991,Colaba,South Mumbai,18.911,72.8161,2025,6,1,1,485,15,9,Apartment,Unfurnished,20000000,41237
+MUM-11091,Colaba,South Mumbai,18.9034,72.8191,2025,9,3,3,1382,6,4,Apartment,Unfurnished,60000000,43415
+MUM-11157,Colaba,South Mumbai,18.909,72.8131,2025,6,3,3,1613,16,16,Apartment,Semi-Furnished,66900000,41476
+MUM-11464,Colaba,South Mumbai,18.9028,72.818,2025,9,1,1,615,24,5,Apartment,Unfurnished,26400000,42927
+MUM-10091,Dadar West,South Mumbai,19.0192,72.8445,2025,11,1,1,473,6,23,Apartment,Unfurnished,11700000,24736
+MUM-10119,Dadar West,South Mumbai,19.0247,72.8548,2025,6,3,4,1524,25,4,Apartment,Semi-Furnished,43600000,28609
+MUM-10134,Dadar West,South Mumbai,19.0188,72.8449,2025,5,1,1,606,20,22,Apartment,Fully Furnished,16400000,27063
+MUM-10193,Dadar West,South Mumbai,19.0121,72.8383,2025,8,2,3,786,18,22,Apartment,Unfurnished,19100000,24300
+MUM-10302,Dadar West,South Mumbai,19.0189,72.8476,2025,9,3,3,1191,10,15,Apartment,Semi-Furnished,33300000,27960
+MUM-10346,Dadar West,South Mumbai,19.0118,72.8494,2025,7,2,2,1002,16,3,Apartment,Unfurnished,27300000,27246
+MUM-10354,Dadar West,South Mumbai,19.0102,72.8507,2025,7,2,1,755,18,12,Apartment,Unfurnished,20500000,27152
+MUM-10357,Dadar West,South Mumbai,19.0182,72.8551,2025,3,4,3,1921,11,17,Apartment,Unfurnished,47200000,24571
+MUM-10531,Dadar West,South Mumbai,19.0198,72.8409,2025,9,1,2,437,1,3,Apartment,Fully Furnished,12700000,29062
+MUM-10639,Dadar West,South Mumbai,19.019,72.8553,2025,1,2,2,941,29,6,Apartment,Fully Furnished,24400000,25930
+MUM-10727,Dadar West,South Mumbai,19.0195,72.8544,2025,1,4,4,2361,22,21,Apartment,Unfurnished,55200000,23380
+MUM-10789,Dadar West,South Mumbai,19.0155,72.8446,2025,7,4,3,2243,20,5,Apartment,Unfurnished,56300000,25100
+MUM-10959,Dadar West,South Mumbai,19.019,72.8443,2025,4,3,3,1196,24,1,Apartment,Semi-Furnished,33000000,27592
+MUM-11173,Dadar West,South Mumbai,19.0222,72.8569,2025,11,3,2,1124,23,11,Apartment,Unfurnished,28300000,25178
+MUM-11178,Dadar West,South Mumbai,19.0196,72.8479,2025,3,2,2,838,4,1,Apartment,Semi-Furnished,20500000,24463
+MUM-11312,Dadar West,South Mumbai,19.0119,72.8491,2025,4,4,4,1860,21,13,Apartment,Unfurnished,44000000,23656
+MUM-10040,Goregaon West,Western Suburbs,19.1681,72.8509,2025,1,1,1,440,24,22,Apartment,Unfurnished,6200000,14091
+MUM-10283,Goregaon West,Western Suburbs,19.1699,72.8514,2025,2,1,1,514,27,23,Apartment,Semi-Furnished,8200000,15953
+MUM-10696,Goregaon West,Western Suburbs,19.1698,72.8548,2025,6,3,3,1083,10,22,Apartment,Fully Furnished,19600000,18098
+MUM-10713,Goregaon West,Western Suburbs,19.1681,72.8504,2025,6,3,3,1098,7,2,Apartment,Semi-Furnished,18100000,16485
+MUM-10739,Goregaon West,Western Suburbs,19.1656,72.849,2025,5,4,3,1802,7,16,Apartment,Unfurnished,24800000,13762
+MUM-10894,Goregaon West,Western Suburbs,19.1594,72.8574,2025,3,2,2,864,2,14,Apartment,Semi-Furnished,14600000,16898
+MUM-11271,Goregaon West,Western Suburbs,19.1752,72.8509,2025,9,2,2,996,27,6,Apartment,Unfurnished,15300000,15361
+MUM-11294,Goregaon West,Western Suburbs,19.1634,72.8399,2025,12,2,2,1024,5,14,Apartment,Fully Furnished,16600000,16211
+MUM-11297,Goregaon West,Western Suburbs,19.1567,72.8458,2025,7,2,2,990,11,25,Apartment,Unfurnished,14200000,14343
+MUM-11419,Goregaon West,Western Suburbs,19.1633,72.8584,2025,2,4,4,1957,9,5,Apartment,Unfurnished,31400000,16045
+MUM-11437,Goregaon West,Western Suburbs,19.1657,72.8476,2025,9,1,1,460,30,17,Studio,Semi-Furnished,7000000,15217
+MUM-11472,Goregaon West,Western Suburbs,19.1661,72.8476,2025,10,1,1,424,19,12,Apartment,Semi-Furnished,7400000,17453
+MUM-11483,Goregaon West,Western Suburbs,19.1631,72.8496,2025,3,2,2,857,21,1,Apartment,Fully Furnished,16500000,19253
+MUM-10007,Juhu,Western Suburbs,19.1076,72.8285,2025,4,2,2,991,28,1,Apartment,Unfurnished,29700000,29970
+MUM-10063,Juhu,Western Suburbs,19.1058,72.8249,2025,11,3,3,1225,24,6,Apartment,Unfurnished,32400000,26449
+MUM-10184,Juhu,Western Suburbs,19.1096,72.8234,2025,4,2,2,782,23,2,Apartment,Unfurnished,23400000,29923
+MUM-10241,Juhu,Western Suburbs,19.1047,72.8259,2025,2,3,3,1291,24,13,Apartment,Unfurnished,44000000,34082
+MUM-10497,Juhu,Western Suburbs,19.1052,72.8235,2025,5,2,2,990,26,10,Apartment,Semi-Furnished,25300000,25556
+MUM-10886,Juhu,Western Suburbs,19.1108,72.8243,2025,2,4,4,2452,6,8,Apartment,Semi-Furnished,70600000,28793
+MUM-10928,Juhu,Western Suburbs,19.1091,72.8189,2025,6,2,1,1033,5,3,Apartment,Unfurnished,28800000,27880
+MUM-11229,Juhu,Western Suburbs,19.1075,72.8191,2025,3,2,2,742,8,12,Apartment,Unfurnished,21900000,29515
+MUM-11409,Juhu,Western Suburbs,19.1091,72.8298,2025,5,1,1,605,25,11,Apartment,Unfurnished,16700000,27603
+MUM-10024,Kandivali West,Western Suburbs,19.1991,72.8585,2025,4,3,3,1426,13,24,Apartment,Unfurnished,16200000,11360
+MUM-10146,Kandivali West,Western Suburbs,19.1996,72.8443,2025,8,2,2,942,25,16,Apartment,Unfurnished,11400000,12102
+MUM-10417,Kandivali West,Western Suburbs,19.1966,72.8469,2025,3,2,1,762,3,20,Apartment,Fully Furnished,11100000,14567
+MUM-10734,Kandivali West,Western Suburbs,19.2031,72.8459,2025,2,3,3,1372,2,23,Apartment,Unfurnished,16500000,12026
+MUM-10866,Kandivali West,Western Suburbs,19.2058,72.8524,2025,10,2,1,848,15,13,Apartment,Unfurnished,11700000,13797
+MUM-11089,Kandivali West,Western Suburbs,19.2039,72.8491,2025,4,3,3,1374,24,23,Apartment,Unfurnished,16600000,12082
+MUM-11135,Kandivali West,Western Suburbs,19.2004,72.8526,2025,3,1,1,629,18,8,Apartment,Unfurnished,9300000,14785
+MUM-11154,Kandivali West,Western Suburbs,19.2063,72.8522,2025,11,2,2,998,30,2,Apartment,Fully Furnished,15900000,15932
+MUM-11208,Kandivali West,Western Suburbs,19.2,72.8481,2025,6,4,4,2260,17,5,Apartment,Unfurnished,30500000,13496
+MUM-11228,Kandivali West,Western Suburbs,19.1965,72.8515,2025,9,2,2,836,28,18,Apartment,Semi-Furnished,12900000,15431
+MUM-11363,Kandivali West,Western Suburbs,19.202,72.8546,2025,5,3,3,1554,7,25,Apartment,Unfurnished,20300000,13063
+MUM-11369,Kandivali West,Western Suburbs,19.2048,72.8482,2025,5,3,3,1406,15,10,Apartment,Unfurnished,18200000,12945
+MUM-11476,Kandivali West,Western Suburbs,19.2055,72.8547,2025,3,4,4,2030,28,18,Villa,Unfurnished,30600000,15074
+MUM-10013,Lower Parel,South Mumbai,19.0013,72.8334,2025,1,2,3,867,9,9,Apartment,Semi-Furnished,25100000,28950
+MUM-10112,Lower Parel,South Mumbai,19.0018,72.83,2025,2,1,1,533,5,8,Apartment,Unfurnished,14900000,27955
+MUM-10479,Lower Parel,South Mumbai,19.0029,72.8296,2025,9,3,3,1645,8,14,Apartment,Unfurnished,38700000,23526
+MUM-10646,Lower Parel,South Mumbai,19.0013,72.8299,2025,1,1,1,445,8,24,Apartment,Fully Furnished,13300000,29888
+MUM-10715,Lower Parel,South Mumbai,19.0064,72.8323,2025,1,4,4,1721,22,11,Apartment,Unfurnished,49500000,28762
+MUM-11246,Lower Parel,South Mumbai,19.0022,72.8296,2025,8,1,1,498,28,12,Apartment,Unfurnished,17700000,35542
+MUM-11282,Lower Parel,South Mumbai,19.0011,72.8331,2025,2,4,4,2047,20,22,Apartment,Semi-Furnished,54600000,26673
+MUM-11291,Lower Parel,South Mumbai,18.9905,72.8285,2025,7,2,2,839,20,15,Apartment,Semi-Furnished,26500000,31585
+MUM-11357,Lower Parel,South Mumbai,19.0007,72.8279,2025,10,4,4,2078,9,23,Apartment,Unfurnished,66500000,32002
+MUM-11492,Lower Parel,South Mumbai,19.004,72.8313,2025,2,4,4,2415,29,19,Apartment,Unfurnished,74000000,30642
+MUM-10130,Malabar Hill,South Mumbai,18.957,72.7978,2025,8,1,1,642,12,15,Apartment,Fully Furnished,35700000,55607
+MUM-10243,Malabar Hill,South Mumbai,18.9522,72.8019,2025,10,4,4,2284,23,13,Apartment,Unfurnished,109700000,48030
+MUM-10465,Malabar Hill,South Mumbai,18.9531,72.795,2025,7,2,2,1005,25,13,Apartment,Fully Furnished,54600000,54328
+MUM-10504,Malabar Hill,South Mumbai,18.9595,72.8024,2025,8,4,4,1971,20,15,Apartment,Unfurnished,83000000,42111
+MUM-10762,Malabar Hill,South Mumbai,18.9513,72.8041,2025,9,2,2,800,6,25,Apartment,Unfurnished,33600000,42000
+MUM-11082,Malabar Hill,South Mumbai,18.9498,72.7951,2025,8,2,3,834,12,15,Apartment,Unfurnished,47300000,56715
+MUM-11326,Malabar Hill,South Mumbai,18.9561,72.7943,2025,5,3,4,1115,13,21,Apartment,Fully Furnished,63400000,56861
+MUM-11444,Malabar Hill,South Mumbai,18.9584,72.7992,2025,8,4,4,2074,23,1,Apartment,Semi-Furnished,110300000,53182
+MUM-11498,Malabar Hill,South Mumbai,18.956,72.7934,2025,9,2,3,789,16,25,Apartment,Unfurnished,35300000,44740
+MUM-10154,Malad West,Western Suburbs,19.1789,72.8448,2025,8,2,2,1008,9,19,Apartment,Unfurnished,13700000,13591
+MUM-10204,Malad West,Western Suburbs,19.1811,72.8526,2025,12,2,2,839,28,1,Apartment,Unfurnished,13200000,15733
+MUM-10238,Malad West,Western Suburbs,19.1853,72.8454,2025,10,1,1,594,15,8,Apartment,Semi-Furnished,8700000,14646
+MUM-10269,Malad West,Western Suburbs,19.1746,72.8492,2025,6,1,1,555,16,8,Studio,Fully Furnished,8500000,15315
+MUM-10334,Malad West,Western Suburbs,19.1839,72.8439,2025,6,4,4,1777,17,4,Apartment,Semi-Furnished,26100000,14688
+MUM-10881,Malad West,Western Suburbs,19.1879,72.8459,2025,8,2,2,791,7,25,Apartment,Fully Furnished,11900000,15044
+MUM-11005,Malad West,Western Suburbs,19.1946,72.8466,2025,9,3,3,1249,5,9,Apartment,Unfurnished,18700000,14972
+MUM-11039,Malad West,Western Suburbs,19.1797,72.8458,2025,7,3,3,1599,16,12,Apartment,Fully Furnished,22600000,14134
+MUM-11182,Malad West,Western Suburbs,19.1849,72.8431,2025,1,3,3,1146,13,23,Apartment,Unfurnished,17100000,14921
+MUM-11220,Malad West,Western Suburbs,19.1912,72.847,2025,5,1,1,521,15,16,Studio,Unfurnished,6700000,12860
+MUM-11285,Malad West,Western Suburbs,19.1889,72.8462,2025,1,3,2,1348,22,10,Apartment,Fully Furnished,23100000,17136
+MUM-11371,Malad West,Western Suburbs,19.1807,72.8451,2025,7,2,2,776,4,21,Apartment,Unfurnished,11400000,14691
+MUM-11406,Malad West,Western Suburbs,19.1861,72.8499,2025,10,3,3,1334,4,18,Apartment,Semi-Furnished,18000000,13493
+MUM-11453,Malad West,Western Suburbs,19.1906,72.8498,2025,1,2,2,781,8,2,Apartment,Semi-Furnished,11700000,14981
+MUM-10079,Mulund West,Central Suburbs,19.1736,72.9489,2025,1,2,2,774,22,16,Apartment,Unfurnished,10700000,13824
+MUM-10092,Mulund West,Central Suburbs,19.1685,72.9565,2025,1,3,3,1485,8,18,Apartment,Semi-Furnished,19900000,13401
+MUM-10455,Mulund West,Central Suburbs,19.1734,72.9578,2025,11,1,1,649,25,14,Apartment,Semi-Furnished,10100000,15562
+MUM-10571,Mulund West,Central Suburbs,19.1701,72.9601,2025,11,1,1,583,26,2,Apartment,Fully Furnished,8900000,15266
+MUM-10594,Mulund West,Central Suburbs,19.1609,72.9609,2025,11,1,1,435,3,17,Studio,Semi-Furnished,5900000,13563
+MUM-10620,Mulund West,Central Suburbs,19.1754,72.9582,2025,11,3,4,1444,24,23,Apartment,Semi-Furnished,19200000,13296
+MUM-10788,Mulund West,Central Suburbs,19.1754,72.9562,2025,10,2,2,761,7,25,Apartment,Semi-Furnished,9700000,12746
+MUM-10859,Mulund West,Central Suburbs,19.1723,72.9552,2025,8,2,2,903,12,19,Apartment,Semi-Furnished,11600000,12846
+MUM-11079,Mulund West,Central Suburbs,19.1619,72.9544,2025,11,2,3,864,13,11,Apartment,Semi-Furnished,13100000,15162
+MUM-11132,Mulund West,Central Suburbs,19.1791,72.9568,2025,10,4,4,2044,4,25,Apartment,Unfurnished,26500000,12965
+MUM-11441,Mulund West,Central Suburbs,19.1803,72.9608,2025,6,3,3,1114,2,7,Apartment,Unfurnished,15300000,13734
+MUM-11467,Mulund West,Central Suburbs,19.1768,72.9566,2025,4,3,3,1237,12,17,Apartment,Semi-Furnished,17400000,14066
+MUM-11482,Mulund West,Central Suburbs,19.1748,72.9539,2025,12,2,2,738,17,2,Apartment,Unfurnished,11100000,15041
+MUM-10035,Powai,Eastern Suburbs,19.1213,72.9059,2025,6,1,1,601,22,3,Studio,Semi-Furnished,10800000,17970
+MUM-10065,Powai,Eastern Suburbs,19.1126,72.9073,2025,6,3,2,1499,7,15,Apartment,Fully Furnished,30200000,20147
+MUM-10187,Powai,Eastern Suburbs,19.1227,72.9032,2025,5,2,2,905,24,7,Apartment,Semi-Furnished,16800000,18564
+MUM-10362,Powai,Eastern Suburbs,19.1163,72.8998,2025,2,3,3,1510,29,21,Apartment,Fully Furnished,26100000,17285
+MUM-10416,Powai,Eastern Suburbs,19.1212,72.9074,2025,1,2,2,1037,21,24,Apartment,Fully Furnished,18500000,17840
+MUM-10750,Powai,Eastern Suburbs,19.1149,72.8978,2025,5,4,4,2568,14,14,Apartment,Semi-Furnished,44800000,17445
+MUM-10903,Powai,Eastern Suburbs,19.1198,72.9052,2025,10,1,2,476,4,7,Apartment,Semi-Furnished,8700000,18277
+MUM-11004,Powai,Eastern Suburbs,19.1192,72.9134,2025,9,1,1,613,13,20,Apartment,Unfurnished,10300000,16803
+MUM-11009,Powai,Eastern Suburbs,19.1175,72.9027,2025,12,3,3,1125,12,22,Apartment,Semi-Furnished,21200000,18844
+MUM-11073,Powai,Eastern Suburbs,19.1131,72.9018,2025,6,4,4,2597,22,10,Apartment,Unfurnished,44900000,17289
+MUM-11180,Powai,Eastern Suburbs,19.1158,72.906,2025,2,1,1,519,27,7,Apartment,Fully Furnished,9200000,17726
+MUM-11219,Powai,Eastern Suburbs,19.1161,72.9072,2025,2,2,2,877,25,22,Apartment,Semi-Furnished,17000000,19384
+MUM-11334,Powai,Eastern Suburbs,19.1142,72.903,2025,12,2,2,781,4,10,Apartment,Semi-Furnished,14300000,18310
+MUM-10074,Santacruz West,Western Suburbs,19.0868,72.8329,2025,9,1,1,451,4,3,Apartment,Unfurnished,12900000,28603
+MUM-10123,Santacruz West,Western Suburbs,19.0833,72.8338,2025,12,2,2,1023,25,20,Apartment,Unfurnished,25600000,25024
+MUM-10345,Santacruz West,Western Suburbs,19.0903,72.8424,2025,4,2,2,898,5,23,Apartment,Unfurnished,22800000,25390
+MUM-10400,Santacruz West,Western Suburbs,19.083,72.8397,2025,1,2,2,947,17,11,Apartment,Semi-Furnished,26100000,27561
+MUM-10454,Santacruz West,Western Suburbs,19.0821,72.8262,2025,10,4,4,1945,14,22,Apartment,Unfurnished,49800000,25604
+MUM-10629,Santacruz West,Western Suburbs,19.0831,72.8319,2025,11,2,2,967,19,12,Apartment,Fully Furnished,25000000,25853
+MUM-10677,Santacruz West,Western Suburbs,19.0806,72.8345,2025,9,2,2,857,9,18,Apartment,Semi-Furnished,24600000,28705
+MUM-10726,Santacruz West,Western Suburbs,19.0887,72.8341,2025,2,3,2,1422,5,16,Apartment,Semi-Furnished,36600000,25738
+MUM-10835,Santacruz West,Western Suburbs,19.0756,72.8381,2025,7,2,2,894,28,13,Apartment,Semi-Furnished,25400000,28412
+MUM-10875,Santacruz West,Western Suburbs,19.0747,72.837,2025,8,2,1,959,24,9,Apartment,Semi-Furnished,22300000,23253
+MUM-10883,Santacruz West,Western Suburbs,19.0749,72.8397,2025,4,2,3,750,3,23,Apartment,Semi-Furnished,20100000,26800
+MUM-10915,Santacruz West,Western Suburbs,19.0813,72.8327,2025,8,3,3,1405,1,15,Villa,Unfurnished,42400000,30178
+MUM-10989,Santacruz West,Western Suburbs,19.0794,72.8361,2025,4,3,3,1242,25,9,Apartment,Unfurnished,32900000,26490
+MUM-11050,Santacruz West,Western Suburbs,19.0822,72.8324,2025,12,2,2,954,11,10,Apartment,Semi-Furnished,26500000,27778
+MUM-11131,Santacruz West,Western Suburbs,19.0827,72.8316,2025,8,3,3,1554,2,1,Apartment,Unfurnished,40000000,25740
+MUM-11336,Santacruz West,Western Suburbs,19.0827,72.836,2025,5,2,1,902,17,6,Apartment,Unfurnished,21800000,24169
+MUM-11366,Santacruz West,Western Suburbs,19.0769,72.837,2025,1,2,2,952,30,3,Apartment,Unfurnished,24700000,25945
+MUM-11372,Santacruz West,Western Suburbs,19.0799,72.8379,2025,3,4,4,1948,10,20,Apartment,Unfurnished,45600000,23409
+MUM-11420,Santacruz West,Western Suburbs,19.0847,72.8403,2025,9,4,4,2024,30,6,Apartment,Semi-Furnished,55600000,27470
+MUM-11440,Santacruz West,Western Suburbs,19.0827,72.8429,2025,8,3,3,1391,29,11,Apartment,Semi-Furnished,34900000,25090
+MUM-10031,Thane West,Thane / Navi Mumbai,19.2168,72.9783,2025,11,2,2,974,29,8,Apartment,Semi-Furnished,12700000,13039
+MUM-10125,Thane West,Thane / Navi Mumbai,19.2151,72.9755,2025,7,2,2,975,30,8,Apartment,Semi-Furnished,12200000,12513
+MUM-10215,Thane West,Thane / Navi Mumbai,19.2232,72.9805,2025,6,1,1,480,15,8,Apartment,Semi-Furnished,5500000,11458
+MUM-10255,Thane West,Thane / Navi Mumbai,19.2199,72.9871,2025,6,4,4,2016,5,5,Apartment,Semi-Furnished,22100000,10962
+MUM-10301,Thane West,Thane / Navi Mumbai,19.2181,72.9809,2025,1,4,3,1860,28,22,Apartment,Semi-Furnished,21300000,11452
+MUM-10339,Thane West,Thane / Navi Mumbai,19.2247,72.98,2025,11,2,2,813,3,11,Apartment,Semi-Furnished,10400000,12792
+MUM-10364,Thane West,Thane / Navi Mumbai,19.2205,72.9794,2025,10,2,2,775,24,24,Apartment,Semi-Furnished,9300000,12000
+MUM-10369,Thane West,Thane / Navi Mumbai,19.2204,72.9774,2025,4,1,1,634,21,9,Apartment,Unfurnished,7400000,11672
+MUM-10501,Thane West,Thane / Navi Mumbai,19.2194,72.9763,2025,6,2,2,1027,10,4,Apartment,Unfurnished,12300000,11977
+MUM-10520,Thane West,Thane / Navi Mumbai,19.2164,72.9727,2025,4,2,2,919,23,15,Apartment,Unfurnished,9800000,10664
+MUM-10586,Thane West,Thane / Navi Mumbai,19.2114,72.9769,2025,12,3,3,1545,18,15,Apartment,Unfurnished,17000000,11003
+MUM-10615,Thane West,Thane / Navi Mumbai,19.2154,72.9748,2025,4,1,2,446,23,20,Apartment,Semi-Furnished,5700000,12780
+MUM-10653,Thane West,Thane / Navi Mumbai,19.2217,72.9795,2025,1,2,2,871,24,12,Apartment,Semi-Furnished,11400000,13088
+MUM-10673,Thane West,Thane / Navi Mumbai,19.2157,72.9724,2025,8,2,2,952,14,6,Apartment,Semi-Furnished,12800000,13445
+MUM-10745,Thane West,Thane / Navi Mumbai,19.218,72.9687,2025,11,1,1,507,29,21,Apartment,Semi-Furnished,6400000,12623
+MUM-10834,Thane West,Thane / Navi Mumbai,19.2227,72.9776,2025,4,3,2,1192,29,6,Apartment,Unfurnished,14100000,11829
+MUM-10911,Thane West,Thane / Navi Mumbai,19.2202,72.9813,2025,9,2,2,1034,4,20,Apartment,Unfurnished,11500000,11122
+MUM-11290,Thane West,Thane / Navi Mumbai,19.2185,72.9804,2025,3,2,2,849,22,1,Apartment,Fully Furnished,12600000,14841
+MUM-10051,Vashi,Thane / Navi Mumbai,19.0802,72.9994,2025,5,3,3,1322,23,8,Apartment,Semi-Furnished,17900000,13540
+MUM-10135,Vashi,Thane / Navi Mumbai,19.0784,73.0057,2025,1,1,2,466,12,18,Apartment,Fully Furnished,5800000,12446
+MUM-10156,Vashi,Thane / Navi Mumbai,19.0776,73.0009,2025,12,1,1,481,8,10,Apartment,Fully Furnished,6300000,13098
+MUM-10330,Vashi,Thane / Navi Mumbai,19.0764,72.9953,2025,11,2,2,901,5,22,Apartment,Unfurnished,11800000,13097
+MUM-10389,Vashi,Thane / Navi Mumbai,19.0868,72.9916,2025,3,4,3,2188,1,11,Apartment,Unfurnished,25200000,11517
+MUM-10554,Vashi,Thane / Navi Mumbai,19.0722,72.9977,2025,5,2,3,923,16,5,Apartment,Semi-Furnished,13200000,14301
+MUM-10933,Vashi,Thane / Navi Mumbai,19.0776,72.9961,2025,4,2,2,882,2,13,Apartment,Semi-Furnished,11100000,12585
+MUM-11038,Vashi,Thane / Navi Mumbai,19.0769,72.9996,2025,3,3,2,1613,27,4,Apartment,Unfurnished,24000000,14879
+MUM-10001,Vile Parle West,Western Suburbs,19.0998,72.8443,2025,7,3,2,1309,3,21,Apartment,Unfurnished,31900000,24370
+MUM-10140,Vile Parle West,Western Suburbs,19.1028,72.846,2025,4,4,3,2164,5,9,Apartment,Unfurnished,50100000,23152
+MUM-10172,Vile Parle West,Western Suburbs,19.0996,72.8449,2025,6,1,1,436,18,19,Apartment,Fully Furnished,11000000,25229
+MUM-10436,Vile Parle West,Western Suburbs,19.1018,72.8443,2025,1,1,2,495,20,9,Apartment,Unfurnished,12800000,25859
+MUM-10518,Vile Parle West,Western Suburbs,19.1004,72.8408,2025,2,2,2,929,9,24,Apartment,Unfurnished,21000000,22605
+MUM-10555,Vile Parle West,Western Suburbs,19.0975,72.8443,2025,6,2,1,1005,26,4,Apartment,Semi-Furnished,26700000,26567
+MUM-10585,Vile Parle West,Western Suburbs,19.0999,72.8495,2025,12,2,3,933,21,2,Apartment,Semi-Furnished,25400000,27224
+MUM-10660,Vile Parle West,Western Suburbs,19.0979,72.8441,2025,10,2,2,984,2,25,Apartment,Unfurnished,21200000,21545
+MUM-10833,Vile Parle West,Western Suburbs,19.0991,72.846,2025,10,2,2,839,2,3,Apartment,Fully Furnished,23500000,28010
+MUM-10970,Vile Parle West,Western Suburbs,19.1016,72.8432,2025,3,1,1,444,2,18,Apartment,Semi-Furnished,10300000,23198
+MUM-10972,Vile Parle West,Western Suburbs,19.1034,72.8379,2025,1,2,2,953,18,7,Apartment,Semi-Furnished,25200000,26443
+MUM-11342,Vile Parle West,Western Suburbs,19.1,72.8398,2025,9,3,3,1291,19,13,Apartment,Semi-Furnished,30800000,23857
+MUM-10236,Worli,South Mumbai,19.002,72.8142,2025,11,1,2,435,3,21,Apartment,Semi-Furnished,12600000,28966
+MUM-10251,Worli,South Mumbai,18.9978,72.8216,2025,1,1,1,486,11,21,Studio,Unfurnished,16300000,33539
+MUM-10383,Worli,South Mumbai,18.9907,72.8166,2025,1,2,2,981,22,15,Apartment,Semi-Furnished,34700000,35372
+MUM-10543,Worli,South Mumbai,18.9973,72.8146,2025,12,2,2,928,28,2,Apartment,Unfurnished,31000000,33405
+MUM-10680,Worli,South Mumbai,18.9971,72.8173,2025,7,2,2,840,18,20,Apartment,Unfurnished,28500000,33929
+MUM-10712,Worli,South Mumbai,18.994,72.8165,2025,7,3,3,1612,6,22,Apartment,Semi-Furnished,55800000,34615
+MUM-10943,Worli,South Mumbai,18.9961,72.8153,2025,3,2,2,888,8,11,Apartment,Semi-Furnished,29900000,33671
+MUM-11070,Worli,South Mumbai,18.9976,72.8199,2025,4,2,3,938,29,11,Apartment,Semi-Furnished,36600000,39019
+MUM-11323,Worli,South Mumbai,18.9992,72.8178,2025,12,1,1,455,5,6,Studio,Fully Furnished,15000000,32967
